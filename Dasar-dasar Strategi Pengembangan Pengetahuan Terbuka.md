@@ -1,17 +1,21 @@
 Dasar-dasar Strategi Pengembangan Pengetahuan Terbuka
 
-Version 1.0 | October 16, 2017 (in prep.)
+Versi 1.0 | 16 Oktober 2017 (dalam persiapan)
+Versi 1.0 | Juli 2018 (terjemahan)
 
-Drafting Committee: [Jonathan Tennant](https://orcid.org/0000-0001-7794-0218), Jonathan Dugan, Rachel Harding, Tony Ross-Hellauer, [Kshitiz Khanal]( https://orcid.org/0000-0002-4765-4832), [Thomas Pasquier](https://orcid.org/0000-0001-6876-1306), Jeroen Bosman, [Asura Enkhbayar](https://orcid.org/0000-0002-3934-026X), Gail Clement, [David Eccles](https://orcid.org/0000-0003-4634-4995), [Fiona Bradley](https://orcid.org/0000-0002-3622-2794), ([Björn Brembs]( http://orcid.org/0000-0001-7824-7650)), (Pawel Szczesny), Lisa Matthias, [Jesper Nørgaard Kjær](http://orcid.org/0000-0001-9183-9861), [Daniel S. Katz](http://orcid.org/0000-0001-5934-7525), [Tom Crick](https://orcid.org/0000-0001-5196-9389), [Christopher R. Madan](https://orcid.org/0000-0003-3228-6501), [Paul Macklin](https://orcid.org/0000-0002-9925-0151), [Johanna Havemann](https://orcid.org/0000-0002-6157-1494), [Jennifer E. Beamer](https://orcid.org/0000-0001-6887-6568), [Michael Schulte-Mecklenbeck](https://orcid.org/0000-0002-0406-8809), Dan Sholler, Paola Masuzzo, [Tobias Steiner](https://orcid.org/0000-0002-3158-3136), [Tim Koder](https://orcid.org/0000-0001-6152-7365), [David Nichols](https://orcid.org/0000-0003-0321-7267), [Daniel Graziotin](https://orcid.org/0000-0002-9107-7681), Alastair Dunning, [Andy Turner](http://orcid.org/0000-0002-6098-6313), [Neo Christopher Chung](https://orcid.org/0000-0001-6798-8867)
+Komite Penulis: [Jonathan Tennant](https://orcid.org/0000-0001-7794-0218), Jonathan Dugan, Rachel Harding, Tony Ross-Hellauer, [Kshitiz Khanal]( https://orcid.org/0000-0002-4765-4832), [Thomas Pasquier](https://orcid.org/0000-0001-6876-1306), Jeroen Bosman, [Asura Enkhbayar](https://orcid.org/0000-0002-3934-026X), Gail Clement, [David Eccles](https://orcid.org/0000-0003-4634-4995), [Fiona Bradley](https://orcid.org/0000-0002-3622-2794), ([Björn Brembs]( http://orcid.org/0000-0001-7824-7650)), (Pawel Szczesny), Lisa Matthias, [Jesper Nørgaard Kjær](http://orcid.org/0000-0001-9183-9861), [Daniel S. Katz](http://orcid.org/0000-0001-5934-7525), [Tom Crick](https://orcid.org/0000-0001-5196-9389), [Christopher R. Madan](https://orcid.org/0000-0003-3228-6501), [Paul Macklin](https://orcid.org/0000-0002-9925-0151), [Johanna Havemann](https://orcid.org/0000-0002-6157-1494), [Jennifer E. Beamer](https://orcid.org/0000-0001-6887-6568), [Michael Schulte-Mecklenbeck](https://orcid.org/0000-0002-0406-8809), Dan Sholler, Paola Masuzzo, [Tobias Steiner](https://orcid.org/0000-0002-3158-3136), [Tim Koder](https://orcid.org/0000-0001-6152-7365), [David Nichols](https://orcid.org/0000-0003-0321-7267), [Daniel Graziotin](https://orcid.org/0000-0002-9107-7681), Alastair Dunning, [Andy Turner](http://orcid.org/0000-0002-6098-6313), [Neo Christopher Chung](https://orcid.org/0000-0001-6798-8867)
 
-[Contact](mailto:jon.tennant.2@gmail.com)
+Penerjemah: Tim Sains Terbuka - Surya Dalimunthe, Afrilya, Dasapta Erwin Irawan, Juneman Abraham, Sami Kandha Dipura 
+
+[Hubungi Perwakilan Penulis](mailto:jon.tennant.2@gmail.com)
+[Hubungi Perwakilan Penerjemah](mailto:surya@alumni.nus.edu.sg)
 
 
-# 1. Purpose of this Document
+# 1. Tujuan Dokumen
 
-*This document aims to agree on a broad, international strategy for the implementation of open scholarship that meets the needs of different national and regional communities but works globally.*
+*Dokumen ini mengandung strategi penerapan pengetahuan terbuka untuk tingkat regional, nasional, dan internasional.*
 
-See the [README](README.md) file for more detail.
+Lihat lebih rinci di dokumen [README](README.md).
 
 # 2. Strategy
 
