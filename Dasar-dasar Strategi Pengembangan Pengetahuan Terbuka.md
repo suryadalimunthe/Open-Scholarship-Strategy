@@ -1,4 +1,4 @@
-Foundations for Open Scholarship Strategy Development
+Dasar-dasar Strategi Pengembangan Pengetahuan Terbuka
 
 Version 1.0 | October 16, 2017 (in prep.)
 
