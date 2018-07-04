@@ -60,7 +60,7 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 1. Tanda tangani Deklarasi San Francisco Declaration on Research Assessment (DORA) (NOTE:  DORA.) sebagai bentuk komitmen dalam meningkatkan penilaian penelitian.
 
-**Kelompok**** Level**** (laboratorium, departemen)**
+**Kelompok**** Tingkat**** (laboratorium, departemen)**
 
 1.Mendirikan pusat pengetahuan terbuka (tempat atau kelompok untuk berdiskusi) dan menghubungkan mereka untuk pengembangan komunitas. 
   1. If a local one does not yet exist, establish it.
@@ -79,39 +79,39 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 1. Meningkatkan keterlibatan badan penasehat fakultas, peneliti, mahasiswa, dan pustakawan.
 
-**Level Kelembagaan (termasuk badan penelitian dan pendanaan)**
+**Tingkat Kelembagaan (termasuk badan penelitian dan pendanaan)**
 
-1. Perpustakaan penelitian harus mengumpulkan informasi tentang bagaimana berinteraksi Research libraries should collect information about how the sector as a whole interacts with the research literature. Such information could be used to help negotiations, break up publisher big deals, and cancel subscriptions by providing evidence into the cross-sectorial value of services, and includes: 
+1. Perpustakaan penelitian sebaiknya mengumpulkan informasi secara meneyeluruh tentang literatur penelitian. Informasi itu dapat digunakan untuk membantu negosiasi, memutuskan hubungan dengan penerbit mahal, dan membatalkan berlangganan dengan memberikan bukti ke dalam layanan lintas sektoral, yang berisi:
 
-    1. Which venues researchers are publishing in;
+    1. Di mana peneliti dapat menerbitkan;
 
-    1. Who is doing the editorial and peer review work;
+    1. Siapa dewan editor dan penelaah sejawat;
 
-    1. How much is being spent on serial subscriptions; 
+    1. Berapa biaya untuk berlangganan penerbitan;
 
-    1. How much is being spent on Article Processing Charges (APCs) for Open Access; and 
+    1. Berapa biaya pemrosesan artikel untuk akses terbuka; dan
 
-    1. Which articles are being downloaded and cited. 
+    1. Artikel mana yang sedang diunduh dan dikutip. 
 
 1. Map and coordinate when current subscription and ‘big deal’ licenses will run out across institutes, and let it happen. Where cancellations or terminations occur, ensure that there is adequate post-subscription access using existing legal mechanisms (e.g., Inter-Library Loan). Explore routes for reinvesting money saved for library budgets.
 
 1. Purchase back any legacy documents and incorporate them into the scholarly body of work. Also improve the open sharing and archiving of legacy articles on which copyright has expired (NOTE:  Author Alliance termination of transfer tool.).
 
-1. Research funders can define the limits of what is an acceptable standard of publication. They therefore have the power to mandate publication in journals with a cap on APCs, or in OA-only venues, or in those with short or zero-length embargoes (e.g., Emerald, The Royal Society).
+1. Pendana penelitian dapat menentukan batas-batas apa yang menjadi standar publikasi yang dapat diterima. Research funders can define the limits of what is an acceptable standard of publication. They therefore have the power to mandate publication in journals with a cap on APCs, or in OA-only venues, or in those with short or zero-length embargoes (e.g., Emerald, The Royal Society).
 
-1. Development of rights retention policies for scholarly research at research institutes that currently lack them.
+1. Mengmbangkan kebijakan penyimpanan hak cipta penelitian ilmiah di lembaga penelitian yang merupakan  kekurangan mereka saat ini.
 
-1. Adoption of the CRediT (Contributor Rules Taxonomy) guidelines (NOTE:  CASRAI CRediT scheme.) to help identify author contributions more clearly.
+1. Mengadopsi pedoman aturan kontributor (CRediT - Contributor Rules Taxonomy)  (catatan:  CASRAI CRediT scheme.) untuk membantu mengidentifikasi kontribusi penulis lebih jelas.
 
-1. Encourage further adoption by publishers of the Initiative for Open Citations (NOTE:  Initiative for Open Citations.) (I4OC) in conjunction with the wider uptake of open standards.
+1. Mendorong penginisiasian penerbit terhadap kutipan terbuka (NOTE:  Initiative for Open Citations.) (I4OC) dalam hubungannya dengan standar keterbukaan yang lebih luas.
 
-1. For research institutes that currently lack them, either launch and maintain an Open Access repository or find an existing resource to use, and adopt an Open Access policy (NOTE:  Good practices for university open-access policies, Harvard University.). Make these easily discoverable and accessible on the institutional website.
+1. Bagi lembaga penelitian yang saat ini kesulitan, baik mengadakan dan memelihara tempat penyimpanan akses terbuka atau mengetahui sumber yang sudah ada untuk digunakan dan mengadopsi kebijakan akses terbuka (NOTE:  Good practices for university open-access policies, Harvard University.). Buatlah agar mudah ditemukan dan dapat diakses di situs web lembaga.
 
-1. Promote and compensate time and effort spent on training and advocacy for the various aspects of Open Scholarship, including Open Source, Open Access, and Open Education.
+1. Mempromosikan dan mengkompensasi waktu dan usaha untuk pelatihan pengetahuan terbuka, termasuk sumber terbuka, akses terbuka, dan pendidikan terbuka.
 
 1. Engage with research communities to develop and advertise quantifiable incentives for sharing preprints, open data, reproducible analyses, and OA in hiring, promotion, and tenure decisions. Define new ways of describing these wider contributions to scientific communities.
 
-**National Level (or higher)**
+**Tingkat Nasional (atau lebih tinggi)**
 
 1. Create new or support/contact existing international library consortia/collaborations (e.g., the International Coalition of Library Consortia (NOTE:  International Coalition of Library Consortia. )) to co-operate on infrastructure developments (e.g., [LIBER](http://libereurope.eu/), [EIFL](http://www.eifl.net/), [ARL](http://www.arl.org/), [SPARC](https://sparcopen.org/)).
 
