@@ -67,7 +67,7 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 1. Menetapkan pakar hak cipta yang dapat membantu terkait hal-hal hak cipta dan  Establish rights experts who might help with questions regarding copyright issues and penggunaan lisensi Creative Commons.
 
-1. Mengamati praktik terbaik untuk membuktikan apa sebenarnya pengetahuan terbuka dan bagaimana dampak postifnya.
+1. Mengamati praktik terbaik untuk mengetahui apa sebenarnya pengetahuan terbuka dan bagaimana dampak postifnya.
 
 1. Mengadopsi praktik terbaik pengetahuan terbuka, termasuk data bersama sebagai hasil penelitian dan mengatasi bias publikasi dan "praktik penelitian yang diragukan" dengan alur kerja yang mengurangi hal tersebut.
 
@@ -75,7 +75,7 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 1. Mempengaruhi penyedia layanan peringkat universitas (Times Higher Education) agar memasukkan unsur-unsur keterbukaan dalam indikator mereka.
 
-1. Memprakarsai diskusi tentang standar dan praktik terbaik pada tingkat disiplin terhadap publikasi data (the FAIR principles).
+1. Memprakarsai diskusi tentang standar dan praktik terbaik tentang prinsip-prinsip publikasi data (the FAIR principles).
 
 1. Meningkatkan keterlibatan badan penasehat fakultas, peneliti, mahasiswa, dan pustakawan.
 
@@ -109,13 +109,13 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 1. Mempromosikan dan mengkompensasi waktu dan usaha untuk pelatihan pengetahuan terbuka, termasuk sumber terbuka, akses terbuka, dan pendidikan terbuka.
 
-1. Engage with research communities to develop and advertise quantifiable incentives for sharing preprints, open data, reproducible analyses, and OA in hiring, promotion, and tenure decisions. Define new ways of describing these wider contributions to scientific communities.
+1. Melibatkan kelompok penelitian untuk mengembangkan dan mengiklankan insentif untuk yang membagikan pracetak, data terbuka, analisis penggandaan dan perekrutan akses terbuka, promosi dan jabatan. Tetapkan cara baru untuk menggambarkan kontribusi penelitian.
 
 **Tingkat Nasional (atau lebih tinggi)**
 
-1. Create new or support/contact existing international library consortia/collaborations (e.g., the International Coalition of Library Consortia (NOTE:  International Coalition of Library Consortia. )) to co-operate on infrastructure developments (e.g., [LIBER](http://libereurope.eu/), [EIFL](http://www.eifl.net/), [ARL](http://www.arl.org/), [SPARC](https://sparcopen.org/)).
+1. Menciptakan kolaborasi perpustakaan baru atau mendukung/bergabung dengan yang sudah ada(contohnya, the International Coalition of Library Consortia (NOTE:  International Coalition of Library Consortia. )) untuk bekerja sama dalam pengembangan infrastruktur (contohnya, [LIBER](http://libereurope.eu/), [EIFL](http://www.eifl.net/), [ARL](http://www.arl.org/), [SPARC](https://sparcopen.org/)).
 
-    1. Consortia like Projekt DEAL could provide examples of how to take the first step towards this at a national level. Support from SPARC for any such developments would also be useful.
+    1. Konsorsium seperti Projekt DEAL dapat memberikan contoh langkah-langkah awal di tingkat nasional. Support from SPARC for any such developments would also be useful.
 
 1. Build on faculty and funder support for OA and related quality assurance initiatives (e.g., peer review) that are decoupled from journals. Agree on a governance structure for a world-wide scholarly infrastructure. (e.g., [W3C](https://www.w3.org/)).
 
