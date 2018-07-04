@@ -17,31 +17,31 @@ Penerjemah: Tim Sains Terbuka - Surya Dalimunthe, Afrilya, Dasapta Erwin Irawan,
 
 Lihat lebih rinci di dokumen [README](README.md).
 
-# 2. Strategy
+# 2. Strategi
 
 "*Strategy generally involves setting goals, determining actions to achieve the **goals**, and mobilizing resources to execute the actions. A strategy describes how the ends (goals) will be achieved by the means (resources).*" (NOTE:  https://en.wikipedia.org/wiki/Strategy)
 
-In order to overcome the challenges and achieve our priorities, we need to build on our [strengths](#heading=h.pbiuybc6ey2). We have identified three main temporal components (short-, mid-, and long-term) of our overall strategy to be used as direct suggestions for action on the individual, group, institutional or national (or higher) level. 
+Untuk menghadapi berbagai tantangan dan melaksanakan apa yang diprioritaskan, perlu dibentuk sebuah kekuatan. Dalam hal ini, kami telah menyusun perencanaan pelaksanaan strategi yakni jangka pendek, menengah dan panjang,  yang dapat diterapkan oleh individu, kelompok, lembaga di tingkat nasional (atau lebih tinggi). 
 
-We note that, due to the diversity of actors and stakeholders and their views and practices, this strategy is not a consensus document. How the different aspects are prioritised is a matter of debate based on varying perspectives. Its effectiveness will be realised when individuals and communities can implement different parts of it as cultural norms develop and shift towards a more ‘open state’. Indeed, many view the progress of Open Scholarship in the last 2-3 decades as painfully insubstantive, a factor which might reflect its general lack of strategic thinking and implementation.
+Kami menyadari, dikarenakan adanya perbedaan pemain, pemegang kekuasaan dan cara pandang serta praktik mereka, maka strategi ini bukanlah sebuah dokumen konsensus. Berbagai perbedaan perspektif masih menjadi perdebatan. Pada akhirnya, keberhasilan strategi ini dapat terwujud jika setiap individu dan kelompok dapat melaksanakan tiap-tiap bagian strategi hingga kemudian menjadi budaya dan selanjutnya pelan-pelan berubah menuju 'negara terbuka'. Faktanya, perkembangan pengetahuan terbuka benar-benar menurun dalam 2-3 dekade terakhir, di mana salah satu faktornya adalah kurangnya pemikiran strategis dan juga penerapannya.
 
 We also note that this strategy can only be based on information which we as a collective have, and it remains highly likely that there are many initiatives, policies and programs that we have inadvertently missed. As such, it is probable that there are strategies that we have missed or not even considered. Nonetheless, we have attempted to justify our strategy where possible using evidence and reasoning, the discussion of which can be found below the strategy in [Section 5](#heading=h.uebc1dr881dp).
 
-## 2.1 Short-term strategy (>2 years)
+## 2.1 Strategi Jangka Pendek (>2 tahun)
 
-**Individual ****Level**
+**Individu ****Level**
 
-1. Advocate for funding organisations, governments and research institutions to adopt policies and mandates related to Open Scholarship practices beyond Open Access (OA) and data sharing; for example, on open peer review, use of persistent identifiers (PIDs), open evaluation, and preprints.
+1. Menyarankan lembaga pendanaan, pemerintah dan lembaga penelitian untuk meenyetujui kebijakan praktik pengetahuan terbuka selain akses terbuka (Open Access) dan berbagi data (data sharing); contohnya, penelaahan terbuka (open peer review), penggunaan identitas tetap, evaluasi terbuka, dan pra cetak.
 
 1. Make one's own contributions to 'openness' visible in public (e.g., one a CV or personal website).
 
-1. Adopt a broad-scale approach to the variety of open scholarly research and education practices.
+1. Mengadopsi berbagai pendekatan penelitian ilmiah terbuka dan praktik pendidikan terbuka dengan skala yang lebih luas.
 
-1. Adopt the use of open and free software for the conduct of research and analysis so that the computational processing can be audited by the community, and so that the tools used are available to everyone to increase productivity.
+1. Mengadopsi penggunaan perangkat lunak terbuka dan gratis untuk melaksanakan penelitian dan analisa sehingga proses komputerisasi dapat diperiksa oleh masyarakat dan juga agar sarana yang digunakan tersedia untuk semua orang sehingga mampu meningkatkan produktivitas. 
 
-1. Commit to a variety of personal Open Scholarship practices, such as sharing research data and materials in free, openly-licensed formats so that methods and results can be freely examined and built upon by the wider community.
+1. Berkomitmen terhadap berbagai praktik pengetahuan terbuka, seperti membagikan data dan materi penelitian tanpa biaya, format berlisensi terbuka sehingga metode dan hasil penelitian dapat diuji dan dikembangkan oleh siapapun.
 
-1. Establish support structures (e.g., openLab, walk-in labs, makerspaces in the wider sense) that help to guide other individuals along the path to Open Scholarship. This can include questions of how to publish, teach, learn and do research in the open, and what tools are available to use.
+1. Membentuk struktur pendukung (seperti, openLab, walk-in labs) yang membimbing tentang pengetahuan terbuka, misalnya cara publikasi, belajar dan meneliti secara terbuka dan sarana/alat apa yang tersedia.
 
 ![image alt text](image_0.png)
 
@@ -52,37 +52,36 @@ Kramer, Bianca, & Bosman, Jeroen. (2018, January). Rainbow of open science pract
 Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018, February). Zenodo. [https://zenodo.org/record/1183806](https://zenodo.org/record/1183806)
 
  
-1. Form better relationships with other stakeholders involved in Open Scholarship developments (e.g., librarians, policymakers, publishers and other service providers, OA advocates, and those actively teaching in education).
+1. Membina hubungan baik dengan para pemangku kepentingan yang terlibat dalam perkembangan pengetahuan terbuka (pustakawan, pembuat kebijakan, penerbit, pendukung pengetahuan terbuka dan siapa saja yang bergelut dalam pendidikan).
 
-1. Work for and collaborate with researchers who practice various aspects of Open Scholarship, ranging from developing open source software and tools to posting preprints and citizen science.
+1. Berkolaborasi dengan peneliti yang mempraktikkan pengetahuan terbuka, mulai dari pengembangan perangkat lunak sumber terbuka dan alat untuk menerbitkan penelitian pra cetak.
 
-1. Encourage the wider adoption of an 'open mindset' that emphasises the importance of the research process over the outcome.
+1. Mendorong penerapan 'pola pikir terbuka' yang menekankan pentingnya proses penelitian terhadap hasilnya. 
 
-1. Sign the San Francisco Declaration on Research Assessment (DORA) (NOTE:  DORA.) as a commitment to improving how research is assessed.
+1. Tanda tangani Deklarasi San Francisco Declaration on Research Assessment (DORA) (NOTE:  DORA.) sebagai bentuk komitmen dalam meningkatkan penilaian penelitian.
 
-**Group**** Level**** (e.g., labs, departments)**
+**Kelompok**** Level**** (laboratorium, departemen)**
 
-1. Locate Open Scholarship hotspots (i.e., venues or groups for regular exchange and discussion about community building) and find a way to link them together to help community expansion. 
-
+1.Mendirikan pusat pengetahuan terbuka (tempat atau kelompok untuk berdiskusi) dan menghubungkan mereka untuk pengembangan komunitas. 
   1. If a local one does not yet exist, establish it.
 
-1. Establish rights experts who might help with questions regarding copyright issues and the effective use of Creative Commons licenses.
+1. Menetapkan pakar hak cipta yang dapat membantu terkait hal-hal hak cipta dan  Establish rights experts who might help with questions regarding copyright issues and penggunaan lisensi Creative Commons.
 
-1. Highlight Best Practice showcases in order to demonstrate what is actually possible with Open Scholarship, and what the wider advantages can be.
+1. Mengamati praktik terbaik untuk membuktikan apa sebenarnya pengetahuan terbuka dan bagaimana dampak postifnya.
 
-1. Adopt best practices for Open Scholarship, including shared data as a research output and addressing publication bias and "questionable research practices" with bias-reducing workflows.
+1. Mengadopsi praktik terbaik pengetahuan terbuka, termasuk data bersama sebagai hasil penelitian dan mengatasi bias publikasi dan "praktik penelitian yang diragukan" dengan alur kerja yang mengurangi hal tersebut.
 
-1. Advocate to decision makers at scholarly journals, publishers, funders, and higher education and research institutes to recognize and reward a variety of Open Scholarship activities, particularly regarding research evaluation policies.
+1. Mendorong pembuat keputusan pada jurnal ilmiah, penerbit, pendana, dan pendidikan tinggi serta lembaga penelitian untuk mengakui dan menghargai pengetahuan terbuka, khususnya yang menyangkut kebijakan evaluasi penelitian.
 
-1. Start lobbying University Ranking Providers (e.g., QS, Times Higher Education) to include an openness element to their indicators. 
+1. Mempengaruhi penyedia layanan peringkat universitas (Times Higher Education) agar memasukkan unsur-unsur keterbukaan dalam indikator mereka.
 
-1. Initiate debates on meaningful standards and practices at a disciplinary level for publishing data (e.g., the FAIR principles).
+1. Memprakarsai diskusi tentang standar dan praktik terbaik pada tingkat disiplin terhadap publikasi data (the FAIR principles).
 
-1. Improve engagement between faculty advisory boards, researchers, students and librarians.
+1. Meningkatkan keterlibatan badan penasehat fakultas, peneliti, mahasiswa, dan pustakawan.
 
-**Institute Level (including research and funding bodies)**
+**Level Kelembagaan (termasuk badan penelitian dan pendanaan)**
 
-1. Research libraries should collect information about how the sector as a whole interacts with the research literature. Such information could be used to help negotiations, break up publisher big deals, and cancel subscriptions by providing evidence into the cross-sectorial value of services, and includes: 
+1. Perpustakaan penelitian harus mengumpulkan informasi tentang bagaimana berinteraksi Research libraries should collect information about how the sector as a whole interacts with the research literature. Such information could be used to help negotiations, break up publisher big deals, and cancel subscriptions by providing evidence into the cross-sectorial value of services, and includes: 
 
     1. Which venues researchers are publishing in;
 
