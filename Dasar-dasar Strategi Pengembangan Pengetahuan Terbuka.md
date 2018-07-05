@@ -62,10 +62,10 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 **Kelompok**** Tingkat**** (laboratorium, departemen)**
 
-1.Mendirikan pusat pengetahuan terbuka (tempat atau kelompok untuk berdiskusi) dan menghubungkan mereka untuk pengembangan komunitas. 
+1.Mendirikan pusat-pusat pengetahuan terbuka (tempat atau kelompok untuk berdiskusi) dan menghubungkannya untuk pengembangan komunitas. 
   1. If a local one does not yet exist, establish it.
 
-1. Menetapkan pakar hak cipta yang dapat membantu terkait hal-hal hak cipta dan  Establish rights experts who might help with questions regarding copyright issues and penggunaan lisensi Creative Commons.
+1. Menetapkan pakar hak cipta yang dapat membantu terkait hal-hal hak cipta dan penggunaan lisensi Creative Commons.
 
 1. Mengamati praktik terbaik untuk mengetahui apa sebenarnya pengetahuan terbuka dan bagaimana dampak postifnya.
 
@@ -95,7 +95,7 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 1. Map and coordinate when current subscription and ‘big deal’ licenses will run out across institutes, and let it happen. Where cancellations or terminations occur, ensure that there is adequate post-subscription access using existing legal mechanisms (e.g., Inter-Library Loan). Explore routes for reinvesting money saved for library budgets.
 
-1. Purchase back any legacy documents and incorporate them into the scholarly body of work. Also improve the open sharing and archiving of legacy articles on which copyright has expired (NOTE:  Author Alliance termination of transfer tool.).
+1. Membeli kembali dokumen-dokumen penting dan masukkan ke dalam badan karya ilmiah serta tingkatkan juga pengarsipan dokumen-dokumen penting tersebut.
 
 1. Pendana penelitian dapat menentukan apa-apa saja yang menjadi standar publikasi yang dapat diterima. Research funders can define the limits of what is an acceptable standard of publication. They therefore have the power to mandate publication in journals with a cap on APCs, or in OA-only venues, or in those with short or zero-length embargoes (e.g., Emerald, The Royal Society).
 
@@ -135,11 +135,11 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
     1. Wider adoption of preprint and OA policies similar to those at the NIH and Wellcome Trust.
 
-1. Mengurangi biaya pemrosesan artikel (article-processing charges - APCs) akses terbuka.
+1. Mengurangi biaya pemrosesan artikel (article-processing charges - APCs) untuk akses terbuka.
 
     1. The scholarly publishing market might require a detailed government-level investigation in order to stabilise this.
 
-1. Mandating ORCID for researchers across all research outputs to help assist in the identification of authors across the entire research literature, and easier research discoverability.
+1. Menggunakan ORCID untuk mengidentifikasi seluruh peneliti.
 
 1. Where subscriptions have not yet expired, mandating offsetting agreements for hybrid titles in order to reduce double-dipping. 
 
