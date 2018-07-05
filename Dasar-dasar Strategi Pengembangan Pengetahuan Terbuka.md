@@ -97,9 +97,9 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 1. Purchase back any legacy documents and incorporate them into the scholarly body of work. Also improve the open sharing and archiving of legacy articles on which copyright has expired (NOTE:  Author Alliance termination of transfer tool.).
 
-1. Pendana penelitian dapat menentukan batas-batas apa yang menjadi standar publikasi yang dapat diterima. Research funders can define the limits of what is an acceptable standard of publication. They therefore have the power to mandate publication in journals with a cap on APCs, or in OA-only venues, or in those with short or zero-length embargoes (e.g., Emerald, The Royal Society).
+1. Pendana penelitian dapat menentukan apa-apa saja yang menjadi standar publikasi yang dapat diterima. Research funders can define the limits of what is an acceptable standard of publication. They therefore have the power to mandate publication in journals with a cap on APCs, or in OA-only venues, or in those with short or zero-length embargoes (e.g., Emerald, The Royal Society).
 
-1. Mengmbangkan kebijakan penyimpanan hak cipta penelitian ilmiah di lembaga penelitian yang merupakan  kekurangan mereka saat ini.
+1. Mengembangkan kebijakan penyimpanan hak cipta penelitian ilmiah di lembaga penelitian yang merupakan  kekurangan mereka saat ini.
 
 1. Mengadopsi pedoman aturan kontributor (CRediT - Contributor Rules Taxonomy)  (catatan:  CASRAI CRediT scheme.) untuk membantu mengidentifikasi kontribusi penulis lebih jelas.
 
@@ -113,29 +113,29 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 **Tingkat Nasional (atau lebih tinggi)**
 
-1. Menciptakan kolaborasi perpustakaan baru atau mendukung/bergabung dengan yang sudah ada(contohnya, the International Coalition of Library Consortia (NOTE:  International Coalition of Library Consortia. )) untuk bekerja sama dalam pengembangan infrastruktur (contohnya, [LIBER](http://libereurope.eu/), [EIFL](http://www.eifl.net/), [ARL](http://www.arl.org/), [SPARC](https://sparcopen.org/)).
+1. Menciptakan kolaborasi perpustakaan baru atau mendukung/bergabung dengan yang sudah ada (contohnya, the International Coalition of Library Consortia (NOTE:  International Coalition of Library Consortia. )) untuk bekerja sama dalam pengembangan infrastruktur (contohnya, [LIBER](http://libereurope.eu/), [EIFL](http://www.eifl.net/), [ARL](http://www.arl.org/), [SPARC](https://sparcopen.org/)).
 
     1. Konsorsium seperti Projekt DEAL dapat memberikan contoh langkah-langkah awal di tingkat nasional. Support from SPARC for any such developments would also be useful.
 
 1. Build on faculty and funder support for OA and related quality assurance initiatives (e.g., peer review) that are decoupled from journals. Agree on a governance structure for a world-wide scholarly infrastructure. (e.g., [W3C](https://www.w3.org/)).
 
-1. Create scholarly standards to implement an alternative scholarly publishing platform/environment (using the funds freed from subscriptions, building on existing repositories/environments). 
+1. Menciptakan standar akademis dalam menerapkan platform alternatif penerbitan ilmiah (menggunakan using the funds freed from subscriptions, building on existing repositories/environments). 
 
-1. Support collaborations such as Metadata 2020 (NOTE:  Metadata 2020 (http://www.metadata2020.org/, accessed January 2018).), [NISO](http://www.niso.org/)/[NIST](https://www.nist.gov/), and [eLife](https://elifesciences.org/), to help build a richer connectivity between systems and communities.
+1. Mendukung kolaborasi seperti Metadata 2020 (NOTE:  Metadata 2020 (http://www.metadata2020.org/, accessed January 2018).), [NISO](http://www.niso.org/)/[NIST](https://www.nist.gov/), dan [eLife](https://elifesciences.org/), untuk membantu menghubungkan antara sistem dan kelompok.
 
-1. Take action against the privatisation of scholarly works and processes in order to achieve transformation of the publishing industry into one comprised of fair licensing, fair market competition, and under the ownership of the scholarly community.
+1. Mengambil tindakan dalam melawan privatisasi karya ilmiah dan prosesnya guna untuk mengubah industri penerbitan agar adil dalam hal hak cipta, persaingan pasar dan  dimiliki oleh komunitas ilmiah.
 
-1. Create a cost-effectiveness analysis of Open Scholarship (e.g., true cost of article publishing) to be used as the basis for an argument about how much taxpayer money it costs every year to delay decisions in the above areas.
+1. Menciptakan analisis kebijakan biaya untuk pengetahuan terbuka (contohnya, harga yang pantas dalam menerbitkan makalah) yang digunakan sebagai dasar untuk alasan biaya pajak tiap tahun.
 
-1. Implement currently available sort, filter and search/discovery technology across scholarship outputs.
+1. Menerapkan teknologi penyortiran, penyaringan dan pencarian yang tersedia untuk hasil-haasil penelitian.
 
 1. Research funders and libraries hold most of the purse strings, and further engagement on this front is essential, especially in defining their relative roles in developing or funding scholarly infrastructure. Simply channeling more money into the existing system, with perverse incentives and skewed power dynamics, is clearly no longer sustainable for research.
 
-1. Encourage research funders to diversify the portfolio of what is considered as a research output for assessment purposes. 
+1. Mendorong pemberi dana penelitian untuk memvariasikan portofolio hasil penelitian.
 
     1. Wider adoption of preprint and OA policies similar to those at the NIH and Wellcome Trust.
 
-1. A reduction of article-processing charges (APCs) in hybrid titles to match the market average for OA-only journals.
+1. Mengurangi biaya pemrosesan artikel (article-processing charges - APCs) akses terbuka.
 
     1. The scholarly publishing market might require a detailed government-level investigation in order to stabilise this.
 
