@@ -157,25 +157,25 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 1. Create showcases / highlights / good practices of Open Practices on national open scholarship / open science website together with relevant information and resources.
 
-## 2.2 Mid-term strategy (3 - 5 years)
+## 2.2 Strategi Jangka Menengah (3 - 5 tahun)
 
-**Individual Level**
+**Tingkat Individu**
 
-1. Continue instructing new researchers in best practices regarding Open Scholarship.
+1. Lanjutkan melatih para peneliti baru tentang pengetahuan terbuka.
 
-1. Develop workflows that take advantage of Open Scholarship practices to demonstrate their increased effectiveness.
+1. Mengembangkan alur kerja praktek-praktek pengetahuan terbuka.
 
-1. Continue to develop the aspects of the Short-term strategy (Section 2.1).
+1. Lanjutkan aspek-aspek yang ada di strategi jangka pendek.(Bagian 2.1).
 
-**Group Level**
+**Tingkat Kelompok**
 
 1. Create a comprehensive set of mechanisms that allow fully open research processes to public participation (no more piggybacking, no more "human processing units", etc.).
 
 1. Develop Open Scholarship workflows for all group members to take advantage of increasingly well-developed open scholarly infrastructure and tools.
 
-1. Continue to develop the aspects of the Short-term strategy (Section 2.1).
+1. Lanjutkan aspek-aspek yang ada di strategi jangka pendek.(Bagian 2.1).
 
-**Institute Level**
+**Tingkat Lembaga**
 
 1. Implement opt-out automatization of manuscript handling/single-click submission to an open repository under default open licenses.
 
@@ -185,11 +185,11 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 1. To convert resources currently spent on journal subscriptions into funds supporting sustainable OA business models and scholarly infrastructure.
 
-1. Develop and teach courses on the various practices of Open Scholarship (e.g., as required seminars/workshops for graduate school programs).
+1. Mengembangkan dan mengajarkan berbagai praktik pengetahuan terbuka (contohnya, seminar/loka karya untuk mahasiswa).
 
-**National**** (or higher)**** Level**
+**Nasional**** (atau lebih tinggi)**** Tingkat**
 
-1. Start implementing semantic technology across all scholarship outputs.
+1. Mulai menerapkan teknologi semantik di semua hasil penelitian.
 
 1. Formulation of recommended career metrics that incentivize open data publication, open source software release, and research support.
 
@@ -199,49 +199,49 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 1. Increase funding for outreach, especially to underrepresented minorities.
 
-## 2.3 Long-term strategy (5 -10 years)
+## 2.3 Strategi Jangka Panjang (5 -10 tahun)
 
-**Individual Level**
+**Tingkat Individu**
 
-1. Support the training of junior researchers in the usage of newly formed scholarly infrastructure tools and services.
+1. Mendukung pelatihan peneliti muda dalam penggunaan sarana dan prasarana penelitian ilmiah yang baru.
 
-1. Teach students about open lab notebooks, version control, continuous analysis, and other aspects of Open Scholarship processes in introductory research courses.
+1. Mengajarkan mahasiswa laboratorium terbuka, kontrol versi, analisis berkelanjutan, dan aspek lain dari proses pengetahuan Terbuka dalam mata kuliah pengantar penelitian.
 
-1. Develop training material (OER) for further Open Scholarship development.
+1. Mengembangkan materi pelatihan untuk pengembangan pengetahuan terbuka lanjutan.
 
-1. Continue developing elements of the Short- and Mid-term strategies.
+1. Melanjutkan aspek-aspek yang ada di strategi jangka menengah.
 
-**Group Level**
+**Tingkat Kelompok**
 
-1. Continue developing elements of the Short- and Mid-term strategies.
+1. Melanjutkan aspek-aspek yang ada di strategi jangka menengah.
 
-1. Communicate the advantages or impact of adopting Open Scholarship workflows to other groups.
+1. Menyampaikan keuntungan atau dampak alur kerja pengetahuan terbuka ke kelompok lain.
 
-**Institute Level**
+**Tingkat Lembaga**
 
-1. Establish a permanent fund to be used towards open source software development, APCs, preprint servers, and other costs related to Open Scholarship.
+1. Membentuk pendanaan permanen yang digunakan untuk pengembangan perangkat lunak terbuka, biaya pemrosesan artikel, server pra cetak dan biaya lain terkait pengetahuan terbuka.
 
-1. Incentivize and mandate all research outputs to be published in Open Access journals or platforms.
+1. Memberikan insentif dan mandat agar seluruh hasil penelitian diterbitkan di platform atau jurnal akses terbuka.
 
-1. Incentivize junior scholars to practice openness in their research.
+1. Memberikan insentif kepada mahasiswa untuk mempraktikkan keterbukaan di penelitian mereka.
 
-**National**** (or higher) **** Level**
+**Nasional**** (atau lebih tinggi) **** Tingkat**
 
-1. Develop innovative solutions and functionalities that do not exist today.
+1. Mengembangkan solusi inovatif yang belum ada saat ini.
 
-1. Require government-funded research to be published in Open Access journals or other Open platforms or repositories. Apply penalties for those who do not conform to the mandate.
+1. Mewajibkan penelitian yang didanai pemerintah  diterbitkan di platform atau jurnal akses terbuka  atau repositori terbuka lainnya. Terapkan konsekuensi bagi mereka yang tidak mematuhi mandat tersebut.
 
-1. Eliminate the "publish or perish" pressure by focusing on more diverse research outputs and processes for evaluation and assessment criteria.
+1. Menghilangkan tekanan publikasi dan fokus pada hasil dan proses penelitian yang lebih beragam untuk evaluasi dan kriteria penilaian.
 
 1. Help researchers to take control of the research and evaluation processes based on what they believe will contribute most to scientific progress.
 
-# 3. What is Open Scholarship?
+# 3. Apa itu Pengetahuan Terbuka?
 
-For more than two decades, the movement for Open Scholarship has evolved from a collection of small, localized efforts to a broad international network of institutions, organizations, governments, practitioners, advocates, and funders. While significant progress has been made on both expanding the understanding and practice of Open Scholarship (e.g., [Peters et al., 2012](https://www.routledge.com/Virtues-of-Openness-Education-Science-and-Scholarship-in-the-Digital/Peters-Roberts/p/book/9781594516863)) [Friesike et al.](https://link.springer.com/article/10.1007/s10961-014-9375-6)[, 2015](https://link.springer.com/article/10.1007/s10961-014-9375-6); [Munaf](https://www.nature.com/articles/s41562-016-0021)[ò et al., 2017](https://www.nature.com/articles/s41562-016-0021)), Open Scholarship practices and values are not yet the norm in most disciplines and adoption is spread unevenly around the world (NOTE: The Knowledge Gap:  Knowledge, power and inequality in Open Science policies, accessed November 2017.). In this document we consider the term "Open Scholarship" to broadly refer to the process, communication, and re-use of research as practiced in any scholarly research discipline, and its inclusion and role within wider society.
+Selama lebih dari dua dekade, gerakan pengetahuan terbuka telah berkembang dari hanya sekumpulan kecil; upaya-upaya lokal hingga  ke jaringan internasional seperti, lembaga, organisasi, pemerintah, praktisi, advokat dan penyandang dana. Sementara itu, kemajuan yang lebih signifikan telah dicapai dalam hal memperluas pemahaman dan praktik pengetahuan terbuka (contohnya, [Peters et al., 2012](https://www.routledge.com/Virtues-of-Openness-Education-Science-and-Scholarship-in-the-Digital/Peters-Roberts/p/book/9781594516863)) [Friesike et al.](https://link.springer.com/article/10.1007/s10961-014-9375-6)[, 2015](https://link.springer.com/article/10.1007/s10961-014-9375-6); [Munaf](https://www.nature.com/articles/s41562-016-0021)[ò et al., 2017](https://www.nature.com/articles/s41562-016-0021)), Praktik dan nilai-nilai pengetahuan terbuka belum menjadi standar di sebagian besar disiplin ilmu dan penyebarannya juga tidak merata (Catatan: The Knowledge Gap:  Knowledge, power and inequality in Open Science policies, accessed November 2017.). Dalam dokumen ini, kami berpendapat makna "pengetahuan terbuka" lebih kepada proses, komunikasi, dan penggunaan ulang penelitian yang dipraktikkan dalam setiap disiplin peneltian ilmiah serta perannya kepada masyarakat luas.
 
-The goals and broader vision for Open Scholarship are outlined in foundational documents including the [Budapest Open Access Initiative](http://www.budapestopenaccessinitiative.org/), The [Open Archives Initiative](https://www.openarchives.org/), [Vienna Principles](http://viennaprinciples.org/), [Scholarly Commons principles](https://www.force11.org/scholarly-commons/principles), and The [Panton Principles](https://en.wikipedia.org/wiki/Panton_Principles). Through time, there have been dozens of [declarations](http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA), [charters](https://docs.google.com/spreadsheets/d/1-aRXFiRg-VL9hpLpxoJqX6-OC-A0R2oCogHfIx52Nug/edit#gid=956616118), and statements about the priorities of Open Scholarship. The result of this is that there are now numerous competing, parallel, or overlapping definitions of what Open Scholarship comprises in terms of both research principles and practice, which aim to encapsulate the movement towards fostering scientific growth alongside public access. Herein, we consider Open Scholarship to be analogous to a ‘boundary object’, in that it is flexibly adaptive, interpreted differently across communities but with enough immutable content to maintain integrity. 
+Tujuan dan visi besar diuraikan dalam dokumen landasan dasar, termasuk [Budapest Open Access Initiative](http://www.budapestopenaccessinitiative.org/), The [Open Archives Initiative](https://www.openarchives.org/), [Vienna Principles](http://viennaprinciples.org/), [Scholarly Commons principles](https://www.force11.org/scholarly-commons/principles), dan [Panton Principles](https://en.wikipedia.org/wiki/Panton_Principles). Seiring waktu berlalu, ada banyak [declarations](http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA), [charters](https://docs.google.com/spreadsheets/d/1-aRXFiRg-VL9hpLpxoJqX6-OC-A0R2oCogHfIx52Nug/edit#gid=956616118), dan pendapat tentang pentingnya pengetahuan terbuka. Hasilnya, sekarang ada banyak definisi yang berlawanan, sejalan dan tumpang tindih tentang prinsip-prinsip dan praktik pengetahuan terbuka, yang bertujuan untuk menghalangi gerakan menuju perkembangan ilmiah dengan akses publik. Di sini, kami berpendapat pengetahuan terbuka dapat disamakan dengan ‘boundary object’, karena dapat diinterpretasikan secara berbedan oleh seluruh komunitas tapi kontennya tidak berubah guna menjaga integritas. 
 
-We find [Fecher and Friesike (2013)](https://link.springer.com/chapter/10.1007%2F978-3-319-00026-8_2)’s five "schools of thought" to be particularly useful in framing this strategy: Infrastructure, Measurement, Public, Democratic and Pragmatic. Furthermore, we extend this to suggest a sixth school of Community and Inclusion. The OCSD (Open and Collaborative Science in Development) Network has an [Open Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/) for a more inclusive Open Science for social and environmental well-being that is also highly useful in framing for this strategy.
+Kami menemukan [Fecher and Friesike (2013)](https://link.springer.com/chapter/10.1007%2F978-3-319-00026-8_2) lima five "sekolah pemikiran" yang sangat berguna untuk menyusun strategi ini: Infrastruktur, Penilaian,Publik, Demokrasi dan Pragmatik. Furthermore, we extend this to suggest a sixth school of Community and Inclusion. The OCSD (Open and Collaborative Science in Development) Network has an [Open Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/) for a more inclusive Open Science for social and environmental well-being that is also highly useful in framing for this strategy.
 
 These previous works have been, and remain to be, crucial for building a central identity for the global Open Scholarship community, communicating the case for Open Scholarship to wider society, and providing a basis to push the global movement forward. To realize the full potential and vision of Open Scholarship, we believe that a document is needed that asks critical questions about the internal structure of Open Scholarship as a movement, and addresses strategic questions about how we, as a global movement, can identify concrete steps to achieving these goals. For those unfamiliar with the ‘language’ of Open Scholarship, we refer them to the Open Research Glossary, hosted by the Right to Research Coalition (NOTE:  Open Research Glossary, accessed November 2017.).
 
