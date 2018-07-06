@@ -343,41 +343,41 @@ Ada banyak perbedaan pendapat, dan kurangnya konsensus, tentang pengadopsian pen
 
 # 5. Top Strategic Priorities for Open Scholarship
 
-Dengan mempertimbangkan strategi dan kriteria kesuksesan yang telah disebutkan di atas, kita dapat menentukan beberapa sub-domain utama untuk bertindak mengimplementasikan pengetahuan terbuka. walaupun belum ada konsensus dari gerakan pengetahuan terbuka, atau apa-apa yang diprioritaskan terlebih dahulu, ada persetujuan umum dari semua tindakan, at least to some degree, important. This strategy is adapted from [Fecher and Friesike (2013)](https://link.springer.com/chapter/10.1007%2F978-3-319-00026-8_2).
+Dengan mempertimbangkan strategi dan kriteria kesuksesan yang telah disebutkan di atas, kita dapat menentukan beberapa sub-domain utama untuk bertindak mengimplementasikan pengetahuan terbuka. walaupun belum ada konsensus dari gerakan pengetahuan terbuka, atau apa-apa yang diprioritaskan terlebih dahulu, ada persetujuan umum dari semua tindakan yang penting. Strategi ini diadaptasi dari [Fecher and Friesike (2013)](https://link.springer.com/chapter/10.1007%2F978-3-319-00026-8_2).
 
 ## 5.1 Democratization
 
-Believing that there is an unequal distribution of access to knowledge, Open Scholarship is concerned with making scholarly knowledge (including publications, code, methods, and data) accessible and available freely for everyone with access to modern technology (e.g., a computer and internet connection). 
+Terdapat banyak ketidakadilan dalam mendistribusikan akses pengetahuan, pengetahuan terbuka berkepentingan untuk membuat pengetahuan ilmiah (termasuk penerbitan, kode, metode, dan data) mudak diakses dan tersedia gratis untuk setiap orang yang melalui akses teknologi modern (contohnya, komputer dan koneksi internet. 
 
-Importantly, democracy in Open Scholarship means not only equal access to knowledge, but also equal possibilities to contribute to knowledge and equal rights to participate in the world-wide community’s decisions that affect knowledge creation and distribution. The latter means that Open Scholarship is antithetical to closed power clubs which are limited to a small number of participants deciding for the whole international community, whether such closed clubs are supported by institutional/governmental funders or are bottom-up organisations (e.g., small groups of prestigious authors). Indeed, it is quite unlikely that more than 10 million scientists, highly educated and intelligent, would agree with some rules created for them by a small number of people (or even worse, by some groups with financial interest). A more likely scenario is that the new rules governing Open Scholarship will appear in the open debate, through many collective projects, just like collectively editing this manuscript. Several specific mechanisms have been proposed to realise democratic values in Open Scholarship in a decentralised way, blockchain mechanism being one of them [refs to be added, section to be extended -- VT].
+Yang terpenting, demokrasi dalam pengetahuan terbuka tidak hanya akses yang setara ke pengetahuan, tetapi juga kemungkinan dalam berkontribusi terhadap pengetahuan dan persamaan hak berpartisipasi dalam keputusan komunitas di seluruh dunia yang mempengaruhi penciptaan dan distribusi pengetahuan. yang terakhir, pengetahuan terbuka sangat bertentangan dengan perkumpulan kekuasaan tertutup di mana sekumpulan orang yang memutuskan untuk seluruh komunitas internasional, baik perkumpulan tertutup yang didukung pendana lembaga/pemerintah atau juga organisasi kelas atas (contohnya, kelompok kecil penulis bergengsi). Memang, sangat tidak mungkin lebih dari 10 juta ilmuwan, berpendidikan tinggi dan cerdas, setuju dengan beberapa aturan yang dibuat oleh sejumlah kecil orang (atau bahkan lebih buruk, oleh beberapa kelompok dengan kepentingan keuangan). Skenario yang lebih mungkin adalah aturan baru tentang pengetahuan terbuka akan muncul dalam debat terbuka, melalui banyak proyek kolektif, sama seperti menyunting naskah ini secara kolektif. Beberapa mekanisme khusus telah diusulkan untuk mewujudkan nilai-nilai demokratis dalam pengetahuan terbuka melalui cara desentralisasi, mekanisme blockchain juga menjadi salah satu caranya [refs to be added, section to be extended -- VT].
 
-* Open Access publishing that allows not only free to read access but also free to reuse and free to distribute (NOTE:  Open Access (the book) - Peter Suber (bit.ly/oa-book)).
+* Penerbitan akses terbuka (Open Access) yang tidak hanya gratis untuk dibacaa juga gratis untuk digunakan kembali dan gratis untuk didistribusikan. (Catatan:  Open Access (the book) - Peter Suber (bit.ly/oa-book)).
 
-    * One of the strongest arguments for Open Access is that publicly (or taxpayer) funded research should be accessible to the public. The increasing private sector funding of research is a difficult aspect to reconcile with this view at the present.
+    * Salah satu argumen terkuat untuk akses terbuka (Open Access)adalah penelitian publik yang didanai harus dapat diakses publik. Peningkatan pendanaan penelitian dari sektor swasta sulit untuk disesuaikan dengan pandangan ini untuk sekarang.
+    
+* Izin terbuka, perizinan, dan keringanan hak untuk hak cipta dapat dimengerti oleh manusia dan mesin. Khususnya, ini telah dikelola melalui beberapa kombinasi Creative Commons dan lisensi sumber terbuka. 
 
-* Open Licences, licensing, and rights waivers for copyright that are understandable by both humans and machines. Typically, this has been administered through some combination of Creative Commons and Open Source licensing.
-
-    * In working towards principles of Open Scholarship, we acknowledge that there is the potential for complexity, or even conflict in our objectives as policies and working practices evolve. Awareness of the broader research, industry and education landscape will help to position Open Scholarship to have the greatest possible impact, and to mitigate the potential of other policies and priorities to limit its potential. For example, copyright proposals in the EU that would limit who is permitted to undertake TDM (text and data mining), or policies promoting intellectual property (IP) and commercialisation should be balanced with policies that permit a wide range of uses of data, research, and knowledge.
+    * Dalam bekerja dengan prinsip pengetahuan terbuka, kami mengakui bahwa akan ada potensi kompleksitas, atau bahkan konflik dalam tujuan kami sebagai kebijakan dan praktik kerja. Kesadaran akan pandangan penelitian, industri, dan pendidikan yang lebih luas akan membantu memposisikan pengetahuan terbuka memiliki dampak sebesar mungkin, dan untuk mengurangi potensi kebijakan dan prioritas lain dalam membatasi potensinya sendiri. Contohnya, hak cipta proposal di Uni Eropa yang membatasi siapa saja yang diizinkan untuk melakukan pengembangan teks dan data (TDM - text and data mining), atau kebijakan dalam mempromosikan kekayaan intelektual (intellectual property - IP) dan komersialisasi harus diimbangi dengan kebijakan yang mengizinkan penggunaan data, penelitian dan pengetahuan.
 
 * Moving away from patenting
 
-    * One example of the open approach to patent management is "weak licensing - strong certification" - a situation especially easy to apply in medicine, where therapeutic devices or compounds are weakly licensed in terms of patents but the requirements for entering the market are set high from the regulator.
+    * Salah satu contoh pendekatan terbuka terhadap manajemen hak paten adalah "perizinan lemah-sertifikasi kuat"  - situasi yang sangat mudah untuk diterapkan dalam dunia kedokteran, di mana perangkat atau ramuan pengobatan  memiliki lisensi lemah dalam hal paten tetapi persyaratan untuk memasuki pasar ditetapkan tinggi dari regulator.
 
-* Recognising the value of open source and open scholarship in accelerating innovation and research discovery (e.g., [Woelfle et al., 2011](https://www.nature.com/articles/nchem.1149); [Balasegaram et al., 2017](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002276)).
+* Mengakui nilai sumber terbuka dan pengetahuan terbuka dalam mempercepat inovasi dan penemuan riset (contohnya, [Woelfle et al., 2011](https://www.nature.com/articles/nchem.1149); [Balasegaram et al., 2017](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002276)).
 
-* Data repositories, data journals
+* Repositori data, jurnal data
 
-* Changing publishing norms to make all objects within a research output to be 1st class (FAIR)
+* Mengubah norma-norma penerbitan dengan membuat semua objek dalam hasil penelitian menjadi kelas 1 (adil)
 
-* Software/code
+* Perangkat lunak/kode
 
-* Research material repositories and the sharing of physical research outputs
+* Repositori bahan penelitian dan berbagi hasil penelitian fisik
 
-    * Research material sharing is critical for issues of reproducibility, reducing redundancy, and promoting open scientific collaboration. Issues were empirically examined by [Science Commons](http://sciencecommons.org/projects/licensing/empirical-data-about-materials-transfer/ ). 
+    * Berbagi materi penelitian sangat penting untuk masalah reproduktifitas, mengurangi redundansi, dan mempromosikan kolaborasi ilmiah terbuka. Masalah ini secara empiris diteliti oleh [Science Commons](http://sciencecommons.org/projects/licensing/empirical-data-about-materials-transfer/ ). 
 
     * Sharing well curated and annotated materials within communities without restrictive licensing or complex material transfer agreements which slow scientific progress due to complex legal jargon or stringent terms and conditions
 
-    * Streamlined Material Transfer Agreements (MTAs) and Open Scholarship Trust Agreements (OSTAs) - legal agreement templates which may be easily amended for any researcher, irrespective of discipline, at any institution to simply share almost all categories of research materials they generate in the course of their research allowing efficient, open and collaborative scientific practices. Principles described herein  "The core feature of trusts—holding property for the benefit of others—is well suited to constructing a research community that treats reagents as public goods." [Edwards et al (2017)](http://stm.sciencemag.org/content/9/392/eaai9055.full?ijkey=uMGKxsCEiOb5s&keytype=ref&siteid=scitransmed) 
+    * Streamlined Material Transfer Agreements (MTAs) dan Open Scholarship Trust Agreements (OSTAs) - legal agreement templates which may be easily amended for any researcher, irrespective of discipline, at any institution to simply share almost all categories of research materials they generate in the course of their research allowing efficient, open and collaborative scientific practices. Principles described herein  "The core feature of trusts—holding property for the benefit of others—is well suited to constructing a research community that treats reagents as public goods." [Edwards et al (2017)](http://stm.sciencemag.org/content/9/392/eaai9055.full?ijkey=uMGKxsCEiOb5s&keytype=ref&siteid=scitransmed) 
 
     * E.g. OSTA template: [SGC](http://www.thesgc.org/click-trust) "click-trust" agreement  E.g. MTA (Material Transfer Agreement) templates through [Science Commons](http://sciencecommons.org/projects/licensing/) 
 
@@ -385,197 +385,196 @@ Importantly, democracy in Open Scholarship means not only equal access to knowle
 
 ## 5.2 Pragmatism and transparency 
 
-Following the principle that the creation of knowledge is made more efficient through collaboration and strengthened through critique, Open Scholarship seeks to harness network effects by connecting scholars and making scholarly processes at all levels transparent.
+Mengikuti prinsip penciptaan pengetahuan yang dibuat lebih efisien melalui kolaborasi dan diperkuat melalui kritik, pengetahuan terbuka berusaha untuk memanfaatkan jaringan dengan menghubungkan para sarjana dan membuat proses ilmiah di semua tingkatan menjadi transparan.
 
-* Transparency and process
+* transparansi dan proses
 
 * Reproducibility ([Leek and Peng, 2015](http://www.pnas.org/content/112/6/1645); [Patil et al., 2016](https://www.biorxiv.org/content/early/2016/07/29/066803))
 
-    * Crisis in medicine, psychology, economics, and sociology
+    * Krisis dalam ilmu kedokteran, psikologi, ekonomi dan sosiologi.
 
-    * To generate the results in a research paper through data and code
+    * Untuk menghasilkan hasil makalah penelitian melalui data dan kode.
+    
+* Keberlanjutan 
 
-* Sustainability 
+    * Mampu menguji hasil makalah dari waktu ke waktu, yang mencakup pengarsipan data dan versi perangkat lunak yang berkepanjangan 
 
-    * Being able to durably test a paper's results over time, which would include data archiving and software longevity and versioning.
+* Replikabilitas
 
-* Replicability
+    * Untuk memperoleh kesimpulan serupa dari eksperimen, pengamatan, dan analisis baru berdasarkan makalah yang diterbitkan sebelumnya.
 
-    * To obtain the similar conclusions from new experiments, observations, and analyses based on a previously published manuscript
+* Kebajikan? (mulai dari dan memperluas alur kerja seseorang / basis kode / alat, menghindari duplikasi yang tidak perlu dari halteknis)
 
-* Benefaction? (starting from and expanding someone workflow/codebase/tools, avoiding unnecessary duplication of technical task)
+* Metodologi terbuka
 
-* Open Methodology
+* Sarana penelitian untuk usahaterbuka
 
-* Research tools for open work
+* Pra cetak
 
-* Preprints
-
-* Open Peer Review
+* Ulasan sejawat terbuka
 
 * Blinding
 
-* Open Provenance
+* Sumber terbuka
 
-* Open funding models
+* Model pendanaan terbuka
 
-## 5.3 Infrastructure
+## 5.3 Infrastruktur
 
-Achieving the full benefits of Open Scholarship requires platforms, tools and services for dissemination and collaboration. Such infrastructure can be built with current off-shelf technologies and at a much lower cost than traditional publishing methods. Presently, there is a general lack of funding and support for critical existing aspects of open scholarly infrastructure. Examples of these include the DOAJ, arXiv, the Open Scholarship Foundation, Sherpa/RoMEO, ORCID, the Open Scholarship Framework, Public Knowledge Project, [add more], which offer crucial services to a range of stakeholders. Without sustainable funding sources, these services remain vulnerable to either collapse, or being acquired by players in the private sector, an increasingly common occurrence.
+Mencapai manfaat penuh pengetahuan terbuka  membutuhkan platform, alat dan layanan untuk penyebaran dan kolaborasi. Infrastruktur semacam itu dapat dibangun dengan teknologi off-shelf yang ada saat ini dengan biaya yang jauh lebih rendah daripada metode penerbitan tradisional. Saat ini, ada kekurangan dana dan dukungan pada aspek-aspek penting dari infrastruktur ilmiah terbuka. Contohnya, DOAJ, arXiv, the Open Scholarship Foundation, Sherpa/RoMEO, ORCID, the Open Scholarship Framework, Public Knowledge Project, [add more], yang menawarkan layanan penting untuk berbagai pemangku kepentingan. Tanpa sumber pendanaan yang berkelanjutan, layanan ini tetap rentan gagal, atau diakuisisi oleh pemain di sektor swasta, kejadian yang semakin umum terjadi.
 
-To reduce the risk of infrastructure collapse, and to increase its capacity, continued funder support is required for any sort of sustainable scholarly infrastructure (e.g., [Anderson et al., 2017](https://www.biorxiv.org/content/early/2017/04/27/110825)). A proportion of research funder budgets should be allocated to support this (e.g., 2%). This includes elements such as:
+Untuk mengurangi risiko kegagalan infrastruktur, dan untuk meningkatkan kapasitasnya, dukungan penyandang dana lanjutan sanagt diperlukan untuk setiap jenis infrastruktur ilmiah (contohnya, [Anderson et al., 2017](https://www.biorxiv.org/content/early/2017/04/27/110825)). Proporsi dana penunjang penelitian harus dialokasikan untuk mendukung ini (misalnya, 2%). Ini termasuk elemen di bawah:
 
-* Standards & Persistent Identifiers
+* Tanda pengenal standar dan tetap
 
-* Shared services (Abstracting/indexing services, research data)
+* Layanan berbagi (layanan abstraksi/indeksasi, data penelitian)
 
-* Support and dissemination services
+* Layanan dukungan dan penyebaran
 
-* Repository services 
+* Layanan repositori
 
-* Publishing services
+* Layanan penerbitan
 
-* Collaboration platforms and tools
+* Alat dan platform kolaborasi
 
-* Automation of open practices ("open by default")
+* Otomatisasi praktik terbuka ("open by default")
 
-* Open citation services building upon ORCID and Crossref initiative ([opencitations](http://opencitations.net/)). (Also [I4OC](https://i4oc.org/))
+* Layanan kutipan terbuka yang dibangun atas inisiasi ORCID dan Crossref ([opencitations](http://opencitations.net/)). (Juga [I4OC](https://i4oc.org/))
 
 * Interoperability of services
 
-* Semantic web technology: metadata, harvesting, exchange services 
+* Teknologi situs web semantik: metadata, harvesting, exchange services 
 
 ## 5.4 Public good
 
-Based on the recognition that true societal impact requires societal engagement in research and readily understandable communication of scientific results, Open Scholarship seeks to bring the public to collaborate in research through community science, and make scholarship more readily understandable through lay summaries, blogging and other less formal communicative methods. Societal impact (e.g., a better understanding of the world) should not be a secondary or niche consideration for research.
+Berdasarkan pengakuan bahwa dampak sosial yang sesungguhnya membutuhkan keterlibatan masyarakat dalam penelitian dan komunikasi yang mudah dimengerti dari hasil-hasil penelitian, pengetahuan terbuka berusaha untuk membawa publik untuk berkolaborasi dalam penelitian melalui ilmu masyarakat, dan membuat pengetahuan lebih mudah dimengerti dengan ringkasan yang lebih mudah, membuat blog, dan metode komunikasi tidak formal lainnya. Dampak sosial (contohnya, pemahaman yang lebih baik tentang dunia) seharusnya tidak menjadi pertimbangan sekunder dalam penelitian.
 
-* Removing barriers based on race, gender, income, status, geography
+* Menghilangkan batasan terhadap suku, jenis kelamin, pendapatan, status, dan geografi.
 
-* Access to funding
+* Akses pendanaan
 
-* Community science (also known as Citizen Science)
+* Komunitas ilmiah (juga dikenal sebagai masyarakat ilmiah)
 
-* Involving society in research priority setting
+* Melibatkan masyarakat dalam pengaturan prioritas penelitian
 
-* Documenting and sharing all research outputs created during the research lifecycle, from lab notebooks used during the project to methods, materials, algorithms, data, code and the paper
+* Mendokumentasikan dan membagikan semua hasil penelitian, dari laboratorium yang digunakan hingga metode, bahan, algoritme, data, kode, dan naskah
 
-* Leveraging public spaces and infrastructure such as public libraries, museums and schools
+* Memanfaatkan ruang publik dan infrastruktur seperti perpustakaan umum, museum dan sekolah
 
-## 5.5 Measurement 
+## 5.5 Penilaian
 
-To shift academics' behaviour it is necessary to change how they are measured; to change how they are measured means new metrics that reflect different values.
+Untuk mengubah perilaku para akademisi, perlu diubah juga cara menilai dengan metrik baru yang mencerminkan nilai yang berbeda.
 
-Practically, getting a research openness measure to factor into University Ranking systems calculations would be a way to embed openness values into policy and align measures with values. Alternatively, doing away with any form of measurement, which some consider to be generally bad for scientific research.
+Secara praktis, mengukur keterbukaan penelitian dengan sistem  penilaian Peringkat Universitas akan menjadi cara untuk menanamkan nilai keterbukaan ke dalam kebijakan dan menyelaraskan ukuran dengan nilai-nilai. Alternatif lainnya adalah membuang segala bentuk penilaian, yang oleh sebagian orang dianggap tidak baik untuk penelitian ilmiah.
 
-Motivated by the acknowledgement that traditional metrics for measuring scientific impact have proven problematic (by being too heavily focused on publications, often only at the journal-level, for instance), Open Scholarship seeks "alternative metrics" (also known broadly as ‘altmetrics’; not to be confused with the company, Altmetric) that can make use of the new possibilities of digitally networked tools to track and measure the impact of scholarship through formerly invisible activities. Of course, there are also dangers with new metrics, since all metrics can be gamed, and new metrics offer new, little understood opportunities for gaming. New metrics will also not solve the publish or perish problem, but only transfer it.
+Dimotivasi oleh bukti bahwa metrik tradisional dalam mengukur dampak ilmiah terbukti bermasalah (misalnya, dengan terlalu fokus pada publikasi, sering hanya pada tingkat jurnal), pengetahuan terbuka mencari "alternatif metrik"(juga dikenal secara luas sebagai ‘altmetrics’; jangan bingung dengan perusahaan, Altmetric) yang dapat memanfaatkan kemungkinan alat-alat jaringan digital baru untuk melacak dan mengukur dampak dari pengetahuan melalui kegiatan yang sebelumnya tidak terlihat. Tentu saja, ada juga bahaya dengan metrik baru, karena semua metrik dapat dimainkan, dan metrik baru menawarkan peluang baru yang sulit untuk dimainkan. Metrik baru juga tidak akan memecahkan masalah terbitkan atau mati, tetapi hanya memindahkannya.
 
-* Changing norms of research evaluation
+* Mengubah norma evaluasi penelitian n
 
-* Stop using the Impact factor and commit to [San Francisco Declaration on Research Assessment](http://www.ascb.org/dora/) (DORA), Leiden Manifest, see also [UK Research Councils statement](http://www.rcuk.ac.uk/media/news/180207/), also [this](https://www.nature.com/articles/d41586-018-01642-w)
+* Berhenti menggunakan dampak faktor (Impact factor) dan berkomitmen pada [San Francisco Declaration on Research Assessment](http://www.ascb.org/dora/) (DORA), Leiden Manifest, lihat juga [UK Research Councils statement](http://www.rcuk.ac.uk/media/news/180207/), juga [ini](https://www.nature.com/articles/d41586-018-01642-w)
 
-* Consider alternative metrics, including those explicitly designed to measure openness ([Nichols and Twidale, 2017](https://researchcommons.waikato.ac.nz/handle/10289/10842)) 
+* Pertimbangkan metrik alternatif, yang secara eksplisit dirancang untuk mengukur keterbukaan ([Nichols and Twidale, 2017](https://researchcommons.waikato.ac.nz/handle/10289/10842)) 
 
-    * See also the [Humane Metrics Initiative](http://humetricshss.org/about/) and the [Metrics Toolkit](http://www.metrics-toolkit.org/).
+    * Lihat juga [Humane Metrics Initiative](http://humetricshss.org/about/) dan [Metrics Toolkit](http://www.metrics-toolkit.org/).
 
-    * Pre-registrations
+    * Pra registrasi
 
-    * Registered Reports
+    * Laporan registrasi
 
-* Science-based assessment: experimentation before implementation of any metric
+* Penilaian berbasis ilmu pengetahuan: bereksperimen sebelum menerapkan metrik apa pun
 
-Issues of transparency and reproducibility apply both to scholarship itself and to the mechanisms through which our research is measured (e.g. can this metric be independently reproduced?). [Furner (2014)](http://www.jonathanfurner.info/docs/furnerInPress-a.pdf) provides an ethical framework for bibliometrics, which can be generalised to broader sets of metrics.
+Masalah transparansi dan reproduktifitas diterapkan pada pengetahuan itu sendiri dan mekanisme yang digunakan untuk mengukur penelitian kami (misalnya, apakah metrik ini dapat direproduksi secara independen?). [Furner (2014)](http://www.jonathanfurner.info/docs/furnerInPress-a.pdf) menyediakan kerangka kerja beretika untuk bibliometrik, yang dapat digeneralisasikan dengan kumpulan metrik yang lebih luas.
 
 ## 5.6 Community and inclusion 
 
-Motivated by the acknowledgement that scholarship requires all voices to be heard, and the involvement of a committed community of actors, Open Scholarship seeks to ensure diversity and inclusion are key principles in scholarly conversations.
+Dimotivasi oleh pengakuan bahwa pengetahuan membutuhkan semua suara untuk didengar, dan keterlibatan komitmen komunitas, pengetahuan terbuka berusaha untuk memastikan keragaman dan inklusi adalah prinsip utama dalam percakapan ilmiah.
 
 * Diversity and inclusion
 
-    * Definition
+    * Definisi
 
-    * Build awareness
+    * Membangun kesadaran
 
-    * Develop tools and techniques to fix existing issues
+    * Mengembangkan alat dan teknik untuk memperbaiki masalah yang ada
 
-    * Create and disseminate research resources
-
+    * Membuat dan menyebarkan sumber daya penelitian
+    
 * Community cohesion and messaging
 
-    * Develop practice standards
+    * Mengembangkan standar praktik
 
-    * Create educational curriculum for practitioners
+    * Menciptakan kurikulum pendidikan untuk para praktisi
 
-    * Public goods and public funding
+    * Barang publik dan pendanaan publik
 
-    * Collaborate with other related or overlapping communities, including Open Scholarship Hardware, Open Source Software on common areas of interest 
+    * Berkolaborasi dengan komunitas terkait atau yang lainnya, termasuk perangkat keras pengetahuan terbuka, Perangkat Lunak sumber terbuka di area umum yang diminati 
 
-* Community science (also known as Citizen Science)
+* Komunitas ilmiah (juga dikenal sebagai masyarakat ilmiah)
 
-    * Tackling megaprojects
+    * Menangani megaproyek
 
     * Spill-over effects to and from education
 
-    * Strengthen ability to participate intellectually, donate computing power, biological samples or other resources, including money (crowdfunded research)
+    * Memperkuat kemampuan berpartisipasi secara intelektual, menyumbangkan daya komputasi, sampel biologis, atau sumber daya lainnya, termasuk uang (dana masa penelitian)
 
-# 6. Movement Strengths
+# 6. Kekuatan Gerakan Movement Strengths
 
-* Organisational structure and collective impact
+* Struktur organisasi dan dampak kolektif
 
-* Diverse participation of passionate individuals
+* Beragam partisipasi dari individu yang bersemangat
 
-    * Significant successes in Open Scholarship are often attributed to passionate, persevering champions, particularly in the policy and advocacy/adoption arenas. These individuals demonstrate a great capacity to achieve substantial changes, and create strong influences, almost single-handedly. As an asset to the movement, they become especially important when their experiences and knowledge can be shared and multiplied, through building of collaborations, networks and communities, and mentorship models.
+    * Keberhasilan signifikan dalam pengetahuan terbuka sering dikaitkan dengan para pejuang yang tekun dan gigih, terutama di arena kebijakan dan advokasi / adopsi. Individu-individu ini menunjukkan kemampuan yang luar biasa untuk mencapai perubahan substansial, dan menciptakan pengaruh kuat, hampir sendirian. Sebagai aset bagi gerakan, mereka menjadi sangat penting ketika pengalaman dan pengetahuan mereka dapat dibagi dan dikalikan, melalui kolaborasi, jaringan dan komunitas, serta model bimbingan.
 
-* Concurrent movements like open access, Open Scholarship, open data, open hardware, open source software etc. based on similar principles
+* Gerakan serentak seperti akses terbuka, pengetahuan terbuka, data terbuka, perangkat keras terbuka, perangkat lunak sumber terbuka, dll. Berdasarkan prinsip yang serupa
 
-* Strength of research and evidence supporting Open Scholarship practices (e.g., [McKiernan et al., 2016](https://elifesciences.org/articles/16800)).
+* Kekuatan penelitian dan bukti mendukung praktik pengetahuan terbuka (contoh [McKiernan et al., 2016](https://elifesciences.org/articles/16800)).
 
-    * Key projects, groups, and scholars have been conducting research into various aspects of Open Scholarship and its impacts, finding them to be almost overwhelmingly positive. As the movement grows, the evidence base, and the depth of critical analysis continues to develop.
+    * Proyek-proyek penting, kelompok, dan para sarjana telah melakukan penelitian ke berbagai aspek pengetahuan terbuka dan dampaknya, mereka menjadi sangat positif. Ketika gerakan berkembang, bukti, dan kedalaman analisis kritis terus berkembang.
 
-* Breadth of creativity in coming up with technical and sociotechnical solutions.
+* Luasnya kreativitas menghasilkan solusi teknis dan sosioteknik.
 
-    * For example, green and gold routes to Open Access. The former relates to self-archiving, and the latter to publishing in an Open Access journal. While some variations exist, these models generally transcend geographical, institutional, or sectoral variations.
+    * Misalnya, jalur hijau dan emas akses terbuka (Open Access). Yang dulu berkaitan dengan pengarsipan sendiri, dan selanjutnya untuk dipublikasikan dalam jurnal akses terbuka. Sementara beberapa variasi telah ada, model ini umumnya melampaui perbedaan geografis, institusional, atau sektoral.
 
-    * The growth and adoption of preprints as a method of getting research out sooner and more transparently
+    * Pertumbuhan dan pengadopsian pracetak sebagai metode untuk mendapatkan penelitian lebih cepat dan lebih transparan
 
-* Availability of many charters and declarations offering (internally) consistent sets of goals and actions that are result of a lot of thinking and discussing
+* Ketersediaan banyak piagam dan deklarasi yang menawarkan (secara internal) tujuan dan tindakan konsisten yang merupakan hasil dari banyak pemikiran dan diskusi
 
-* Strong push to develop policy models: Dynamic, broad and cohesive top-down (policy initiatives from funders, governments, institutions) and bottom-up (grassroots) approaches. It remains important that the imperative and agenda for Open Scholarship remains recognised at the highest political levels. The UK House of Commons Science and Technology Committee into research integrity is an excellent example of this (NOTE:  Research integrity examined with experts and academics (https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/news-parliament-2017/research-integrity3-evidence-17-19/ - accessed December, 2017).). 
+* Dorongan yang kuat untuk mengembangkan model kebijakan: Dinamis, luas dan perpaduan atas-bawah (inisiatif kebijakan dari pendana, pemerintah, lembaga) dan pendekatan dari bawah (akar rumput). Tetap penting bahwa agenda untuk pengetahuan terbuka tetap diakui di tingkat politik tertinggi. Komite Ilmu Pengetahuan dan Teknologi Inggris dalam hal integritas penelitian adalah contoh yang sangat baik dari ini (catatan:  Research integrity examined with experts and academics (https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/news-parliament-2017/research-integrity3-evidence-17-19/ - accessed December, 2017).). 
 
-* Diversity of goals enables progress on many fronts simultaneously.
+* Keragaman tujuan memungkinkan kemajuan di banyak barisan secara bersamaan.
 
-* Common language (English, usually) for ease of understanding (although see below for why this can also be a challenge).
+* Bahasa umum  (bahasa Inggris, biasa) untuk memudahkan pemahaman (walaupun begitu, lihat di bawah untuk tahu mengapa hal ini juga menjadi tantangan).
 
-* Geographical heterogeneity and variably successful initiatives (e.g., SciELO in Latin America).
+* Keragaman geografis dan inisiatif kesuksesan (contohnya, SciELO di Amerika Latin).
 
-    * Open Scholarship has been recognised by key international organisations active in research and education, and has strong support from institutes around the world.
+    * Pengetahuan terbuka telah diakui oleh organisasi-organisasi internasional utama yang aktif dalam penelitian dan pendidikan, dan mendapat dukungan kuat dari institut di seluruh dunia.
 
 * Uptake (albeit spotty) from influential research institutions.
 
-* Growing ties with the Open Movement.
+* Meningkatkan hubungan dengan gerakan terbuka.
 
-    * Open Scholarship activism as part of a broader open movement is benefitting from cross-collaborations with advocates of open data, open access, open education, open government, open source, and open culture. For example, now Open Scholarship is seen as a gateway to open education, but has policies strengthened by experiences from the open source movement.
+    * Aktifisme pengetahuan terbuka sebagai bagian dari gerakan terbuka yang lebih luas diuntungkan dari kolaborasi silang dengan pendukung data terbuka, akses terbuka, pendidikan terbuka, pemerintahan terbuka, sumber terbuka, dan budaya terbuka. COntohnya, sekarang pengetahuan terbuka dilihat sebagai pintu gerbang pendidikan terbuka, tapi memiliki kebijakan yang perkuat oleh berbagai pengalaman dari gerakan sumber terbuka.
 
-# 7. Movement Challenges
+# 7. Tantangan Gerakan Movement Challenges
 
-These challenges represent potential focal points of future discussion, research, and policy development. They include both external conditions in the greater research ecosystem, and internal conditions that exist within the Open Scholarship movement. Not all challenges are equal, or present in every potential context or community. However, these are frequently discussed in discussions about Open Scholarship strategy, and therefore should be highlighted here.
+Tantangan-tantangan ini mewakili titik fokus potensial dari diskusi di masa depan, penelitian, dan pengembangan kebijakan. Tantangan ini mencakup kondisi eksternal dalam ekosistem penelitian yang lebih besar, dan kondisi internal yang ada dalam gerakan pengetahuan terbuka. Tidak semua tantangan sama, atau hadir dalam setiap konteks atau komunitas . Namun, hal ini sering didiskusikan tentang strategi pengetahuan terbuka dan harus disoroti di sini. 
 
-## 7.1 External conditions
-
+## 7.1 Kondisi Eksternal 
  
 
-* Reconciling private interests
+* Rekonsiliasi kepentingan pribadi
 
-* Political agendas
+* Agenda politik 
 
-* Researcher awareness and apathy
+* Kesadaran dan keapatisan peneliti
 
-    * Awareness of Open Scholarship is still very low. This is true in the understanding that Open Scholarship exists as a way of increasing standard research workflow efficiency (not as a direct alternative), and the benefits of doing so. It is also strange that many researchers appear to adopt Open Scholarship practices (e.g., data sharing, Open Access publishing), but just do not equate this with the term ‘Open Scholarship’. Even where awareness levels are high, this does not necessarily translate into adoption, often due to a lack of information, sufficient incentives and motivation, or general disinterest.
+    * Kesadaran terhadap pengetahuan terbuka masih sangat rendah. Hal ini benar bahwa pengetahuan terbuka ada sebagai cara meningkatkan efisiensi alur kerja penelitian standar (bukan sebagai alternatif langsung), dan keuntungannya juga begitu. Banyak peneliti masih asing mengadopsi praktik pengetahuan terbuka (contohnya, berbagi data, penerbitan akses terbuka), tapi jangan samakan ini dengan istilah ‘pengetahuan terbuka’. Bahkan jika tingkat kesadaran sudah tinggi, ini tidak selalu diartikan dengan  adopsi, sering karena kurangnya informasi, insentif dan motivasi yang memadai, atau ketidaktertarikan umum.
 
-* That researchers might adopt open scholarship practices based on pragmatic reasons, but don’t use the label or identify it as open scholarship, or that they are open scholars.
+* Peneliti mungkin mengadopsi praktik pengetahuan terbuka berdasarkan alasan pragmatis, tetapi tidak menggunakan label atau mengidentifikasinya sebagai pengetahuan terbuka, atau bahwa mereka adalah ilmuan terbuka.
 
-* The disconnect between open scholarship awareness and practices.
+* Putus hubungan antara kesadaran dan praktik beasiswa terbuka.
 
-* Language and appearance of community
+* Bahasa dan kemunculan komunitas
 
 * Promotion of scholarship in non-English languages. The hegemony of English often works to further empower Global North countries in conversations about such strategies
 
