@@ -251,9 +251,9 @@ Lima sekolah pengetahuan Fecher dan Frieseke (2015) tentang pengetahuan terbuka 
 
 # 4. State of the Movement
 
-Sebuah gerakan dapat didefinisikan sebagai "a group of people working together to advance their shared political, social, or artistic ideas." (NOTE:  Oxford Dictionary, diakses pada November 2017.) Pendukung pengetahuan terbuka sangat beraneka ragam, termasuk masyarakat biasa, aktivis, staf pengajar, dan siswa di berbagai tingkat akademis dan karir serta lembaga penelitian, penerbit, pustakawan, pembuat kebijakan, dan LSM. Para anggota komunitas ini berasal dari berbagai negara dan latar belakang sosial ekonomi dan budaya. Walaupun demikian, perbedaan tersebut adalah kekuatan untuk gerakan pengetahuan terbuka dengan perspektif, pengalaman, kapasitas dan sumber daya yang beragam, dan juga menghadirka tantangan untuk While this diversity is a strength for the Open Scholarship movement by bringing a wide variety of perspectives, experiences, capacities, and resources, it also presents challenges for setting strategic direction and building shared plans. 
+Sebuah gerakan dapat didefinisikan sebagai "a group of people working together to advance their shared political, social, or artistic ideas." (NOTE:  Oxford Dictionary, diakses pada November 2017.) Pendukung pengetahuan terbuka sangat beraneka ragam, termasuk masyarakat biasa, aktivis, staf pengajar, dan siswa di berbagai tingkat akademis dan karir serta lembaga penelitian, penerbit, pustakawan, pembuat kebijakan, dan LSM. Para anggota komunitas ini berasal dari berbagai negara dan latar belakang sosial ekonomi dan budaya. Walaupun demikian, perbedaan tersebut adalah kekuatan untuk gerakan pengetahuan terbuka dengan perspektif, pengalaman, kapasitas dan sumber daya yang beragam, dan juga menghadirka tantangan untuk  perencanaan strategis. 
 
-Perhaps the most widespread commonality between Open Scholarship stakeholders is the belief that increased adoption of Open Scholarship practices is a ‘good thing’, and that it would bring wider benefits to the research community, environment, global economies and society. Given this common value, we can identify the core challenges and opportunities in Open Scholarship to define strategies that can be adopted at different levels and by varying stakeholder groups. From this, we gain a collective sense of priority as to the sorts of definitive actions that can be taken to help the advancement of Open Scholarship.
+Mungkin, persamaan terbesar diantara pemangku kepentingan pengetahuan terbuka adalah keyakinan akan pengadopsian pengetahuan terbuka adalh hal yang bagus dan akan membawa dampak positif bagi komunitas penelitian, lingkungan, ekonomi global dan masyarakat. Dengan persamaan ini, kami dapat mengidentifikasi tantangan dan peluang inti dalam pengetahuan terbuka untuk menentukan strategi yang bisa diadopsi pada tingkat yang berbeda dan di berbagai kelompok pemangku kepentingan. Dari sini, kita memperoleh kesadaran bersama dalam menindaklanjuti kemajuan pengetahuan terbuka.
 
 [Maybe make use of "Openness Triangle" that is part of Peters & Roberts 'The Virtues of Openness'? This would fit into the 'good thing' debate]
 
@@ -261,11 +261,11 @@ Perhaps the most widespread commonality between Open Scholarship stakeholders is
 
 ### 4.1.1 General Value Proposition
 
-Open Scholarship makes research outputs and scholarly practices more accessible and inclusive, and expands our horizons on what is possible from the process of scholarly research.
+Pengetahuan terbuka membuat hasil penelitian dan praktik ilmiah menjadi lebih terakses dan inklusi serta memperluas wawasan kita dalam proses penelitian ilmiah.
 
-### 4.1.2 Overall goals and vision
+### 4.1.2 Tujuan dan Visi Overall goals and vision
 
-Research practices and scholarly communications are constantly evolving. However, despite the fact that the Web was originally designed around 30 years ago to disrupt the hierarchical approach of information management by the decentralisation of scholarly communications ([Berners-Lee, 1989](https://www.w3.org/History/1989/proposal.html)), the pervasive spread of the Web has left much of the pre-existing scholarly publication model and industry unchanged. Such a perceived slow rate of change or inertia can possibly be attributed to the wide range of diverse stakeholders engaged in this domain, and the deep entrenchment of interests and positions. As such, one common perspective is that scholarly communication processes need to increasingly embrace the power of Web-native technologies. Alignment of this ideal with the process of research itself is what is broadly agreed on as Open Scholarship, and there has been an undeniable explosion in the rate of innovation in scholarly communication in this in the last 30 years. The primary vision here, and one which we are optimistic of achieving, is that educational resources and research outputs, as a global societal common good should be accessible free of charge to all publics who wish to benefit from them, and integrated into wider society.
+Praktik-praktik penelitian dan komunikasi ilmiah terus berkembang. Walaupun faktanya situs web mulanya didesain sekitar 30 tahun yang lalu untuk  memutuskan hirarki manajemen informasi dengan desentralisasi komunikasi ilmiah ([Berners-Lee, 1989](https://www.w3.org/History/1989/proposal.html)), penyebarluasan situs web telah the pervasive spread of the Web has left much of the pre-existing scholarly publication model and industry unchanged. Such a perceived slow rate of change or inertia can possibly be attributed to the wide range of diverse stakeholders engaged in this domain, and the deep entrenchment of interests and positions. As such, one common perspective is that scholarly communication processes need to increasingly embrace the power of Web-native technologies. Alignment of this ideal with the process of research itself is what is broadly agreed on as Open Scholarship, and there has been an undeniable explosion in the rate of innovation in scholarly communication in this in the last 30 years. The primary vision here, and one which we are optimistic of achieving, is that educational resources and research outputs, as a global societal common good should be accessible free of charge to all publics who wish to benefit from them, and integrated into wider society.
 
 ### 4.1.3 Definition as a ‘boundary object’
 
@@ -275,55 +275,55 @@ Open Scholarship when performed (NOTE:  According to Bowker & Star (2000), scien
 
 ![image alt text](image_3.png)
 
-Principles of Open Scholarship, by Tony Ross-Hellauer ([Source](https://www.slideshare.net/OpenAIRE_eu/peer-review-in-the-age-of-open-science), CC BY).
+Prinsip-prinsip pengetahuan terbuka oleh Tony Ross-Hellauer ([Sumber](https://www.slideshare.net/OpenAIRE_eu/peer-review-in-the-age-of-open-science), CC BY).
 
-### 4.1.4 Open Scholarship ecosystem
+### 4.1.4 Ekosistem Pengetahuan Terbuka
 
-Four major elements exist as preconditions to Open Scholarship adoption:
+Empat elemen utama sebagai prasyarat pengadopsian pengetahuan terbuka:
 
-1. Users: Awareness of Open Scholarship to engage with the practices.
+1. Pengguna: Kesadaran terhadap Pengetahuan terbuka untuk ikut serta melaksanakan praktik.
 
-2. Process: Open Scholarship tools that guide adoption of practices.
+2. Proses: Sarana pengetahuan terbuka yang dapat memandu adopsi praktik pengetahuan terbuka.
 
-3. Context: Community and systemic support to create a sustainable Open Scholarship environment.
+3. Konteks: Komunitas dan sistem pendukung untuk menciptakan lingkungan pengetahuan terbuka yang berkelanjutan.
 
-4. Incentives: Motivations to engage with the practices.
+4. Insentif: Motivasi untuk melaksanakan praktik pengetahuan terbuka.
 
 ![image alt text](image_4.png)
 
-Adapted from the [Foster Open Scholarship Taxonomy](https://www.fosteropenscience.eu/taxonomy/term/102) (CC BY 4.0). Please note that this is a non-exhaustive taxonomy of all possible aspects of ‘Open Science’.
+Diadaptasi dari [Foster Open Scholarship Taxonomy](https://www.fosteropenscience.eu/taxonomy/term/102) (CC BY 4.0). Please note that this is a non-exhaustive taxonomy of all possible aspects of ‘Open Science’.
 
-## 4.2 Varied Perspectives
+## 4.2 Variasi Perspektif
 
 As well as these shared commonalities, tensions also exist between the best way to adopt Open Scholarship practices. Open Scholarship is an agenda with multiple stakeholders, whose diverse cultures, backgrounds and interests mean that one-size-fits-all solutions could potentially harm local interests (or vice versa). On the other hand, there is a need to ensure that strategies are joined-up so that the actions of those with similar aims are not working at cross-purposes. Such "fault-lines" for the creation of a cohesive strategy are:
 
 ### 4.2.1 Geographic specificities
 
-* Hundreds of individual initiatives and organisations already exist to help provide and promote Open Access at different levels around the world (NOTE:  Open Access Directory, Advocacy Organizations for OA (accessed 24/11/2017).).
+* Ratusan inisiatif baik dari individu dan organisasi muncul untuk membantu mempromosikan akses terbuka (Open Access) pada tingkat berbeda-beda di seluruh dunia (Catatan:  Open Access Directory, Advocacy Organizations for OA (diakses pada 24/11/2017).).
 
-* Thousands of individual initiatives and organisations already exist to help provide and promote Open Education at different levels around the world (NOTE:  OER World Map (accessed 06/03/2018).).
+* Ribuan inisiatif baik dari individu dan organisasi muncul untuk membantu mempromosikan pendidikan terbuka (Open Education) pada tingkat berbeda-beda di seluruh dunia. (Catatan:  OER World Map (diakses pada 06/03/2018).).
 
-* High costs associated with Open Access publishing actively discriminate against researchers from Low and Middle Income Countries (LMICs).
+* Penerbitan Akses terbuka dengan biaya mahal mendiskriminasi peneliti dari negara-negara dengan gaji rendah dan menengah (Low and Middle Income Countries - LMICs).
 
 ### 4.2.2 Disciplinary specificities
 
-* As the widely-used term ‘Open Science’ contains the word ‘Science’, this can have an adverse effect of excluding researchers from the arts and humanities. This problem seems mainly confined to native english speaking researchers. Other terms such as ‘e-Research’ and ‘Digital Humanities’ describe similar practices across different communities.
+* Seperti istilahnya ‘Ilmu Terbuka (Open Science)’ mengandung kata ‘Ilmu’, hal ini dapat berdampak buruk  kepada peneliti dari bidang seni dan humaniora. Masalah ini tampaknya hanya terbatas pada penutur asli bahasa Inggris. Istilah lain seperti ‘e-Research’ dan ‘Digital Humanities’ menggambarkan praktik serupa di berbagai komunitas.
 
-* Differences in attitudes towards, and rates of uptake of, different practices. For example, many ‘Open Science’ practices are geared towards empirical and quantitative research, and therefore require different evaluation and incentive structures than other scholarly disciplines.
+* Differences in attitudes towards, and rates of uptake of, different practices. misalnya, banyak praktik 'Ilmu Terbuka' diarahkan pada penelitian empiris dan kuantitatif, oleh karena itu memerlukan struktur evaluasi dan insentif yang berbeda dari disiplin ilmiah lainnya.
 
 * Accounting for domain-specific issues. For example, accounting for variation in biological supplies from different laboratory companies is a significant issue in reproducibility for biological research. Open Access books are a major problem in the Humanities ([Eve, 2014](https://www.martineve.com/images/uploads/2014/11/Eve_2014_Open-Access-and-the-Humanities.pdf)), but less so in STEM, and are often sidelined as an issue as a result.
 
-* At the present there are few preprints from the pharmaceutical industry (NOTE:  https://openpharma.blog/2017/08/14/when-will-preprints-take-off-in-medicine/), and none covering primary clinical data. There are at present considerable barriers to preprints of industry work, including the possibility of material that has not yet been peer-reviewed being seen as promotional, and the possibility of readers changing clinical practice based on material that has not yet been peer-reviewed – however well labeled a preprint is.
+* Sekarang ada beberapa pra cetak dari industri farmasi (Catatan:  https://openpharma.blog/2017/08/14/when-will-preprints-take-off-in-medicine/), dan tidak  satupun yang menutupi data klinis utama. Saat ini ada banyak hambatan pra cetak di tempat kerja, termasuk kemungkinan materi yang belum ditinjau dilihat sebagai promosi, dan kemungkinan pembaca  and the possibility of readers changing clinical practice based on material that has not yet been peer-reviewed – however well labeled a preprint is.
 
 ### 4.2.3 Stakeholder specificities
 
-* Consider the range of stakeholders who have a direct interest in the development of Open Scholarship - Researchers, students, funders, research managers, scholarly societies, infrastructure providers, industry, wider society, publishers & other OS service providers, [more ...]. Each of these groups engage in the Open Scholarship agenda for different reasons, and often these goals will be in conflict ...
+* Pertimbangkan berbagai pemangku kepentingan yang memiliki kepentingan langsung terhadap pengembangan pengetahuan terbuka- Peneliti, mahasiswa, penyandang dana, manajer penelitian, masyarakat ilmiah, penyedia infrastruktur, industri, masyarakat luas, penerbit & penyedia layanan ilmu terbuka lainnya, [more ...]. Masing-masing kelompok ini terlibat dalam agenda pengetahuan terbuka untuk alasan yang berbeda, dan seringkali tujuan ini akan menajadi konflik...
 
-Regarding Open Access, there is little consensus on the best way forward for this at a multitude of scales (geographic, institutional, individual). The result of such ongoing tensions is, perhaps not surprisingly, the lack of well-defined strategic priorities for Open Scholarship. Conflicts between different stakeholder groups can often be distinguished based on competing interests, which filter through at multiple levels in communication, policy, and practices. The result of this is that the relationship network of stakeholders engaged in scholarly communication, and in particular developments in Open Scholarship, is particularly complex. Some of the most highly debated points include:
+Mengenai Akses Terbuka, hanya ada sedikit konsensus tentang cara terbaik untuk ini di berbagai skala (geografis, kelembagaan, individu). The result of such ongoing tensions is, perhaps not surprisingly, the lack of well-defined strategic priorities for Open Scholarship. Conflicts between different stakeholder groups can often be distinguished based on competing interests, which filter through at multiple levels in communication, policy, and practices. The result of this is that the relationship network of stakeholders engaged in scholarly communication, and in particular developments in Open Scholarship, is particularly complex. Some of the most highly debated points include:
 
 ## 4.3 Extent of Open Scholarship adoption to consider the movement successful
 
-There are varied opinions, and a lack of consensus, around what extent of Open Scholarship adoption is necessary to constitute success.
+Ada banyak perbedaan pendapat, dan kurangnya konsensus, tentang pengadopsian pengetahuan terbuka agar dapat sukses.
 
 * Transforming the present scholarly communications market so that it flips to Open Scholarship services as the default model for research processes and outputs.
 
@@ -343,7 +343,7 @@ There are varied opinions, and a lack of consensus, around what extent of Open S
 
 # 5. Top Strategic Priorities for Open Scholarship
 
-Taking into account the strategic goals and success criteria listed above, it is possible to define several leading sub-domains of actions that need to be implemented in order to achieve them. While there is no consensus on this from the Open Scholarship movement, or what the priority order is, there is a general agreement that all of these actions are, at least to some degree, important. This strategy is adapted from [Fecher and Friesike (2013)](https://link.springer.com/chapter/10.1007%2F978-3-319-00026-8_2).
+Dengan mempertimbangkan strategi dan kriteria kesuksesan yang telah disebutkan di atas, kita dapat menentukan beberapa sub-domain utama untuk bertindak mengimplementasikan pengetahuan terbuka. walaupun belum ada konsensus dari gerakan pengetahuan terbuka, atau apa-apa yang diprioritaskan terlebih dahulu, ada persetujuan umum dari semua tindakan, at least to some degree, important. This strategy is adapted from [Fecher and Friesike (2013)](https://link.springer.com/chapter/10.1007%2F978-3-319-00026-8_2).
 
 ## 5.1 Democratization
 
