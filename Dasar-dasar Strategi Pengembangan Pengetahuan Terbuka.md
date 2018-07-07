@@ -576,99 +576,99 @@ Tantangan-tantangan ini mewakili titik fokus potensial dari diskusi di masa depa
 
 * Bahasa dan kemunculan komunitas
 
-* Promotion of scholarship in non-English languages. The hegemony of English often works to further empower Global North countries in conversations about such strategies
+* Promosi dengan non bahasa ingrris. Hegemoni bahasa Inggris sering kali berfungsi untuk lebih memberdayakan negara-negara Global Utara dalam percakapan tentang strategi ini.
 
-* The most influential scientists got their position by being successful in closed system
+* Para ilmuwan yang paling berpengaruh ada dalam sistem tertutup
 
-* How to deal with open washing: using the Open Scholarship terms for things hardly open, rendering the term meaningless
+* Cara menangani open washing: menggunakan istilah pengetahuan terbuka untuk hal-hal yang hampir tidak terbuka, menjadikan istilah itu tidak berarti
 
-* Realizing that legal (copyright) and economic (ownership/business models) knowledge may be as important as technical knowledge
+* Menyadari bahwa pengetahuan hukum (hak cipta) dan ekonomi (kepemilikan / model bisnis) mungkin sama pentingnya dengan pengetahuan teknis
 
-* Limited reach and awareness of Open Scholarship in the developing countries 
+* Keterbatasan jangkauan dan kesadaran pengetahuan terbuka di negara-negara berkembang
 
-* Overcoming the misconception that Open Scholarship is anti-commercial/demonstrating return on investment (e.g., [Balasegaram et al., 2017](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002276); [Hakoum et al., 2017](http://bmjopen.bmj.com/content/7/10/e015997)).
+* Mengatasi kesalahpahaman bahwa pengetahuan terbuka anti-komersial / menunjukkan laba atas investasi (contohnya, [Balasegaram et al., 2017](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002276); [Hakoum et al., 2017](http://bmjopen.bmj.com/content/7/10/e015997)).
 
-* Resolving frictions between a scholarly commons model for research, and its operation within a capitalistic model (NOTE:  https://danielskatzblog.wordpress.com/2016/10/25/clash-of-cultures-why-all-science-isnt-open-science/). 
+* Menyelesaikan friksi antara model ilmiah umum penelitian, dan operasinya dalam kapitalistik (NOTE:  https://danielskatzblog.wordpress.com/2016/10/25/clash-of-cultures-why-all-science-isnt-open-science/). 
 
-* Seek development of alternative business models, such as the Open Library of Humanities ([Eve and Edwards, 2015](http://doi.org/10.16995/olh.46))
+* Mencari model bisnis alternatif, seperti perpustakaan humaniora terbuka ([Eve and Edwards, 2015](http://doi.org/10.16995/olh.46))
 
-* General inertia where current business models are concerned.
+* Kelemahan umum bisnis yang sekarang.
 
-* Confusing Open Scholarship with open access, or Open Science.
+* Bingung tentang pengetahuan terbuka dengan akses terbuka, atau ilmu terbuka.
 
-* Copyright challenges.
+* Tantangan hak cipta.
 
-* Engaging non-academic actors
+* Melibatkan peran non akademis
 
-* Adoption of Open Scholarship at policy level by national and subnational governments (like the way open data has been adopted by governments)
+* Adopsi pengetahuan terbuka di tingkat kebijakan oleh pemerintah nasional dan regional (sama seperti cara data terbuka yang diadopsi pemerintah)
 
-* Research is a highly competitive endeavour across the world. Due to the relative novelty of many Open Scholarship practices, it is understandable that institutes do not want to risk their reputation on a global playing field by adopting new operational processes.
+* Penelitian adalah upaya yang sangat kompetitif di seluruh dunia. Karena banyaknya praktik baru tentang pengetahuan terbuka, dapat dipahami bahwa lembaga tidak ingin mempertaruhkan reputasi mereka dalam permainan global dengan mengadopsi proses operasional baru.
 
-## 7.2 Internal conditions
+## 7.2 Kondisi Internal Internal conditions
 
-* Rate of growth
+* Tingkat Pertumbuhan
 
-    * All current evidence indicates that Open Scholarship momentum is building, in terms of more widespread understanding of issues and adoption of practices (e.g., in terms of number of institutional Open Access policies (NOTE:  ROARMAP)). But such diffusion is often slow and granular, and beset by frictions. Further experimentation should be encouraged to demonstrate the applicability of larger-scale adoption of practices and to increase the rate of growth, and ultimate impact, of Open Scholarship.
+    * Semua bukti saat ini menunjukkan bahwa momentum pengetahuan terbuka sedang dibangun, dalam hal pemahaman yang lebih luas tentang isu-isu dan penerapan praktik (contohnya, jumlah kebijakan kelembagaan tentang akses terbuka (catatan:  ROARMAP)).Tetapi pergerakan seperti itu seringkali lambat dan terlalu rinci, dan menjadi perselisihan. Percobaan lebih lanjut harus didorong untuk menunjukkan penerapan praktik berskala lebih besar dan untuk meningkatkan laju pertumbuhan, dan dampak akhir dari pengetahuan terbuka.
 
-* Avoiding quarreling about details, not realizing amount of agreement on the main issues.
+* Menghindari pertengkaran tentang detail, tidak menyadari tentang isu-isu utama.
 
-* Overcoming lack of money / Financial Sustainability
+* Mengatasi masalah keuangan / Keberlanjutan Finansial
 
-* Lack of patience among Open Scholarship proponents.
+* Kurangnya kesabaran para pendukung pengetahuan terbuka
 
-    * We fully recognise the burdens and pressures that researchers already have, in maintaining high productivity levels, funding applications, administration, teaching, and other duties. This means that often, Open Scholarship, is not highly prioritised, as the current reward system is still highly focussed on publication of novel results in high impact journals, which can stifle the rate of growth. Open Scholarship proponents need to be patient and understand this burden.
+    * Kami sangat menyadari banyaknya beban dan tekanan para peneliti, dalam mempertahankan produktivitas, pendanaan, administrasi, mengajar, dan kewajiban lainnya. Ini artinya Pengetahuan terbuka belum menjadi prioritas, karena sistem penghargaan sekarang masih terfokus kepada publikasi hasil penelitian di jurnal-jurnal berdampak tinggi, yang dapat menahan laju tertumbuhan pengetahuan terbuka.
 
-* Seeing how diverse initiatives working at different speeds in different communities can still reinforce each other in working towards the same broad goals.
+* Melihat betapa beragamnya inisiatif di tingkat kecepatan yang berbeda, di komunitas yang berbeda, dan masih dapat memperkuat satu sama lain menuju tujuan luas yang sama.
 
-    * Researchers do not necessarily need to be ‘open activists’. However, they should be aware of the functions of the wider scholarly communication system, and the diverse range of processes and norms that are involved in this.
+    * Para peneliti tidak harus menjadi ‘aktivis terbuka’. Namun, mereka seharusnya sadar fungsi sistem komunikasi ilmiah yang lebih luas, dan beragam proses dan norma yang terlibat dalam hal ini.
 
-* Dealing with (lack of) diversity, bias of English speaking communities
+* Menghadapi keberagaman, bias terhadap komunitas berbahasa Inggris
 
-    * Related - need to recognise that not all strategies fit all regions - allow for flexibility - make sure that other regions are not negatively impacted by decisions taken by other groups
+    * Terkait - perlu disadari bahwa tidak semua strategi cocok untuk semua wilayah - memberikan fleksibilitas - pastikan bahwa wilayah lain tidak terkena dampak negatif dengan keputusan yang diambil oleh kelompok lain
 
-# 8. Opportunities
+# 8. Kesempatan
 
-* Universities and research institutes from across the world are waking up to the promise of Open Scholarship. Discussions are happening at different levels, and universities in particular are in a strong position to help guide and develop policy frameworks, best practices, and education on the various aspects of Open Scholarship, including by providing administrative support.
+* Universitas-universitas dan lembaga-lembaga penelitian dari seluruh dunia sedang membangun ikrar pengetahuna terbuka. Diskusi sedang terjadi di tingkat berbeda, dan universitas pada umumnya berada di posisi kuat untuk membimbing dan mengembangkan kerangka kebijakan, praktik terbaik, dan pendidikan dalam aspek-aspek pengetahuan terbuka, termasuk dukungan administrasi.
 
-* Universities and research funders are in a position to adopt new practices in hiring, promotion, and tenure, and in particular control how Open Scholarship feeds in to this. Rewarding openness at this level is a key driver in the increased adoption of open practices.
+* Universitas dan pendana penelitian berada di posisi untuk mempekerjakan, mempromosikan, dan jabatan, terutama mengendalikan bagaimana pengetahuan terbuka masuk ke dalam hal ini. Menghargai keterbukaan pada tingkat ini adalah pendorong utama dalam peningkatan penerapan praktik terbuka.
 
-* Scholarly communication is a rapidly evolving landscape. There is a huge scope for systematic training and education in this domain, which could be adopted by research institutes. A huge global network of experts already exists with this professional capacity, but funding of such networks would be critical for any sort of sustainability. Platforms and technology exists today that can support this movement. 
+* Komunikasi ilmiah sedang berkembang pesat. Ada ruang lingkup besar untuk pelatihan dan pendidikan sistematis di bidang ini, yang dapat diadopsi oleh lembaga penelitian. Jaringan pakar global sudah ada dengan kapasitas profesional untuk ini, tetapi pendanaan untuk jaringan seperti itu akan sangat penting untuk keberlanjutan apa pun. Platform dan teknologi saat ini juga dapat mendukung gerakan ini.
 
-# 9. Threats
+# 9. Ancaman
 
-* Continuing barriers to Open Access (OA): embargoes, continued transferal of copyright, lack of article-processing charge (APC) funding, wide application of high and unsustainable APCs (+ lack of knowledge in negotiating these difficulties), continuing perceptions of lack of prestige for many OA journals, 
+* Menlanjutkan hambatan-hambatan askses terbuka: embargo, melanjutkan pengalihan hak cipta, kurangnya pendanaan untuk biaya pemrosesan artikel, biaya pemrosesan artikel yang mahal dan tidak berkelanjutan (+ kurangnya pengetahuan dalam menegosiasikan kesulitan ini), selanjutnya, persepsi tentang kurang bergengsinya jurnal akses terbuka. 
 
-    * Publisher embargo rules are currently complex, confusing, and time-consuming and expensive to navigate and comply with. They are also often lacking in evidence to support, and in direct conflict with funder policies on self-archiving.
+    * Aturan penerbit saat ini rumit, membingungkan, dan memakan waktu serta mahal untuk diikuti dan dipatuhi. Mereka juga kurang bukti untuk mendukung, dan terjadi konflik langsung dengan kebijakan pendana dalam asrip pribadi.
 
     * OA: If APC model becomes universal (esp. If publishers are allowed to dictate costs), Global South lose publishing options, current journal ecosystem could be carried over (w/ flaws which incentivise bad research and all), just with author-pays OA and no reduction in costs
 
-    * OA: Still no widely agreed large-scale solution for issue of OA for books.
+    * OA: Masih belum ada solusi berskala besar yang disepakati untuk menerbitkan akses terbuka untuk buku.
 
-    * Offsetting deals.
+    * Menutupi kerugikan transaksi.
 
-    * Note that around 70% of journals indexed in the DOAJ do not charge article processing charges (NOTE:  https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/).
+    * Catatann bahwa sekitar 70% jurnal yang diindeks DOAJ tidak dikenakan biaya pemrosesan artikel (catatan:  https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/).
 
-* Barriers to data sharing: 
+* Hambatan untuk berbagi data: 
 
-    * lack of skills & awareness of best practice, 
+    * Kurangnya keterampilan dan kesadaran akan praktik terbaik, 
 
-    * lack of agreement on how Research Data Management (RDM) activities should be funded, 
+    * Kurangnya persetujuan tentang bagaimana manajemen data penelitian (Research Data Management - RDM) harus didanai
+    
+    * Isu perizinan (& kurangnya kesadaran), 
 
-    * licensing issues (& lack of awareness), 
+    * Kurangnya sarana untuk mendukung manajemen data penelitian (RDM) melalui siklus penelitian
 
-    * lack of infrastructure to support good RDM throughout research lifecycle
+    * Mengabaikan secara eksplisit dalam memberikan hak penggunaan kembali data, sehingga mereka mewarisi penggunaan ulang yang buruk langsung dari publikasi (lihat komentar saya di atas, dan contoh jurnal akses terbuka (open access) yang tidak memiliki klausa yang melarang penggunaan kembali data. "Kalian dapat melihat pengetahuan gratis, tapi tidak bisa menggunakannya."
 
-    * Neglect to explicitly grant reuse rights in data, so they inherit poor reuse right from publications (see my comment above, and an example of an "open access" journal that has a no derivatives clause that disallows data reuse in any meaningful way. "You can see the knowledge for free, but you can't use it."
+    * Kurangnya insentif yang sesuai menciptakan keraguan dari mereka yang menerapkan cara  tradisional; misalnya, berbagi data mengurangi daya saing seseorang (contoh, "seseorang akan menggunakan data saya dengan cara yang salah" atau "saya butuh lebih dari data ini"). 
 
-    * A lack of suitable incentives creating fear from traditionally-embedded mentality and practices; for instance that sharing data reduces one's competitiveness (e.g. "someone will use my data in the 'wrong' way," or "I need to get 5 more publications out of this data""). 
+* Insentif harus berubah untuk mempermudah perubahan budaya.
 
-* Incentives must change to facilitate cultural change. 
+    * Ketergantungan pada informasi metrik tidak transparan dan tidak dapat direproduksi dari penyedia komersil akan merugikan pengetahuan.
 
-    * Continued reliance on non-transparent, non-reproducible metrics information from commercial providers will be detrimental to scholarship.
+    * Metrik baru harus didesain untuk menciptakan insentif agar mempengaruhi tindakan peneliti, terutama berdasarkan keterbukaan.
 
-    * New metrics must be designed to create incentives to influence researcher behaviour, preferably based around openness.
-
-* Big publishers - Elsevier & Holzbrinck (via Digital Science) seem to be developing services for across research workflow - definite threat that they will start trying to bundle these services for institutions via "big deals" - so that institutions get locked into using sub-optimal services for some things in order to have access to services they consider vital (i.e., same strategy used in bundling journals) ([Moody 2017](https://www.techdirt.com/articles/20170804/05454537924/elsevier-continues-to-build-monopoly-solution-all-aspects-scholarly-communication.shtml); [Posada and Chen 2017](http://knowledgegap.org/index.php/sub-projects/rent-seeking-and-financialization-of-the-academic-publishing-industry/preliminary-findings/); [Schonfeld 2017](http://www.sr.ithaka.org/blog/the-center-for-open-science-alternative-to-elsevier-announces-new-preprint-services-today/)) - this would lead to new inefficiencies, lock-in, price bloat
+* Penerbit besar - Elsevier & Holzbrinck (via Digital Science) tampaknya akan mengembangkan layanan untuk seluruh alur kerja penelitian - ancaman yang jelas,  bahwa mereka akan mulai mencoba menggabungkan layanan ini untuk lembaga melalui "transaksi besar"- sehingga lemabaga akan tetap terkunci dalam menggunakan layanan sub-optimal agar memiliki akses ke layanan yang mereka anggap penting (i.e., strategi sama dalam menggabungkan jurnal) ([Moody 2017](https://www.techdirt.com/articles/20170804/05454537924/elsevier-continues-to-build-monopoly-solution-all-aspects-scholarly-communication.shtml); [Posada and Chen 2017](http://knowledgegap.org/index.php/sub-projects/rent-seeking-and-financialization-of-the-academic-publishing-industry/preliminary-findings/); [Schonfeld 2017](http://www.sr.ithaka.org/blog/the-center-for-open-science-alternative-to-elsevier-announces-new-preprint-services-today/)) - this would lead to new inefficiencies, lock-in, price bloat
 
 * Preprints - colonisation of landscape by commercial interests (e.g., Elsevier acquisition of SSRN leading to wider commercial control, irrespective of final venue of publication).
 
