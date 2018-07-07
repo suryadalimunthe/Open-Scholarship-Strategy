@@ -121,7 +121,7 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 1. Menciptakan standar akademis dalam menerapkan platform alternatif penerbitan ilmiah (menggunakan using the funds freed from subscriptions, building on existing repositories/environments). 
 
-1. Mendukung kolaborasi seperti Metadata 2020 (NOTE:  Metadata 2020 (http://www.metadata2020.org/, accessed January 2018).), [NISO](http://www.niso.org/)/[NIST](https://www.nist.gov/), dan [eLife](https://elifesciences.org/), untuk membantu menghubungkan antara sistem dan kelompok.
+1. Mendukung kolaborasi seperti Metadata 2020 (catatan:  Metadata 2020 (http://www.metadata2020.org/, diakses pada Januari 2018).), [NISO](http://www.niso.org/)/[NIST](https://www.nist.gov/), dan [eLife](https://elifesciences.org/), untuk membantu menghubungkan antara sistem dan kelompok.
 
 1. Mengambil tindakan dalam melawan privatisasi karya ilmiah dan prosesnya guna untuk mengubah industri penerbitan agar adil dalam hal hak cipta, persaingan pasar dan  dimiliki oleh komunitas ilmiah.
 
@@ -129,31 +129,31 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 1. Menerapkan teknologi penyortiran, penyaringan dan pencarian yang tersedia untuk hasil-haasil penelitian.
 
-1. Research funders and libraries hold most of the purse strings, and further engagement on this front is essential, especially in defining their relative roles in developing or funding scholarly infrastructure. Simply channeling more money into the existing system, with perverse incentives and skewed power dynamics, is clearly no longer sustainable for research.
+1. Pendana penelitian dan perpustakaan hold most of the purse strings, and further engagement on this front is essential, especially in defining their relative roles in developing or funding scholarly infrastructure. Simply channeling more money into the existing system, with perverse incentives and skewed power dynamics, is clearly no longer sustainable for research.
 
 1. Mendorong pemberi dana penelitian untuk memvariasikan portofolio hasil penelitian.
 
-    1. Wider adoption of preprint and OA policies similar to those at the NIH and Wellcome Trust.
+    1. Pengadopsian pracetak dan kebijakan akses terbuka yang lebih luas sama seperti NIH dan Wellcome Trust.
 
 1. Mengurangi biaya pemrosesan artikel (article-processing charges - APCs) untuk akses terbuka.
 
-    1. The scholarly publishing market might require a detailed government-level investigation in order to stabilise this.
+    1. Pasar penerbitan ilmiah mungkin memerlukan penyelidikan tingkat pemerintah secara rinci untuk menstabilkan ini.
 
 1. Menggunakan ORCID untuk mengidentifikasi seluruh peneliti.
 
-1. Where subscriptions have not yet expired, mandating offsetting agreements for hybrid titles in order to reduce double-dipping. 
+1.  Where subscriptions have not yet expired, mandating offsetting agreements for hybrid titles in order to reduce double-dipping. 
 
     1. Where offsetting deals are in place, these can be streamlined and standardised across sectors to reduce administrative burden.
 
-1. For scholarly publishers to engage with the new UK Scholarly Communications License (SCL). This would reduce the time spent on embargo processing, the cost spent on hybrid APCs, and for researchers in the UK, help them to comply with the RCUK open access policy (NOTE:  UKSCL.). 
+1.Untuk penerbit akademis agar terlibat dengan Lisensi Komunikasi Inggris (Scholarly Communications License-SCL). ini akan mengurangi waktu yang dihabiskan untuk pemrosesan, biaya yang dikeluarkan untuk pemrosesan artikel, dan untuk peneliti di Inggris, bantu mereka untuk mematuhi kebijakan akses terbuka RCUK (catatan:  UKSCL.). 
 
     1. For those outside of the UK to consider extending the UK SCL (or relevant variations of it) towards other regional funding strategies.
 
-1. Sector-wide adoption of no-questions-asked fee waiver policies for researchers from lower to middle income countries.
+1. Pengadopsian kebijakan bebas biaya untuk para peneliti dari negara-negara berpenghasilan rendah hingga menengah.
 
-1. To transform the majority of scholarly journals from subscription to OA publishing in accordance with community-specific publication preferences. (NOTE:  Converting scholarly journals to Open Access: A review of approaches and experiences.)
+1. Untuk mengubah sebagian besar jurnal ilmiah dari berlangganan ke penerbitan akses terbuka (OA) sesuai dengan preferensi publikasi khusus komunitas. (catatan:  Converting scholarly journals to Open Access: A review of approaches and experiences.)
 
-1. To invite universities, research institutions, funders, libraries, and publishers to collaborate on a transition to open practices for the benefit of scholarship and society at large. (NOTE:  Open Access policies and Science Europe: State of play.)
+1. Untuk mengundang universitas, lembaga penelitian, pendana. perpustakaan dan penerbit dalam berkolaborasi terhadap transisi praktik terbuka untuk kepentingan pengetahuan dan msyarakat luas. (catatan:  kebijakan akses terbuka (Open Access)dan ilmu serta ilmu eropa: State of play.)
 
 1. Create showcases / highlights / good practices of Open Practices on national open scholarship / open science website together with relevant information and resources.
 
@@ -191,13 +191,13 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 1. Mulai menerapkan teknologi semantik di semua hasil penelitian.
 
-1. Formulation of recommended career metrics that incentivize open data publication, open source software release, and research support.
+1. Formulasi rekomendasi karir metrik untuk mendukung penerbitan data terbuka, perangkat lunak sumber terbuka dan dukungan penelitian.
 
 1. For any remaining hybrid journals that attain a higher proportion of open access over subscription articles, encourage them to ‘flip’ them to pure open access with an APC that reflects the running costs of the journal.
 
     1. For remaining hybrid journals that have not attained this level, refuse to support publication of OA articles in those venues.
 
-1. Increase funding for outreach, especially to underrepresented minorities.
+1. Tingkatkan dana untuk minoritas yang kurang terwakili
 
 ## 2.3 Strategi Jangka Panjang (5 -10 tahun)
 
@@ -269,7 +269,7 @@ Praktik-praktik penelitian dan komunikasi ilmiah terus berkembang. Walaupun fakt
 
 ### 4.1.3 Definition as a ‘boundary object’
 
-Open Scholarship when performed (NOTE:  According to Bowker & Star (2000), scientific work is always composed of members of different communities of practice, and therefore the creation and management of boundary objects is a key process in developing and maintaining coherence across intersecting communities.
+Open Scholarship when performed (NOTE:  According to Bowker & Star (2000), karya ilmiah selalu terdiri dari anggota komunitas praktik yang berbeda, dan oleh karena itu penciptaan dan pengelolaan objek adalah proses kunci dalam mengembangkan dan mempertahankan perpaduan lintas masyarakat. 
 					
 	 ) as a boundary object ([Star, 1989](http://www.lchc.ucsd.edu/MCA/Mail/xmcamail.2012_08.dir/pdfMrgHgzULhA.pdf)) allows us to balance different categories and meanings across many communities of practice ([Star and Griesemer, 1989](http://www.lchc.ucsd.edu/MCA/Mail/xmcamail.2012_08.dir/pdfMrgHgzULhA.pdf)). Broadly, the core aspects of Open Scholarship can be divided into two major categories: practices and principles. For the former, this relates to aspects such as Open Access, Open Data, and Open Source. The core principles of Open Scholarship include participation, equality, transparency, cognitive justice (NOTE:  https://en.wikipedia.org/wiki/Cognitive_justice ), collaboration, sharing, equity, and inclusivity. Generally, it is agreed upon that the combination of these practices and principles will result in a better research process, all grouped under the broad heading of Open Scholarship.  Indeed, [Watson (2015)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0669-2) believes that these attributes are not exclusive to Open Scholarship, but should be key traits of good science in general. However, we acknowledge that Open Scholarship is not a simple construct to understand, and often has its own language. We fully acknowledge that such a barrier must be overcome in order to maximise participation and engagement with both the principles and the practices ([Masuzzo and Martens, 2017](https://peerj.com/preprints/2689/)).
 
@@ -295,7 +295,7 @@ Diadaptasi dari [Foster Open Scholarship Taxonomy](https://www.fosteropenscience
 
 ## 4.2 Variasi Perspektif
 
-As well as these shared commonalities, tensions also exist between the best way to adopt Open Scholarship practices. Open Scholarship is an agenda with multiple stakeholders, whose diverse cultures, backgrounds and interests mean that one-size-fits-all solutions could potentially harm local interests (or vice versa). On the other hand, there is a need to ensure that strategies are joined-up so that the actions of those with similar aims are not working at cross-purposes. Such "fault-lines" for the creation of a cohesive strategy are:
+Selain kesamaan ini, ketegangan juga muncul dalam  mengadopsi praktik pengetahuan terbuka. Pengetahuan terbuka adalah agenda berbagai pemangku kepentingan, yang beragam budaya, latar belakang dan kepentingannya sehingga solusi satu untuk semua dapat berpotensi merugikan kepentingan lokal (atau sebaliknya). On the other hand, there is a need to ensure that strategies are joined-up so that the actions of those with similar aims are not working at cross-purposes. Such "fault-lines" for the creation of a cohesive strategy are:
 
 ### 4.2.1 Geographic specificities
 
