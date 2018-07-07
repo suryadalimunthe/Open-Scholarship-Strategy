@@ -676,15 +676,15 @@ Tantangan-tantangan ini mewakili titik fokus potensial dari diskusi di masa depa
 
     * need to avoid license proliferation, with many one-off licences that may not be mutually compatible, and require too much work to interpret. Open source "solved" this with OSI-approved licenses, and MIT/BSD/GPL emerged as most common licenses with clearly understood mutual compatibility. Need equivalent for data licenses (I would propose something closer to CC BY.) 
 
-* Continuing gap between positive attitudes to most aspects of openness & actual practice - how to close this?
+* Kesenjangan yang terus berlanjut antara sikap positif terhadap sebagian besar aspek keterbukaan & praktik sebenarnya - bagaimana cara mengakhirinya?
 
 * Resistensi terhadap perubahan: Pada umumnya orang akan menentang perubahan, dan memberikan mereka terlalu banyak pilihan (seperti yang terjadi pada pengetahuan terbuka) dapat menunda mereka tidak berubah sama sekali. Orang cenderung memilih hal-hal yang paling sama dengan apa yang mereka punya atau dengan pilihan mereka (contoh, lihat Dan Ariely’s [TED talk](https://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions) on making decisions). Sangat penting untuk meyakinkan orang bahwa mereka masih bisa melakukan apa yang sedang dilakukan, bahkan jika berpartisipasi dengan pengetahuan terbuka. [This can be seen in the example of the introduction of Linux in Munich, where an attempt to switch completely over to Linux [couldn’t find solutions for all existing software](http://www.zdnet.com/article/after-a-10-year-linux-migration-munich-considers-switching-back-to-windows-and-office/), menghasilkan hak suara dewan untuk beralih kembali ke Windows pada tahun 2020. Kota Barcelona memiliki rencana yang kontras [aiming to introduce Linux](https://itsfoss.com/barcelona-open-source/), dengan rencana memprioritaskan pengguna aplikasi yang sekarang mempunyai solusi sumber terbuka yang juga berlaku untuk  Windows, pada akhirnya meninggalkan kondisi di mana satu-satunya perangkat lunak yang ada untuk diubah adalah sistem operasi.]
 
 Bagian dari Kebijakan - TBD where/if it fits:
 
-Seperti yang ada di dokumen ini sebelumnya, pengetahuan terbuka digambarkan dengan "banyak definisi yang bersaing, paralel, atau tumpang tindih ... dalam hal prinsip dan praktik penelitian." Oleh karena itu, pemegang kepentingan, seperti pemerintah, badan pendana publik dan swasta, dan lembag terus menerus mengembangkan berbagai kebijakan untuk menentukan inisiatif pengetahuan terbuka. Kebijakan ini These policies span countries, scientific disciplines, and components of the Open Scholarship ecosystem. Below, we review some of the past and ongoing policy developments, categorized as top-down and bottom-up.
+Seperti yang ada di dokumen ini sebelumnya, pengetahuan terbuka digambarkan dengan "banyak definisi yang bersaing, paralel, atau tumpang tindih ... dalam hal prinsip dan praktik penelitian." Oleh karena itu, pemegang kepentingan, seperti pemerintah, badan pendana publik dan swasta, dan lembag terus menerus mengembangkan berbagai kebijakan untuk menentukan inisiatif pengetahuan terbuka. Kebijakan ini menjangkau berbagai negara, disiplin ilmu, dan komponen ekosistem pengetahuan terbuka. Di bawah ini, kami mengulas beberapa pengembangan kebijakan yang lalu dan sekarang, dikategorikan menjadi top-down dan bottom-up.
 
-Top-down policies impose rules, regulations, and guidelines upon the scientific research community via mechanisms including government policies, grant funding requirements, institutional mandates, and … 
+Kebijakan Top-down menentukan peraturan, regulasi dan pedoman bagi komunitas penelitian ilmiah melalui mekanisme termasuk kebbijakan pemerintah, persyaratan dana, amanat lembaga dan...
 
     * Top-down
 
@@ -740,9 +740,9 @@ Top-down policies impose rules, regulations, and guidelines upon the scientific 
 
             * [SPARC Article and Data Sharing Policies](http://researchsharing.sparcopen.org/)
 
-One issue with top-down policies is that bodies such as governments and funders demand researchers to comply with rules about data sharing, open code, and the like, yet do not always provide the resources or structures necessary for compliant behavior.
+Satu isu dari kebijakan top-down adalah badan seperti pemerintah dan pendana menuntut peneliti untuk mematuhi aturan tentang berbagi data, kode terbuka, dan yang sama, namun jangan selalu memberikan sumber atau kerangka yang terpaksa bagi yang selalu patuh.
 
-Bottom-up policies weave together best-practices from existing scientific research communities and, compared to top-down approaches, are more often voluntary than mandatory. 
+Kebijakan Bottom-up menjalin kebersamaan dalam menjalankan praktik terbaik dari komunitas penelitian ilmiah yang ada dan, jika dibandingkan dengan pendekatan top-down, lebih sering bersifat sukarela daripada wajib. 
 
         * Open source/science projects
 
@@ -752,9 +752,9 @@ Bottom-up policies weave together best-practices from existing scientific resear
 
 	Evaluating the degree of alignment between top-down and bottom-up policies might help to illustrate how both approaches can better accommodate and promote Open Scholarship. 
 
-**Conflicts of Interest**
+**Konflik Kepentingan**
 
-JPT is the founder of the Open Science MOOC and the digital publishing platform, paleorXiv.
+JPT adalah penemu Open Science MOOC dan platfrom penerbitan digital, paleorXiv.
 
-TJK is a Communications Director at Oxford PharmaGenesis.
+TJK is DIrektur komunikasi di Oxford PharmaGenesis.
 
