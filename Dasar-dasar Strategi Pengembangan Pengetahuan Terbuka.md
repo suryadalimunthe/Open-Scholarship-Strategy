@@ -33,7 +33,7 @@ We also note that this strategy can only be based on information which we as a c
 
 1. Menyarankan lembaga pendanaan, pemerintah dan lembaga penelitian untuk meenyetujui kebijakan praktik pengetahuan terbuka selain akses terbuka (Open Access) dan berbagi data (data sharing); contohnya, penelaahan terbuka (open peer review), penggunaan identitas tetap, evaluasi terbuka, dan pra cetak.
 
-1. Make one's own contributions to 'openness' visible in public (e.g., one a CV or personal website).
+1. Buat kontribusi yang terbuka untuk publik (contoh, CV atau situs pribadi).
 
 1. Mengadopsi berbagai pendekatan penelitian ilmiah terbuka dan praktik pendidikan terbuka dengan skala yang lebih luas.
 
@@ -93,7 +93,7 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
     1. Artikel mana yang sedang diunduh dan dikutip. 
 
-1. Map and coordinate when current subscription and ‘big deal’ licenses will run out across institutes, and let it happen. Where cancellations or terminations occur, ensure that there is adequate post-subscription access using existing legal mechanisms (e.g., Inter-Library Loan). Explore routes for reinvesting money saved for library budgets.
+1. Petakan dan koordinasikan jika berlangganan yang masih ada dan perizinan ‘besar’ akan mengakhirinya terhadap lembaga, dan biarkan itu terjadi. Where cancellations or terminations occur, ensure that there is adequate post-subscription access using existing legal mechanisms (e.g., Inter-Library Loan). Explore routes for reinvesting money saved for library budgets.
 
 1. Membeli kembali dokumen-dokumen penting dan masukkan ke dalam badan karya ilmiah serta tingkatkan juga pengarsipan dokumen-dokumen penting tersebut.
 
