@@ -1,8 +1,8 @@
-# Foundations for Open Scholarship Strategy Development
+# Landasan Pengembangan Strategi Pengetahuan Terbuka
 
-## Purpose of this Document
+## Tujuan Dokumen ini
 
-*This document aims to agree on a broad, international strategy for the implementation of open scholarship that meets the needs of different national and regional communities but works globally.*
+*Dokumen ini mengandung strategi penerapan pengetahuan terbuka untuk tingkat regional, nasional, dan internasional.*
 
 Penelitian ilmiah adalah proses dalam memajukan pengetahuan untuk kepentingan umat manusia. Namun, praktik penelitian saat ini sedang berjuang dari berbagai ketegangan dan konflik karena beradaptasi dengan sistem digitalisasi. 'Pengetahuan Terbuka' sebenarnya adalah upaya untuk mengubah kembali praktik riset modern ke praktik idealnya. Kami tidak menawarkan istilah 'Pengetahuan Terbuka', tetapi mengakui bahwa itu adalah istilah holistik yang mencakup semua disiplin, praktik, dan prinsip, kadang-kadang juga disebut sebagai 'Ilmu Terbuka' atau 'Penelitian Terbuka'. Kami memilih istilah 'Pengetahuan Terbuka' karena lebih inklusif dari pada istilah lainnya.
 
