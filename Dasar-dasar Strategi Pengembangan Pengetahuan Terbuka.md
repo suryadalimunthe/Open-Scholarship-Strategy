@@ -11,6 +11,30 @@ Penerjemah: Tim Sains Terbuka - Surya Dalimunthe, Afrilya, Dasapta Erwin Irawan,
 [Hubungi Perwakilan Penerjemah](mailto:surya@alumni.nus.edu.sg)
 
 
+
+### Daftar Isi
+
+* [Purpose of this Document](#Purpose)
+* [Strategy](#Strategy)
+  * [Short-term strategy, <2 years](#Short)
+  * [Mid-term strategy, 2-5 years](#Middle)
+  * [Long-term strategy, >5 years](#Long)
+* [What is Open Scholarship?](#What_is)
+* [State of the Movement](#State)
+* [Top Strategic Priorities for Open Scholarship](#Priorities)
+  * [Democratization](#Democratization)
+  * [Pragmatism and transparency](#Pragmatism)
+  * [Infrastructure](#Infrastructure)
+  * [Public good](#Public)
+  * [Measurement](#Measurement)
+  * [Community and inclusion](#Community)
+* [Movement Strengths](#Strengths)
+* [Movement Challenges](#Challenges)
+  * [External conditions](#External)
+  * [Internal conditions](#Internal)
+* [Opportunities](#Opportunities)
+* [Threats](#Threats)
+
 # 1. Tujuan Dokumen
 
 *Dokumen ini mengandung strategi penerapan pengetahuan terbuka untuk tingkat regional, nasional, dan internasional.*
@@ -29,19 +53,29 @@ We also note that this strategy can only be based on information which we as a c
 
 ## 2.1 Strategi Jangka Pendek (>2 tahun)
 
-**Individu ****Level**
+**Tingkat Individu**
 
-1. Menyarankan lembaga pendanaan, pemerintah dan lembaga penelitian untuk meenyetujui kebijakan praktik pengetahuan terbuka selain akses terbuka (Open Access) dan berbagi data (data sharing); contohnya, penelaahan terbuka (open peer review), penggunaan identitas tetap, evaluasi terbuka, dan pra cetak.
+* Menyarankan lembaga pendanaan, pemerintah dan lembaga penelitian untuk meenyetujui kebijakan praktik pengetahuan terbuka selain akses terbuka (Open Access) dan berbagi data (data sharing); contohnya, penelaahan terbuka (open peer review), penggunaan identitas tetap, evaluasi terbuka, dan pra cetak.
 
-1. Buat kontribusi yang terbuka untuk publik (contoh, CV atau situs pribadi).
+* Buat kontribusi yang terbuka untuk publik (contoh, CV, platform terbuka, atau situs pribadi).
+	* Buat ini dalam mengembangkan cerita praktik terbaik Pengetahuan Terbuka.
 
-1. Mengadopsi berbagai pendekatan penelitian ilmiah terbuka dan praktik pendidikan terbuka dengan skala yang lebih luas.
+* Menggunakan berbagai pendekatan penelitian ilmiah terbuka dan praktik pendidikan terbuka dengan skala yang lebih luas. Lihat [FOSTER Open Science taxonomy](https://www.fosteropenscience.eu/resources) sebagai pedoman.
+	* Lebih penting lagi, mulailah dengan [making your own work available open access](https://cyber.harvard.edu	/hoap/How_to_make_your_own_work_open_access).
 
-1. Mengadopsi penggunaan perangkat lunak terbuka dan gratis untuk melaksanakan penelitian dan analisa sehingga proses komputerisasi dapat diperiksa oleh masyarakat dan juga agar sarana yang digunakan tersedia untuk semua orang sehingga mampu meningkatkan produktivitas. 
+* Menggunakan sumber terbuka dan perangkat lunak gratis untuk melaksanakan penelitian dan analisa sehingga proses komputerisasi dapat diperiksa oleh masyarakat dan juga agar sarana yang digunakan tersedia untuk semua orang sehingga mampu meningkatkan produktivitas. Perbedaan antara terbuka dan gratis, dapat melihat [OpenSource.com](https://opensource.com/article/17/11/open-source-or-free-software).
 
-1. Berkomitmen terhadap berbagai praktik pengetahuan terbuka, seperti membagikan data dan materi penelitian tanpa biaya, format berlisensi terbuka sehingga metode dan hasil penelitian dapat diuji dan dikembangkan oleh siapapun.
+* Berkomitmen terhadap berbagai praktik pengetahuan terbuka, seperti membagikan data dan materi penelitian tanpa biaya, format berlisensi terbuka sehingga metode dan hasil penelitian dapat diuji dan dikembangkan oleh siapapun.
 
-1. Membentuk struktur pendukung (seperti, openLab, walk-in labs) yang membimbing tentang pengetahuan terbuka, misalnya cara publikasi, belajar dan meneliti secara terbuka dan sarana/alat apa yang tersedia.
+* Berkomitmen dalam berbagi pracetak dalam menyebarkan karya secara terbuka dan cepat.
+
+* Menyusun dan mengembangkan praktik penggunaan ulang dalam membantu menciptakan budaya pengetahuan terbuka, dengan, antara lain:
+	* Mencari data yang ada sehingga kamu dapat menngunakan ulang selain menciptakan data kamu sendiri;
+	* Meninggalkan ** komentar / anotasi konstruktif ** pada pracetak / kode dll. Dengan alat terbuka seperti [hypothes.is] (https://web.hypothes.is/);
+	 * Membantu menjawab pertanyaan pada [Ask Open Science](https://ask-open-science.org/), [Stack Overflow](https://stackoverflow.com/) dan di Twitter; dan
+	 *  Merespon secara positif terhadap permintaan untuk peninjauan sejawat terbuka.
+	 
+* Membentuk struktur pendukung (seperti, openLab, walk-in labs) yang membimbing tentang pengetahuan terbuka, misalnya cara publikasi, belajar dan meneliti secara terbuka dan sarana/alat apa yang tersedia.
 
 ![image alt text](image_0.png)
 
