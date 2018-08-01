@@ -61,7 +61,7 @@ We also note that this strategy can only be based on information which we as a c
 	* Buat ini dalam mengembangkan cerita praktik terbaik Pengetahuan Terbuka.
 
 * Menggunakan berbagai pendekatan penelitian ilmiah terbuka dan praktik pendidikan terbuka dengan skala yang lebih luas. Lihat [FOSTER Open Science taxonomy](https://www.fosteropenscience.eu/resources) sebagai pedoman.
-	* Lebih penting lagi, mulailah dengan [making your own work available open access](https://cyber.harvard.edu	/hoap/How_to_make_your_own_work_open_access).
+	* Lebih penting lagi, mulailah dengan [making your own work available open access](https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access).
 
 * Menggunakan sumber terbuka dan perangkat lunak gratis untuk melaksanakan penelitian dan analisa sehingga proses komputerisasi dapat diperiksa oleh masyarakat dan juga agar sarana yang digunakan tersedia untuk semua orang sehingga mampu meningkatkan produktivitas. Perbedaan antara terbuka dan gratis, dapat melihat [OpenSource.com](https://opensource.com/article/17/11/open-source-or-free-software).
 
@@ -86,15 +86,31 @@ Kramer, Bianca, & Bosman, Jeroen. (2018, January). Rainbow of open science pract
 Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018, February). Zenodo. [https://zenodo.org/record/1183806](https://zenodo.org/record/1183806)
 
  
-1. Membina hubungan baik dengan para pemangku kepentingan yang terlibat dalam perkembangan pengetahuan terbuka (pustakawan, pembuat kebijakan, penerbit, pendukung pengetahuan terbuka dan siapa saja yang bergelut dalam pendidikan).
+* Membina hubungan baik dengan para pemangku kepentingan (e.g., openLabs, walk-in labs and support structures, makerspaces in the wider sense) yang dapat membantu membimbing tentang Pengetahuan Terbuka. Hal ini mencakup pertanyaan tentang bagaimana menerbitkan, mengajar, dan meneliti secara terbuka, dan alat apa yang dapat digunakan untuk ini (lihat gambar 1 dan 2, dan bagian *Tingkat Kelompok*).
 
-1. Berkolaborasi dengan peneliti yang mempraktikkan pengetahuan terbuka, mulai dari pengembangan perangkat lunak sumber terbuka dan alat untuk menerbitkan penelitian pra cetak.
+![Figure_1: Rainbow of open science practices](images/image_0.png)\
 
-1. Mendorong penerapan 'pola pikir terbuka' yang menekankan pentingnya proses penelitian terhadap hasilnya. 
+[Kramer, Bianca, & Bosman, Jeroen (2018, January). Rainbow of open science practices. Zenodo](https://doi.org/10.5281/zenodo.1147024). (CCBY)
 
-1. Tanda tangani Deklarasi San Francisco Declaration on Research Assessment (DORA) (NOTE:  DORA.) sebagai bentuk komitmen dalam meningkatkan penilaian penelitian.
+![Figure_2: Open Educational Practice (OEP): collection of scenarios](images/image_1.png)\
 
-**Kelompok**** Tingkat**** (laboratorium, departemen)**
+[Steiner, Tobias (2018, February). Open Educational Practice (OEP): collection of scenarios. Zenodo](https://zenodo.org/record/1183805). (CC0)
+
+* Membina hubungan yang lebih baik dengan pemangku kepentingan lain yang terlibat dalam pengembangan Pengetahuan Terbuka (misalnya, pustakawan, pembuat kebijakan, penerbit, dan penyedia layanan lainnya, pendukung Akses Terbuka, dan mereka yang aktif mengajar, ditambah TIK dan posisi dukungan lainnya untuk ilmu pengetahuan & pendidikan).
+
+* Berkolaborasi dengan peneliti yang mempraktikkan pengetahuan terbuka, mulai dari pengembangan perangkat lunak sumber terbuka dan alat untuk menerbitkan penelitian pra cetak dan berbagi pengalaman tentang pendidikan terbuka.
+
+* Mendorong penerapan 'pola pikir terbuka' yang menekankan pentingnya proses penelitian terhadap hasilnya. 
+
+* Tanda tangani Deklarasi San Francisco Declaration on Research Assessment (DORA) (NOTE:  DORA.) sebagai bentuk komitmen dalam meningkatkan penilaian penelitian.
+	* Sebagai alternatif, gunakan [Leiden Manifesto](http://www.leidenmanifesto.org/).
+
+* Untuk pendidikan, tandatangani [Cape Town Open Education Declaration](http://www.capetowndeclaration.org/sign-the-declaration) dalam menunjukkan komitmen terhadap tiga strategi deklarasi sebagai bagian dari pengajaran, pembelajaran dan/atau kehidupan kerja.
+	 * Untuk yang tertarik lebih, perhatikan [Ten Directions to Move Open Education Forward](http://www.capetowndeclaration.org/cpt10/).
+
+* Menolak menandatangani perjanjian penyerahan hak cipta, kecuali kamu diizinkan menyimpan hak cipta karya kamu di bawah [Creative Commons](https://creativecommons.org/licenses).
+
+**Tingkat Kelompok (laboratorium, departemen)**
 
 1.Mendirikan pusat-pusat pengetahuan terbuka (tempat atau kelompok untuk berdiskusi) dan menghubungkannya untuk pengembangan komunitas. 
   1. If a local one does not yet exist, establish it.
