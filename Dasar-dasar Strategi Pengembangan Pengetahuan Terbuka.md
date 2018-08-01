@@ -55,7 +55,7 @@ We also note that this strategy can only be based on information which we as a c
 
 **Tingkat Individu**
 
-* Menyarankan lembaga pendanaan, pemerintah dan lembaga penelitian untuk meenyetujui kebijakan praktik pengetahuan terbuka selain akses terbuka (Open Access) dan berbagi data (data sharing); contohnya, penelaahan terbuka (open peer review), penggunaan identitas tetap, evaluasi terbuka, dan pra cetak.
+* Menyarankan lembaga pendanaan, pemerintah dan lembaga penelitian untuk menyetujui kebijakan praktik pengetahuan terbuka selain akses terbuka (Open Access) dan berbagi data (data sharing); contohnya, penelaahan terbuka (open peer review), penggunaan identitas tetap, evaluasi terbuka, dan pra cetak.
 
 * Buat kontribusi yang terbuka untuk publik (contoh, CV, platform terbuka, atau situs pribadi).
 	* Buat ini dalam mengembangkan cerita praktik terbaik Pengetahuan Terbuka.
