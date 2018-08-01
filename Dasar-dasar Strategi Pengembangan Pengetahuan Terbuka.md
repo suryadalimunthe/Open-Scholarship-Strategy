@@ -125,13 +125,13 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 * Mengadopsi praktik terbaik pengetahuan terbuka, termasuk data bersama sebagai hasil penelitian dan mengatasi bias publikasi dan "praktik penelitian yang diragukan" dengan alur kerja yang mengurangi hal tersebut.
 
-1. Mendorong pembuat keputusan pada jurnal ilmiah, penerbit, pendana, dan pendidikan tinggi serta lembaga penelitian untuk mengakui dan menghargai pengetahuan terbuka, khususnya yang menyangkut kebijakan evaluasi penelitian.
+* Mendorong pembuat keputusan pada jurnal ilmiah, penerbit, pendana, dan pendidikan tinggi serta lembaga penelitian untuk mengakui dan menghargai pengetahuan terbuka, khususnya yang menyangkut kebijakan evaluasi penelitian.
 
-1. Mempengaruhi penyedia layanan peringkat universitas (Times Higher Education) agar memasukkan unsur-unsur keterbukaan dalam indikator mereka.
+* Mempengaruhi penyedia layanan peringkat universitas (Times Higher Education) agar memasukkan unsur-unsur keterbukaan dalam indikator mereka.
 
-1. Memprakarsai diskusi tentang standar dan praktik terbaik tentang prinsip-prinsip publikasi data (the FAIR principles).
+* Memprakarsai diskusi tentang standar dan praktik terbaik tentang prinsip-prinsip publikasi data (contohnya [FAIR principles](https://www.go-fair.org/fair-principles/)).
 
-1. Meningkatkan keterlibatan badan penasehat fakultas, peneliti, mahasiswa, dan pustakawan.
+* Meningkatkan keterlibatan badan penasehat fakultas, peneliti, mahasiswa, dan pustakawan mengenai praktik dan prinsip Pengetahuan Terbuka (lihat gambar. 1 dan 2).
 
 **Tingkat Kelembagaan (termasuk badan penelitian dan pendanaan)**
 
