@@ -112,14 +112,18 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 **Tingkat Kelompok (laboratorium, departemen)**
 
-1.Mendirikan pusat-pusat pengetahuan terbuka (tempat atau kelompok untuk berdiskusi) dan menghubungkannya untuk pengembangan komunitas. 
-  1. If a local one does not yet exist, establish it.
+* Mendirikan pusat-pusat pengetahuan terbuka (tempat atau kelompok untuk berdiskusi) dan menghubungkannya untuk pengembangan komunitas. 
+  * Jika lokal belum ada, dirikan (contohnya, menggunakan platform [Meetup](https://www.meetup.com/)).
+  * Gunakan komunitas nasional/intersional ini untuk mendukung pembelajaran tingkat bawah dan berbagi pilmu pengetahuan tentang praktik Pengetahuan Terbuka, khususnya pada budaya yang beragam. 
+  * Mulailah diskusi tentang perjanjian ilmu terbuka secara implisit atau eksplisit atau kode dalam membimbing departemen, laboratorium atau kelompok penelitian. Hal ini dapat dilandaskan pada yang sudah ada, seperti [Contributor Covenant](https://www.contributor-covenant.org/).
+  
+* Menetapkan pakar hak cipta yang dapat membantu terkait hal-hal hak cipta dan penggunaan lisensi Creative Commons.
 
-1. Menetapkan pakar hak cipta yang dapat membantu terkait hal-hal hak cipta dan penggunaan lisensi Creative Commons.
+* Mengamati praktik terbaik untuk mengetahui apa sebenarnya pengetahuan terbuka dan bagaimana dampak postifnya.
 
-1. Mengamati praktik terbaik untuk mengetahui apa sebenarnya pengetahuan terbuka dan bagaimana dampak postifnya.
+* Melibatkan departemen komunikasi dan pejabat penilai penelitian. Aturlah diskusi untuk memberi tahu mereka tentang sains dan pengetahuan terbuka, dan peka terhadap fakta bahwa itu mungkin menyiratkan bahwa mereka mengubah seluruh pandangan mereka tentang apa yang penting dalam ilmu pengetahuan dan apa peran mereka terhadapnya.
 
-1. Mengadopsi praktik terbaik pengetahuan terbuka, termasuk data bersama sebagai hasil penelitian dan mengatasi bias publikasi dan "praktik penelitian yang diragukan" dengan alur kerja yang mengurangi hal tersebut.
+* Mengadopsi praktik terbaik pengetahuan terbuka, termasuk data bersama sebagai hasil penelitian dan mengatasi bias publikasi dan "praktik penelitian yang diragukan" dengan alur kerja yang mengurangi hal tersebut.
 
 1. Mendorong pembuat keputusan pada jurnal ilmiah, penerbit, pendana, dan pendidikan tinggi serta lembaga penelitian untuk mengakui dan menghargai pengetahuan terbuka, khususnya yang menyangkut kebijakan evaluasi penelitian.
 
