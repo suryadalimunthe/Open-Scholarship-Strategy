@@ -249,19 +249,28 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 * Mengadopsi prinsip penilaian penelitian yang lebih adil seperti yang diuraikan di DORA. Pastikan bahwa mereka yang bertanggung jawab atas penilaian penelitian, termasuk pengangkatan, penguasaan, dan komisi pemberian hibah mematuhi ini.
 
 
-## 2.2 Strategi Jangka Menengah (3 - 5 tahun)
+## 2.2 Strategi Jangka Menengah (2 - 5 tahun) <a name="Middle"></a>
+
+Harapan pada poin ini adalah The expectation at this point is that specific parts of the short-term strategy will have been initiated, based on the needs of respective groups, and are either in place or in development. Often, these are ongoing processes, and therefore might overlap with the mid-term strategy, and are not worth repeating here. However, all of the items mentioned in the [short-term strategy](#Short) are still relevant at this stage, depending on the pace of development.
 
 **Tingkat Individu**
 
-1. Lanjutkan melatih para peneliti baru tentang pengetahuan terbuka.
+* Lanjutkan melatih para peneliti baru tentang praktik pengetahuan terbuka.
+	* Di daerah yang mungkin kurang, bangun strategi jaringan komunitas untuk meningkatkan usaha pengadvokasian. 
+	
+* Pastikan bahwa semua proses dan hasil penelitian Anda, termasuk yang lalu, secara terbuka berlisensi dan bisa digunakan ulang.
 
-1. Mengembangkan alur kerja praktek-praktek pengetahuan terbuka.
+* Mengembangkan alur kerja praktek-praktek pengetahuan terbuka untuk membuktikan keefektivannya dibandingkan yang sistem tradisional yang lebih tertutup.
 
-1. Lanjutkan aspek-aspek yang ada di strategi jangka pendek.(Bagian 2.1).
+* Terus berinovasi pada proses penelitian baru dan alur kerja layanan, sarana dan teknologi tersedia.
+
+* Gunakan teknologi web semantik untuk menyebarkan hasil penelitian yang sudah ada dan yang akan datang; termasuk menandai (tagging) (lihat pendekatan seperti [OATP](https://tagteam.harvard.edu/hubs/oatp/items) dan artikel ilmiah *Openness and Education* [DeVries, Rolfe, Jordan and Weller, 2017](http://www.katyjordan.com/go_gn/network/)),atau anotasi.
+
+* Lanjutkan aspek-aspek yang ada di strategi jangka pendek.(Bagian 2.1).
 
 **Tingkat Kelompok**
 
-1. Create a comprehensive set of mechanisms that allow fully open research processes to public participation (no more piggybacking, no more "human processing units", etc.).
+* Menciptakan mekanisme komprehensif yang membolehkan proses penelitian terbuka kepada publik (no more piggybacking, no more "human processing units", etc.).
 
 1. Develop Open Scholarship workflows for all group members to take advantage of increasingly well-developed open scholarly infrastructure and tools.
 
