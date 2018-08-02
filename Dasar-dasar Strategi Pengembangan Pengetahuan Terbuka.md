@@ -191,48 +191,63 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 * Menciptakan kolaborasi perpustakaan baru atau mendukung/bergabung dengan yang sudah ada (contohnya, [International Coalition of Library Consortia](http://icolc.net/)) untuk bekerja sama dalam pengembangan infrastruktur (contohnya, [LIBER](http://libereurope.eu/), [EIFL](http://www.eifl.net/), [ARL](http://www.arl.org/), [SPARC](https://sparcopen.org/)).
 
-* bergabung dengan  Koalisi Keberlanjutan Global untuk Layanan Ilmu Pengetahuan Terbuka [(SCOSS)](http://scoss.org/), dan investigate coalitions with the [Open Research Funders Group](http://www.orfg.org).
+* Bergabung dengan  Koalisi Keberlanjutan Global untuk Layanan Ilmu Pengetahuan Terbuka [(SCOSS)](http://scoss.org/), dan periksa koalisi tersebut dengan [Open Research Funders Group](http://www.orfg.org).
 
-     * Consortia like the German [Projekt DEAL](https://www.projekt-deal.de/) could provide examples of how to take the first step towards this at a national level. Gaining support from SPARC for any such developments would also be useful.
-1. Build on faculty and funder support for OA and related quality assurance initiatives (e.g., peer review) that are decoupled from journals. Agree on a governance structure for a world-wide scholarly infrastructure. (e.g., [W3C](https://www.w3.org/)).
+     * Konsorsium seperti yang ada di Jerman [Projekt DEAL](https://www.projekt-deal.de/) dapat dijadikan sebagai contoh terhadap langkah-langkah awal pada tingkat nasional. Mendapat dukungan dari SPARC untuk berbagai perkembangan juga sangat berguna.
+     
+* Membina dukungan fakultas dan pendana untuk Akses Terbuka dan inisiatif lainnya (contohnya, peninjauan sejawat (peer review)) yang dipisahkan dari jurnal. Menyetujui struktur kepemimpinan untuk infrastruktur ilmiah dunia (contohnya, [W3C](https://www.w3.org/)).
 
-1. Menciptakan standar akademis dalam menerapkan platform alternatif penerbitan ilmiah (menggunakan using the funds freed from subscriptions, building on existing repositories/environments). 
+* Menciptakan standar akademis dalam menerapkan platform alternatif penerbitan ilmiah (berlangganan tanta biaya, mengembangkan penyimpanan yang sudah ada). 
 
-1. Mendukung kolaborasi seperti Metadata 2020 (catatan:  Metadata 2020 (http://www.metadata2020.org/, diakses pada Januari 2018).), [NISO](http://www.niso.org/)/[NIST](https://www.nist.gov/), dan [eLife](https://elifesciences.org/), untuk membantu menghubungkan antara sistem dan kelompok.
+* Mendukung kolaborasi seperti [Metadata 2020] (http://www.metadata2020.org/), [NISO](http://www.niso.org/)/[NIST](https://www.nist.gov/), dan [eLife](https://elifesciences.org/), untuk membantu menghubungkan antara sistem dan kelompok.
 
-1. Mengambil tindakan dalam melawan privatisasi karya ilmiah dan prosesnya guna untuk mengubah industri penerbitan agar adil dalam hal hak cipta, persaingan pasar dan  dimiliki oleh komunitas ilmiah.
+* Mengambil tindakan dalam melawan privatisasi karya ilmiah dan prosesnya guna untuk mengubah industri penerbitan agar adil dalam hal hak cipta, persaingan pasar dan  dimiliki oleh komunitas ilmiah.
 
-1. Menciptakan analisis kebijakan biaya untuk pengetahuan terbuka (contohnya, harga yang pantas dalam menerbitkan makalah) yang digunakan sebagai dasar untuk alasan biaya pajak tiap tahun.
+* Menciptakan analisis kebijakan biaya untuk pengetahuan terbuka (contohnya, harga yang pantas dalam menerbitkan makalah) yang digunakan sebagai dasar untuk alasan biaya pajak tiap tahun.
 
-1. Menerapkan teknologi penyortiran, penyaringan dan pencarian yang tersedia untuk hasil-haasil penelitian.
+* Menerapkan teknologi penyortiran, penyaringan dan pencarian yang tersedia untuk hasil-haasil penelitian.
 
-1. Pendana penelitian dan perpustakaan hold most of the purse strings, and further engagement on this front is essential, especially in defining their relative roles in developing or funding scholarly infrastructure. Simply channeling more money into the existing system, with perverse incentives and skewed power dynamics, is clearly no longer sustainable for research.
+* Mengizinkan akses terhadap naskah dan data.
 
-1. Mendorong pemberi dana penelitian untuk memvariasikan portofolio hasil penelitian.
+* Pendana penelitian dan perpustakaan sangat berperan penting, terutama dalam hal pengembangan atau pendanaan infrastruktur ilmiah. Sederhananya, menyalurkan dana lebih untuk sistem yang sudah ada, dengan Simply channeling more money into the existing system, dinamika insentif dan kekuasaan yang buruk jelas tidak lagi bagus untuk penelitian.
 
-    1. Pengadopsian pracetak dan kebijakan akses terbuka yang lebih luas sama seperti NIH dan Wellcome Trust.
+* Mengembangkan peta nasional dan regional yang berkelanjutan untuk Pengetahuan Terbuka.
 
-1. Mengurangi biaya pemrosesan artikel (article-processing charges - APCs) untuk akses terbuka.
+* Mendorong pemberi dana penelitian untuk memvariasikan portofolio hasil penelitian.
 
-    1. Pasar penerbitan ilmiah mungkin memerlukan penyelidikan tingkat pemerintah secara rinci untuk menstabilkan ini.
+    * Pengadopsian pracetak dan kebijakan akses terbuka yang lebih luas sama seperti NIH dan Wellcome Trust.
+  
+* Mendorong pemberi dana penelitian untuk mempromosikan Pengetahuan Terbuka.
+	* Studi penentu dana yang menggunakan teori perubahan perilaku dalam memetakan faktor penentu dalam praktik Pengetahuan Terbuka 	yang berbeda (misalnya, mengapa beberapa peneliti secara rutin mempublikasikan pracetak sementara yang lain tidak? Apakah 	  argumen para peneliti yang menentang pembagian data menjadi alasan mengapa yang lain yang tidak membagikan data, bukan?).
+	* Studi pendanaan menggunakan teori pemangku kepentingan untuk mengeksplorasi cara-cara dalam mencapai kebijakan Pengetahuan 		Terbuka yang lebih baik pada lembaga penelitian dan pendidikan.
 
-1. Menggunakan ORCID untuk mengidentifikasi seluruh peneliti.
+* Mengurangi biaya pemrosesan artikel (article-processing charges - APCs) untuk akses terbuka.
 
-1.  Where subscriptions have not yet expired, mandating offsetting agreements for hybrid titles in order to reduce double-dipping. 
+* Mengurangi biaya pemrosesan artikel (APCs) dan buku (BPCs) untuk mencocokkan pasaran rata-rata jurnal Akses Terbuka. 
+	* Pasar penerbitan ilmiah mungkin memerlukan penyelidikan tingkat pemerintah secara rinci untuk menstabilkan ini.
 
-    1. Where offsetting deals are in place, these can be streamlined and standardised across sectors to reduce administrative burden.
+* Menggunakan [ORCID](https://orcid.org/) untuk mengidentifikasi seluruh peneliti.
 
-1.Untuk penerbit akademis agar terlibat dengan Lisensi Komunikasi Inggris (Scholarly Communications License-SCL). ini akan mengurangi waktu yang dihabiskan untuk pemrosesan, biaya yang dikeluarkan untuk pemrosesan artikel, dan untuk peneliti di Inggris, bantu mereka untuk mematuhi kebijakan akses terbuka RCUK (catatan:  UKSCL.). 
+* Jika berlangganan belum berakhir, buat perjanjian ganti rugi untuk mengurangi double-dipping. 
 
-    1. For those outside of the UK to consider extending the UK SCL (or relevant variations of it) towards other regional funding strategies.
+* Where offsetting deals are in place, these can be streamlined and standardised across sectors to reduce administrative burden.
 
-1. Pengadopsian kebijakan bebas biaya untuk para peneliti dari negara-negara berpenghasilan rendah hingga menengah.
+* Untuk penerbit akademis bisa terlibat dengan [UK Scholarly Communications License](http://ukscl.ac.uk/)) yang dapat mengetahui lebih tentang hak cipta penulis. Hal ini mampu mengurangi waktu yang dihabiskan untuk pemrosesan, biaya yang dikeluarkan untuk pemrosesan artikel, dan untuk peneliti di Inggris, bantu mereka untuk mematuhi kebijakan akses terbuka [UKRI Open Access policy](https://www.ukri.org/funding/information-for-award-holders/open-access/open-access-policy/). 
 
-1. Untuk mengubah sebagian besar jurnal ilmiah dari berlangganan ke penerbitan akses terbuka (OA) sesuai dengan preferensi publikasi khusus komunitas. (catatan:  Converting scholarly journals to Open Access: A review of approaches and experiences.)
+    * untuk yang di luar Inggris untuk mempertimbangkan UK SCL (atau yang lain) selain strategi pendanaan regional lain.
 
-1. Untuk mengundang universitas, lembaga penelitian, pendana. perpustakaan dan penerbit dalam berkolaborasi terhadap transisi praktik terbuka untuk kepentingan pengetahuan dan msyarakat luas. (catatan:  kebijakan akses terbuka (Open Access)dan ilmu serta ilmu eropa: State of play.)
+* Pengadopsian kebijakan bebas biaya untuk para peneliti dari negara-negara berpenghasilan rendah hingga menengah.
 
-1. Create showcases / highlights / good practices of Open Practices on national open scholarship / open science website together with relevant information and resources.
+* Untuk mengubah sebagian besar jurnal ilmiah (https://nrs.harvard.edu/urn-3:HUL.InstRepos:27803834) dari berlangganan ke penerbitan akses terbuka (OA) sesuai dengan preferensi publikasi khusus komunitas.
+
+* Untuk mengundang semua pihak yang berkepentingan (https://doi.org/10.3233/ISU-170839) termasuk universitas, lembaga penelitian, pendana. perpustakaan dan penerbit dalam berkolaborasi terhadap transisi praktik terbuka untuk kepentingan pengetahuan dan msyarakat luas. 
+
+* Menciptakan praktik terbuka yang bagus tentang pengetahuan terbuka nasional/ situs ilmu terbuka bersamaan dengan informasi dan sumber.
+
+* Mendorong formalisasi Kursus Pelatihan Ilmu Pengetahuan Terbuka, seperti yang ditawarkan oleh [FOSTER](https://www.fosteropenscience.eu/toolkit), program pelatihan kampus (dan yang lebih tinggi).
+
+* Mengadopsi prinsip penilaian penelitian yang lebih adil seperti yang diuraikan di DORA. Pastikan bahwa mereka yang bertanggung jawab atas penilaian penelitian, termasuk pengangkatan, penguasaan, dan komisi pemberian hibah mematuhi ini.
+
 
 ## 2.2 Strategi Jangka Menengah (3 - 5 tahun)
 
