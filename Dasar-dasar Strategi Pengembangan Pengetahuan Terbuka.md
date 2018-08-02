@@ -191,8 +191,9 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 * Menciptakan kolaborasi perpustakaan baru atau mendukung/bergabung dengan yang sudah ada (contohnya, [International Coalition of Library Consortia](http://icolc.net/)) untuk bekerja sama dalam pengembangan infrastruktur (contohnya, [LIBER](http://libereurope.eu/), [EIFL](http://www.eifl.net/), [ARL](http://www.arl.org/), [SPARC](https://sparcopen.org/)).
 
-    1. Konsorsium seperti Projekt DEAL dapat memberikan contoh langkah-langkah awal di tingkat nasional. Support from SPARC for any such developments would also be useful.
+* bergabung dengan  Koalisi Keberlanjutan Global untuk Layanan Ilmu Pengetahuan Terbuka [(SCOSS)](http://scoss.org/), dan investigate coalitions with the [Open Research Funders Group](http://www.orfg.org).
 
+     * Consortia like the German [Projekt DEAL](https://www.projekt-deal.de/) could provide examples of how to take the first step towards this at a national level. Gaining support from SPARC for any such developments would also be useful.
 1. Build on faculty and funder support for OA and related quality assurance initiatives (e.g., peer review) that are decoupled from journals. Agree on a governance structure for a world-wide scholarly infrastructure. (e.g., [W3C](https://www.w3.org/)).
 
 1. Menciptakan standar akademis dalam menerapkan platform alternatif penerbitan ilmiah (menggunakan using the funds freed from subscriptions, building on existing repositories/environments). 
