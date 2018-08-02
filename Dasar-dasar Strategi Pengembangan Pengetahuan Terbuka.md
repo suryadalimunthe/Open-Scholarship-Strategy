@@ -135,39 +135,61 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 **Tingkat Kelembagaan (termasuk badan penelitian dan pendanaan)**
 
-1. Perpustakaan penelitian sebaiknya mengumpulkan informasi secara meneyeluruh tentang literatur penelitian. Informasi itu dapat digunakan untuk membantu negosiasi, memutuskan hubungan dengan penerbit mahal, dan membatalkan berlangganan dengan memberikan bukti ke dalam layanan lintas sektoral, yang berisi:
+* Perpustakaan penelitian sebaiknya mengumpulkan informasi secara meneyeluruh tentang literatur penelitian. Informasi itu dapat digunakan untuk membantu negosiasi, memutuskan hubungan dengan penerbit mahal, dan membatalkan berlangganan dengan memberikan bukti ke dalam layanan lintas sektoral, yang berisi:
 
-    1. Di mana peneliti dapat menerbitkan;
+    * Di mana peneliti dapat menerbitkan;
 
-    1. Siapa dewan editor dan penelaah sejawat;
+    * Siapa dewan editor dan penelaah sejawat;
 
-    1. Berapa biaya untuk berlangganan penerbitan;
+    * Berapa biaya untuk berlangganan penerbitan;
 
-    1. Berapa biaya pemrosesan artikel untuk akses terbuka; dan
+    * Berapa biaya pemrosesan artikel untuk akses terbuka; dan
 
-    1. Artikel mana yang sedang diunduh dan dikutip. 
+    * Artikel mana yang sedang diunduh dan dikutip. 
 
-1. Petakan dan koordinasikan jika berlangganan yang masih ada dan perizinan ‘besar’ akan mengakhirinya terhadap lembaga, dan biarkan itu terjadi. Where cancellations or terminations occur, ensure that there is adequate post-subscription access using existing legal mechanisms (e.g., Inter-Library Loan). Explore routes for reinvesting money saved for library budgets.
+* Petakan dan koordinasikan jika berlangganan yang masih ada dan perizinan ‘besar’ akan mengakhirinya terhadap lembaga, dan biarkan itu terjadi. Where cancellations or terminations occur, ensure that there is adequate post-subscription access using existing legal mechanisms (e.g., Inter-Library Loan). Explore routes for reinvesting money saved for library budgets.
 
-1. Membeli kembali dokumen-dokumen penting dan masukkan ke dalam badan karya ilmiah serta tingkatkan juga pengarsipan dokumen-dokumen penting tersebut.
+* Membeli kembali dokumen-dokumen penting dan masukkan ke dalam badan karya ilmiah serta tingkatkan juga pengarsipan dokumen-dokumen penting tersebut.
 
-1. Pendana penelitian dapat menentukan apa-apa saja yang menjadi standar publikasi yang dapat diterima. Research funders can define the limits of what is an acceptable standard of publication. They therefore have the power to mandate publication in journals with a cap on APCs, or in OA-only venues, or in those with short or zero-length embargoes (e.g., Emerald, The Royal Society).
+* Membantu memberitahu lebih kepada peneliti tentang Help alat [Author Alliance termination of transfer](https://www.authorsalliance.org/resources/termination-of-transfer/) yang dapat membantu mereka terkait hak cipta sebagai penulis.
 
-1. Mengembangkan kebijakan penyimpanan hak cipta penelitian ilmiah di lembaga penelitian yang merupakan  kekurangan mereka saat ini.
+* Pendana penelitian dapat menentukan apa-apa saja yang menjadi standar publikasi yang dapat diterima. They therefore have the power to mandate publication in journals with a cap on APCs, or in OA-only venues, or in those with short or zero-length embargoes (e.g., Emerald, The Royal Society).
 
-1. Mengadopsi pedoman aturan kontributor (CRediT - Contributor Rules Taxonomy)  (catatan:  CASRAI CRediT scheme.) untuk membantu mengidentifikasi kontribusi penulis lebih jelas.
+* Menolak terlibat dengan penerbit mahal [double dip](http://www.rluk.ac.uk/about-us/blog/the-costs-of-double-dipping/), dan meminta transfaransi data di mana hal-hal seperti ini mungkin terjadi (sebagai contoh lihat [Buranyi, 2017](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)).
 
-1. Mendorong penginisiasian penerbit terhadap kutipan terbuka (NOTE:  Initiative for Open Citations.) (I4OC) dalam hubungannya dengan standar keterbukaan yang lebih luas.
+* Menolak terlibat dengan penerbit yang tidak transparan tentang harga baik itu berlangganan atau Akses terbuka. Termasuk juga  penerbit yang bersikeras menggunakan perjanjian rahasia sebagai bagian dari persyaratan kontrak lisensi.
 
-1. Bagi lembaga penelitian yang saat ini kesulitan, baik mengadakan dan memelihara tempat penyimpanan akses terbuka atau mengetahui sumber yang sudah ada untuk digunakan dan mengadopsi kebijakan akses terbuka (NOTE:  Good practices for university open-access policies, Harvard University.). Buatlah agar mudah ditemukan dan dapat diakses di situs web lembaga.
+* Melibatkan penerbit yang lebih transparan soal aspek keuangan penerbitan mereka, sama seperti [Ubiquity Press](https://www.ubiquitypress.com/site/publish/).
 
-1. Mempromosikan dan mengkompensasi waktu dan usaha untuk pelatihan pengetahuan terbuka, termasuk sumber terbuka, akses terbuka, dan pendidikan terbuka.
+* Mendesak penerbit membuat semua catatan bibliografi, metrik penggunaan, dan data kutipan tersedia secara gratis dan dapat diakses baik dalam format yang dapat dibaca manusia dan mesin.
 
-1. Melibatkan kelompok penelitian untuk mengembangkan dan mengiklankan insentif untuk yang membagikan pracetak, data terbuka, analisis penggandaan dan perekrutan akses terbuka, promosi dan jabatan. Tetapkan cara baru untuk menggambarkan kontribusi penelitian.
+* Mengembangkan kebijakan penyimpanan hak cipta penelitian ilmiah di lembaga penelitian yang merupakan  kekurangan mereka saat ini.
+
+* Mengadopsi pedoman aturan kontributor (CRediT - Contributor Rules Taxonomy)  (catatan:  CASRAI CRediT scheme.) untuk membantu mengidentifikasi kontribusi penulis lebih jelas.
+
+* Menolak terlibat dengan penertbit yang membatasi pracetak, Akses Terbuka dan kebijakan hak cipta.
+
+* Mendorong penginisiasian penerbit terhadap kutipan terbuka (NOTE:  Initiative for Open Citations.) (I4OC) dalam hubungannya dengan standar keterbukaan yang lebih luas.
+
+* Bagi lembaga penelitian yang saat ini kesulitan, baik mengadakan dan memelihara tempat penyimpanan akses terbuka atau mengetahui sumber yang sudah ada untuk digunakan dan mengadopsi kebijakan akses terbuka [Open Access policy](https://cyber.harvard.edu/hoap/Good_practices_for_university_open-access_policies). Buatlah agar mudah ditemukan dan dapat diakses di situs web lembaga dan pengindeks yang relevan.
+   * Contoh kebijakan Akses Terbuka, [ROARMAP](https://roarmap.eprints.org/cgi/search/advanced)
+   * Contoh Pendidikan Terbuka/ kebijakan OER, [Creative Commons OER policy registry](https://wiki.creativecommons.org/wiki/OER_Policy_Registry), atau kebijakan Uni Eropa, [Policy approaches to Open Education, 2017](https://doi.org/10.2760/283135
+
+* Mempromosikan dan mengkompensasi waktu dan usaha untuk pelatihan pengetahuan terbuka, termasuk sumber terbuka, akses terbuka, dan pendidikan terbuka.
+
+* Mengaktifkan struktur dukungan lokal seperti openlabs dan publikasi terbuka serta pembelajaran penelitian, bimbingan dan saran.
+
+* Melibatkan kelompok penelitian untuk mengembangkan dan mengiklankan insentif untuk yang membagikan pracetak, data terbuka, analisis penggandaan dan perekrutan akses terbuka, promosi dan jabatan. Tetapkan cara baru untuk menggambarkan kontribusi penelitian.
+
+* Mendorong dan mengadopsi prinsip-prinsip penilaian penelitian yang lebih adil seperti yang diuraikan dalam DORA. Pastikan bahwa mereka yang bertanggung jawab atas penilaian penelitian, termasuk pengangkatan, penguasaan, dan komisi pemberian hibah mematuhi ini.
+
+* Mencari pengganti perangkat lunak berpemilik dengan alternatif sumber terbuka.
+
+* Mewajibkan peneliti untuk bekerja dengan standar terbuka dan format file (baik secara eksklusif atau di samping standar dan format file eksklusif).
 
 **Tingkat Nasional (atau lebih tinggi)**
 
-1. Menciptakan kolaborasi perpustakaan baru atau mendukung/bergabung dengan yang sudah ada (contohnya, the International Coalition of Library Consortia (NOTE:  International Coalition of Library Consortia. )) untuk bekerja sama dalam pengembangan infrastruktur (contohnya, [LIBER](http://libereurope.eu/), [EIFL](http://www.eifl.net/), [ARL](http://www.arl.org/), [SPARC](https://sparcopen.org/)).
+* Menciptakan kolaborasi perpustakaan baru atau mendukung/bergabung dengan yang sudah ada (contohnya, [International Coalition of Library Consortia](http://icolc.net/)) untuk bekerja sama dalam pengembangan infrastruktur (contohnya, [LIBER](http://libereurope.eu/), [EIFL](http://www.eifl.net/), [ARL](http://www.arl.org/), [SPARC](https://sparcopen.org/)).
 
     1. Konsorsium seperti Projekt DEAL dapat memberikan contoh langkah-langkah awal di tingkat nasional. Support from SPARC for any such developments would also be useful.
 
