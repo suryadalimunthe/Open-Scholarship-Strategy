@@ -272,23 +272,29 @@ Harapan pada poin ini adalah The expectation at this point is that specific part
 
 * Menciptakan mekanisme komprehensif yang membolehkan proses penelitian terbuka kepada publik (no more piggybacking, no more "human processing units", etc.).
 
-1. Develop Open Scholarship workflows for all group members to take advantage of increasingly well-developed open scholarly infrastructure and tools.
+* Develop Open Scholarship workflows for all group members to take advantage of increasingly well-developed open scholarly infrastructure and tools.
 
-1. Lanjutkan aspek-aspek yang ada di strategi jangka pendek.(Bagian 2.1).
+* Pastikan anggota kelompok dilatih keterampilan yang relevan, termasuk perjanjian publik, kebijakan pengembangan, analisis data, pengembangan web, citizen science dan komunikasi ilmiah. 
+
+* Menunjukkan perkembangan dan cerita sukses tentang praktik Pengetahuan terbuka.
+
+* Lanjutkan membangun dan memberdayakan komunitas Pengetahuan Terbuka lokal, termasuk peneliti baru dan mahasiswa.
+
+* Lanjutkan aspek-aspek yang ada di strategi jangka pendek.(Bagian 2.1)
 
 **Tingkat Lembaga**
 
-1. Implement opt-out automatization of manuscript handling/single-click submission to an open repository under default open licenses.
+* Implement opt-out automatization of manuscript handling/single-click submission to an open repository under default open licenses.
 
-    1. Implement opt-out automatization of data deposition under default open licenses.
+    * Implement opt-out automatization of data deposition under default open licenses.
 
-    1. Implement opt-out automatization of code accessibility and version control under default open licenses.
+    * Implement opt-out automatization of code accessibility and version control under default open licenses.
 
 1. To convert resources currently spent on journal subscriptions into funds supporting sustainable OA business models and scholarly infrastructure.
 
 1. Mengembangkan dan mengajarkan berbagai praktik pengetahuan terbuka (contohnya, seminar/loka karya untuk mahasiswa).
 
-**Nasional**** (atau lebih tinggi)**** Tingkat**
+**Nasional Tingkat**
 
 1. Mulai menerapkan teknologi semantik di semua hasil penelitian.
 
