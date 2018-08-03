@@ -527,7 +527,7 @@ Memang, sangat tidak mungkin lebih dari 10 juta ilmuwan, berpendidikan tinggi da
 
 In working towards principles of Open Scholarship, we acknowledge that there is the potential for complexity, or even conflict in our objectives as policies and working practices evolve. Awareness of the broader research, industry and education landscape will help to position Open Scholarship to have the greatest possible impact, and to mitigate the potential of other policies and priorities to limit its potential. For example, copyright proposals in the EU that would limit who is permitted to undertake TDM (text and data mining), or policies promoting intellectual property (IP) and commercialisation should be balanced with policies that permit a wide range of uses of data, research, and knowledge. There do exist a number of [recent](https://www.communia-association.org/) [initiatives](https://fixcopyright.eu/) working towards the development of copyright frameworks that help the Open Scholarship cause.
 
-Other specific aspects include:
+ASpek khusus lain:
 
 * Penerbitan akses terbuka (Open Access) yang tidak hanya gratis untuk dibacaa juga gratis untuk digunakan kembali dan gratis untuk didistribusikan. (Catatan:  Open Access (the book) - Peter Suber (bit.ly/oa-book)).
 
@@ -559,73 +559,92 @@ Other specific aspects include:
 
     * E.g. OSTA template: [SGC](http://www.thesgc.org/click-trust) "click-trust" agreement  E.g. MTA (Material Transfer Agreement) templates through [Science Commons](http://sciencecommons.org/projects/licensing/) 
 
-* OER (Open Educational Resources)
+* OER (Open Educational Resources), untuk lebih jelas, lihat [Foundations for OER Strategy Development](http://www.oerstrategy.org/home/read-the-doc/).
 
-## 5.2 Pragmatism and transparency 
+## 5.2 Pragmatism and transparency  <a name="Pragmatism"></a>
 
-Mengikuti prinsip penciptaan pengetahuan yang dibuat lebih efisien melalui kolaborasi dan diperkuat melalui kritik, pengetahuan terbuka berusaha untuk memanfaatkan jaringan dengan menghubungkan para sarjana dan membuat proses ilmiah di semua tingkatan menjadi transparan.
+Mengikuti prinsip penciptaan pengetahuan yang dibuat lebih efisien melalui kolaborasi dan diperkuat melalui kritik, pengetahuan terbuka berusaha untuk memanfaatkan jaringan dengan menghubungkan para sarjana dan membuat proses ilmiah di semua tingkatan menjadi transparan. Such optimisation can be achieved through modularising the process of knowledge creation, opening the scientific value chain, integrating external knowledge sources and collective intelligence, and facilitating collaboration through online tools and platforms. This sort of openness in the research process itself represents a paradigm shift from the traditional closed and independent nature of research.
 
-* transparansi dan proses
+Aspek kunci lainnya:
 
-* Reproducibility ([Leek and Peng, 2015](http://www.pnas.org/content/112/6/1645); [Patil et al., 2016](https://www.biorxiv.org/content/early/2016/07/29/066803))
+* Proses harus setransparan mungkin dan sesuai kebutuhan (contohnya, untuk melindungi data sensitif).
 
-    * Krisis dalam ilmu kedokteran, psikologi, ekonomi dan sosiologi.
+* Reproducibility ([Leek and Peng, 2015](http://www.pnas.org/content/112/6/1645); [Patil et al., 2016](https://www.biorxiv.org/content/early/2016/07/29/066803)) ditingkatkan dengan peningkatan transparansi dari proses penelitian itu sendiri, dan bukan hanya output.
 
-    * Untuk menghasilkan hasil makalah penelitian melalui data dan kode.
+    * Aspek inti seperti metolodi terbuka, akses ke alat penelitia, juga alur penelitian yang transparan pada pracetak dan peninjauan sejawat terbuka.
+
+    * Membantu menyelesaikan krisis reprodusibilitas pada ilmu kesehatan, psikologi, ekonomi dan sosiologi.
+    * Researchers should aim to automatically generate the results in a research paper through appropriately documented data and code. 	     A range of Web 2.0 tools now exist to make this as simple as possible.
+    * Replicability, to obtain the similar conclusions from new experiments, observations, and analyses based on a previously published         	manuscript.
+
     
-* Keberlanjutan 
+* Keberlanjutan penelitian melalui peningkatan akses ke keahlian, kolaborasi, agregasi pengetahuan, dan peningkatan produktivitas.
 
-    * Mampu menguji hasil makalah dari waktu ke waktu, yang mencakup pengarsipan data dan versi perangkat lunak yang berkepanjangan 
+    * Mampu menguji hasil makalah dari waktu ke waktu, yang mencakup pengarsipan data dan versi perangkat lunak yang berkepanjangan
+    * Bermanfaat, dengan memulai dari dan memperluas alur kerja seseorang / basis kode / alat, dan menghindari duplikasi tugas teknis 	    yang tidak perlu.
 
-* Replikabilitas
+* Adoption of the huge array of Web 2.0 technologies for communication and collaboration, which help to facilitate increasing demands for higher productivity and research complexity.
 
-    * Untuk memperoleh kesimpulan serupa dari eksperimen, pengamatan, dan analisis baru berdasarkan makalah yang diterbitkan sebelumnya.
+* Much of this is dependent on the willingness of researchers themselves to contribute to scholarly research in an open, collaborative, and collective manner, rather than a more personal approach.
 
-* Kebajikan? (mulai dari dan memperluas alur kerja seseorang / basis kode / alat, menghindari duplikasi yang tidak perlu dari halteknis)
+  * Motivation for this is largely down to whether such researchers perceive this process as being advantageous to them in some way, for example getting a return on investment in social capital or prestige.
 
-* Metodologi terbuka
+* Many tools to facilitate and accelerate scientific discovery, and enhance the research process already exist in some form.
 
-* Sarana penelitian untuk usahaterbuka
+  * This includes social networking sites, electronic laboratory notebooks, data archives, online collaboration services, controlled vocabularies and ontologies, and other research sharing platforms.
 
-* Pra cetak
+  * A key element of their design is to help researchers improve what they are already doing, through efficiency, rather than designing them in mind of what researchers should be doing.
 
-* Ulasan sejawat terbuka
+  * Disruption beyond this structure, and the close association of research practices to finalised products based around research papers, is unlikely to catalyse change. This is due to the lack of intrinsic motivation of researchers to commit to processes that do not offer them a reciprocal gain in social capital.
 
-* Blinding
 
-* Sumber terbuka
+## 5.3 Infrastruktur <a name="Infrastruktur"></a>
 
-* Model pendanaan terbuka
+Mencapai manfaat penuh pengetahuan terbuka  membutuhkan platform, alat dan layanan untuk penyebaran dan kolaborasi. Infrastruktur semacam itu dapat dibangun dengan teknologi off-shelf yang ada saat ini dengan biaya yang jauh lebih rendah daripada metode penerbitan tradisional. Saat ini, ada kekurangan dana dan dukungan pada aspek-aspek penting dari infrastruktur ilmiah terbuka. 
 
-## 5.3 Infrastruktur
+Contohnya, [DOAJ](https://doaj.org/, [arXiv](https://arxiv.org/), [Humanities Commmons](https://hcommons.org/), [Open Science Framework](https://osf.io/), [Sherpa/RoMEO](http://www.sherpa.ac.uk/romeo/index.php), [ORCID](https://orcid.org/), [Open Science Foundation](http://opensciencefoundation.eu/), [Public Knowledge Project](https://pkp.sfu.ca/) dan [Open Knowledge Foundation](https://okfn.org/), dan banyak lagi, yang menawarkan layanan penting untuk berbagai pemangku kepentingan. Tanpa sumber pendanaan yang berkelanjutan, layanan ini tetap rentan gagal, atau diakuisisi oleh pemain di sektor swasta, kejadian yang semakin umum terjadi.
 
-Mencapai manfaat penuh pengetahuan terbuka  membutuhkan platform, alat dan layanan untuk penyebaran dan kolaborasi. Infrastruktur semacam itu dapat dibangun dengan teknologi off-shelf yang ada saat ini dengan biaya yang jauh lebih rendah daripada metode penerbitan tradisional. Saat ini, ada kekurangan dana dan dukungan pada aspek-aspek penting dari infrastruktur ilmiah terbuka. Contohnya, DOAJ, arXiv, the Open Scholarship Foundation, Sherpa/RoMEO, ORCID, the Open Scholarship Framework, Public Knowledge Project, [add more], yang menawarkan layanan penting untuk berbagai pemangku kepentingan. Tanpa sumber pendanaan yang berkelanjutan, layanan ini tetap rentan gagal, atau diakuisisi oleh pemain di sektor swasta, kejadian yang semakin umum terjadi.
+Untuk mengurangi risiko kegagalan infrastruktur, dan untuk meningkatkan kapasitasnya, dukungan penyandang dana lanjutan sanagt diperlukan untuk setiap jenis infrastruktur ilmiah (contohnya, [Anderson et al., 2017](https://www.biorxiv.org/content/early/2017/04/27/110825)). Proporsi dana penunjang penelitian harus dialokasikan untuk mendukung ini (misalnya, 2%) dan inisiatif seperti [SCOSS](http://scoss.org/) dan [Open Research Funders Group](http://www.orfg.org) seharusnya didukung sepenuhnya. 
 
-Untuk mengurangi risiko kegagalan infrastruktur, dan untuk meningkatkan kapasitasnya, dukungan penyandang dana lanjutan sanagt diperlukan untuk setiap jenis infrastruktur ilmiah (contohnya, [Anderson et al., 2017](https://www.biorxiv.org/content/early/2017/04/27/110825)). Proporsi dana penunjang penelitian harus dialokasikan untuk mendukung ini (misalnya, 2%). Ini termasuk elemen di bawah:
+Ini termasuk elemen di bawah:
 
 * Tanda pengenal standar dan tetap
 
 * Layanan berbagi (layanan abstraksi/indeksasi, data penelitian)
 
-* Layanan dukungan dan penyebaran
+* Layanan dukungan dan penyebaran (contoh, Sherpa/RoMEO)
 
-* Layanan repositori
+* Layanan repositori (contoh, [COAR](https://www.coar-repositories.org/) dan [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/))
 
-* Layanan penerbitan
+* Layanan penerbitan (contoh, arXiv)
 
-* Alat dan platform kolaborasi
+* Alat dan platform kolaborasi (contoh, the Open Science Framework
 
 * Otomatisasi praktik terbuka ("open by default")
 
 * Layanan kutipan terbuka yang dibangun atas inisiasi ORCID dan Crossref ([opencitations](http://opencitations.net/)). (Juga [I4OC](https://i4oc.org/))
 
+* Social Virtual Research Environments (SVREs), to facilitate the management and sharing of research objects, provide the incentives for Open Scholarship, integrate existing software and tools, and provide the actual platform for conducting of research
+
 * Interoperability of services
 
-* Teknologi situs web semantik: metadata, harvesting, exchange services 
+* Teknologi situs web semantik: metadata, harvesting, exchange services (lihat, [the Open Metadata Handbook](https://www.oercommons.org/courses/open-metadata-handbook/view)).
 
-## 5.4 Public good
+Perhaps the best way to regard infrastructure is as existing interactive technologies that you do not really notice until they cease to work as they should. For example, automated and integrated data sharing without individual submissions to fragmented online data repositories.
+
+Ultimately, what we might want to achieve with such infrastructures is a streamlined process of large-scale, data-intensive research, operated collaboratively through high-performance computer clusters that transcend all geographical, technical, and disciplinary boundaries. The potential social aspects of such services means that there is additional scope for a range of purposes, including networking, marketing and promotion, non-academic information exchange, and discussion forums.
+
+## 5.4 Public good <a name="Public"></a>
 
 Berdasarkan pengakuan bahwa dampak sosial yang sesungguhnya membutuhkan keterlibatan masyarakat dalam penelitian dan komunikasi yang mudah dimengerti dari hasil-hasil penelitian, pengetahuan terbuka berusaha untuk membawa publik untuk berkolaborasi dalam penelitian melalui ilmu masyarakat, dan membuat pengetahuan lebih mudah dimengerti dengan ringkasan yang lebih mudah, membuat blog, dan metode komunikasi tidak formal lainnya. Dampak sosial (contohnya, pemahaman yang lebih baik tentang dunia) seharusnya tidak menjadi pertimbangan sekunder dalam penelitian.
+
+Much of this relates to the changing role of a researcher within a modern, digital society, and distils down to two main aspects:
+
+1. The influence that the wider public can have on the intrinsic research process; and
+
+2. The understanding of that research by a wider non-specialist audiences, including effective ways of communicating research.
+
+Aspek kunci termasuk:
 
 * Menghilangkan batasan terhadap suku, jenis kelamin, pendapatan, status, dan geografi.
 
