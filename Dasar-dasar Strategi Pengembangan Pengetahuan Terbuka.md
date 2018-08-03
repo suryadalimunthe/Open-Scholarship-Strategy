@@ -527,7 +527,7 @@ Memang, sangat tidak mungkin lebih dari 10 juta ilmuwan, berpendidikan tinggi da
 
 In working towards principles of Open Scholarship, we acknowledge that there is the potential for complexity, or even conflict in our objectives as policies and working practices evolve. Awareness of the broader research, industry and education landscape will help to position Open Scholarship to have the greatest possible impact, and to mitigate the potential of other policies and priorities to limit its potential. For example, copyright proposals in the EU that would limit who is permitted to undertake TDM (text and data mining), or policies promoting intellectual property (IP) and commercialisation should be balanced with policies that permit a wide range of uses of data, research, and knowledge. There do exist a number of [recent](https://www.communia-association.org/) [initiatives](https://fixcopyright.eu/) working towards the development of copyright frameworks that help the Open Scholarship cause.
 
-ASpek khusus lain:
+Aspek khusus lain:
 
 * Penerbitan akses terbuka (Open Access) yang tidak hanya gratis untuk dibacaa juga gratis untuk digunakan kembali dan gratis untuk didistribusikan. (Catatan:  Open Access (the book) - Peter Suber (bit.ly/oa-book)).
 
@@ -647,28 +647,42 @@ Much of this relates to the changing role of a researcher within a modern, digit
 Aspek kunci termasuk:
 
 * Menghilangkan batasan terhadap suku, jenis kelamin, pendapatan, status, dan geografi.
-
-* Akses pendanaan
+	
+  * Menghilangkan batasan akses pendanaan
+  * Menyertakan setiap individu dari lingkungan tradisional tanpa digital untuk berperan aktif dalam penelitian.
 
 * Komunitas ilmiah (juga dikenal sebagai masyarakat ilmiah)
+  *  Ini juga membuka peluang untuk pendanaan proyek penelitian, yang saat ini kurang dieksplorasi di sekolah negeri.
+ 
+* Mendokumentasikan dan membagikan semua hasil penelitian, dari catatan hingga metode, bahan, algoritme, data, kode, dan naskah
 
-* Melibatkan masyarakat dalam pengaturan prioritas penelitian
-
-* Mendokumentasikan dan membagikan semua hasil penelitian, dari laboratorium yang digunakan hingga metode, bahan, algoritme, data, kode, dan naskah
+* Mempersiapkan penelitian agar mudah dipahami masyarakat.
 
 * Memanfaatkan ruang publik dan infrastruktur seperti perpustakaan umum, museum dan sekolah
 
-## 5.5 Penilaian
+## 5.5 Penilaian <a name="Penilaian"></a>
 
-Untuk mengubah perilaku para akademisi, perlu diubah juga cara menilai dengan metrik baru yang mencerminkan nilai yang berbeda.
+Untuk mengubah perilaku para akademisi, perlu diubah juga cara menilai dengan metrik baru yang mencerminkan nilai yang berbeda, lihat,   [Metric Tide report](https://responsiblemetrics.org/the-metric-tide/) atau [EU report on Next-generation metrics](https://ec.europa.eu/research/openscience/pdf/report.pdf). Ironisnya, penggunaan metrik dan analisis lanjutan untuk penilaian penelitian sedang dalam permulaan dalam dunia akademisi. Secara praktis, mengukur keterbukaan penelitian dengan sistem  penilaian Peringkat Universitas akan menjadi cara untuk menanamkan nilai keterbukaan ke dalam kebijakan dan menyelaraskan ukuran dengan nilai-nilai. Alternatif lainnya adalah membuang segala bentuk penilaian, yang oleh sebagian orang dianggap tidak baik untuk penelitian ilmiah.
 
-Secara praktis, mengukur keterbukaan penelitian dengan sistem  penilaian Peringkat Universitas akan menjadi cara untuk menanamkan nilai keterbukaan ke dalam kebijakan dan menyelaraskan ukuran dengan nilai-nilai. Alternatif lainnya adalah membuang segala bentuk penilaian, yang oleh sebagian orang dianggap tidak baik untuk penelitian ilmiah.
+Pengetahuan Terbuka mencari "alternatif metrik"(juga dikenal sebagai ‘altmetrics’) yang dapat memanfaatkan kemungkinan alat-alat jaringan digital baru untuk melacak dan mengukur dampak dari pengetahuan melalui kegiatan yang sebelumnya tidak terlihat.Hal ini juga termasuk berbagi pada media sosial, menandai, bookmarks, tambahan untuk koleksi, pembaca, komentar dan diskusi, peringkat, dan penggunaan atau kutipan dalam format non-jurnal, yang semuanya membangun * konteks * dari objek penelitian. Importantly, these capture new forms of information about the dissemination of research, as well as the process of collaboration, which help to expand the traditional view of publication being the end of a narrow research pipeline.
 
-Dimotivasi oleh bukti bahwa metrik tradisional dalam mengukur dampak ilmiah terbukti bermasalah (misalnya, dengan terlalu fokus pada publikasi, sering hanya pada tingkat jurnal), pengetahuan terbuka mencari "alternatif metrik"(juga dikenal secara luas sebagai ‘altmetrics’; jangan bingung dengan perusahaan, Altmetric) yang dapat memanfaatkan kemungkinan alat-alat jaringan digital baru untuk melacak dan mengukur dampak dari pengetahuan melalui kegiatan yang sebelumnya tidak terlihat. Tentu saja, ada juga bahaya dengan metrik baru, karena semua metrik dapat dimainkan, dan metrik baru menawarkan peluang baru yang sulit untuk dimainkan. Metrik baru juga tidak akan memecahkan masalah terbitkan atau mati, tetapi hanya memindahkannya.
+Oleh karena itu, prinsip *responsible metrics* sesuai dengan tujuan Pengetahuan Terbuka:
 
-* Mengubah norma evaluasi penelitian n
+* **Kevalidan**: Mendasarkan metrik pada data terbaik dalam hal akurasi dan ruang lingkup;
 
-* Berhenti menggunakan dampak faktor (Impact factor) dan berkomitmen pada [San Francisco Declaration on Research Assessment](http://www.ascb.org/dora/) (DORA), Leiden Manifest, lihat juga [UK Research Councils statement](http://www.rcuk.ac.uk/media/news/180207/), juga [ini](https://www.nature.com/articles/d41586-018-01642-w)
+* **kesederhanaan**: Mengakui evaluasi kuantitatif - tetapi tidak menggantikan - kualitatif, penilaian ahli;
+
+* **Transparansi**: Menjaga pengumpulan data dan proses analitis terbuka dan transparan, sehingga mereka yang dievaluasi dapat menguji dan memverifikasi hasilnya;
+
+* **Keberagaman**: Accounting for variation by field, and using a range of indicators to reflect and support a plurality of research and researcher career paths across the system;
+
+* **Refleksivitas**: Mengantisipasi efek sistemik dan potensi dari indikator, dan memperbaruinya.
+
+Bersamaan dengan ini, penilaian sangat berperan penting untuk masa depan Pengetahuan Terbuka melalui:
+
+* Mengubah norma evaluasi penelitian dari sistem tradisional ke yang lebih ketat, bukti data, dan beragam sumber.
+
+* Berhenti menggunakan dampak faktor (Impact factor) dan berkomitmen pada [San Francisco Declaration on Research Assessment](http://www.ascb.org/dora/) (DORA), [Leiden Manifesto](http://www.leidenmanifesto.org/), dan juga sistem evaluasi penelitian yang lebih adil, objektif.
 
 * Pertimbangkan metrik alternatif, yang secara eksplisit dirancang untuk mengukur keterbukaan ([Nichols and Twidale, 2017](https://researchcommons.waikato.ac.nz/handle/10289/10842)) 
 
