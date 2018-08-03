@@ -687,70 +687,78 @@ Bersamaan dengan ini, penilaian sangat berperan penting untuk masa depan Pengeta
 * Pertimbangkan metrik alternatif, yang secara eksplisit dirancang untuk mengukur keterbukaan ([Nichols and Twidale, 2017](https://researchcommons.waikato.ac.nz/handle/10289/10842)) 
 
     * Lihat juga [Humane Metrics Initiative](http://humetricshss.org/about/) dan [Metrics Toolkit](http://www.metrics-toolkit.org/).
+    * Menginvestigasi potensi kegunaan berbagai sumber evaluasi penelitian potensial, termasuk pra-pendaftaran, laporan terdaftar, yang berkaitan dengan perangkat lunak, bahan, dan data, dan juga upaya penjangkauan publik.
 
-    * Pra registrasi
-
-    * Laporan registrasi
-
-* Penilaian berbasis ilmu pengetahuan: bereksperimen sebelum menerapkan metrik apa pun
+* Penilaian berbasis ilmu pengetahuan: bereksperimen sebelum menerapkan metrik apa pun, untuk lebih mengerti ruang lingkup, bias, dan batasan ukuran kuantitatif apa pun.
 
 Masalah transparansi dan reproduktifitas diterapkan pada pengetahuan itu sendiri dan mekanisme yang digunakan untuk mengukur penelitian kami (misalnya, apakah metrik ini dapat direproduksi secara independen?). [Furner (2014)](http://www.jonathanfurner.info/docs/furnerInPress-a.pdf) menyediakan kerangka kerja beretika untuk bibliometrik, yang dapat digeneralisasikan dengan kumpulan metrik yang lebih luas.
 
-## 5.6 Community and inclusion 
+Tentu saja, ada juga bahaya dengan metrik baru, karena *semua* metrik dapat disisipkan, dan metrik baru menawarkan peluang baru untuk dimainkan. Metrik baru juga tidak akan memecahkan masalah terbitkan atau hilang, tetapi hanya mentransfernya.
 
-Dimotivasi oleh pengakuan bahwa pengetahuan membutuhkan semua suara untuk didengar, dan keterlibatan komitmen komunitas, pengetahuan terbuka berusaha untuk memastikan keragaman dan inklusi adalah prinsip utama dalam percakapan ilmiah.
+
+## 5.6 Community and inclusion <a name="Community"></a>
+
+Dimotivasi oleh pengakuan bahwa pengetahuan membutuhkan semua suara untuk didengar, dan keterlibatan komitmen komunitas, pengetahuan terbuka berusaha untuk memastikan keragaman dan inklusi adalah prinsip utama dalam percakapan ilmiah. Faktor ini disinggung di tempat lain oleh Fecher dan Frieseke (2013), tetapi berdasarkan diskusi dan acara sejak publikasi ini, kami merasa perlu untuk menyoroti pentingnya.
+
+Di bawah adalah aspek kunci:
 
 * Diversity and inclusion
 
-    * Definisi
-
-    * Membangun kesadaran
-
+    * Definisi keragaman sangat kompleks dan multi-dimensi, tetapi umumnya mendorong toleransi dan penyertaan orang-orang dari berbagai latar belakang. Ini termasuk dimensi etnis dan budaya, psikografi, geografi, kemampuan, geodiversity, neurodiversity, dan aspek demografi lainnya.
+    * Membangun kesadaran bahwa keberagaman komunitas adalah prinsip fundamental.
     * Mengembangkan alat dan teknik untuk memperbaiki masalah yang ada
 
     * Membuat dan menyebarkan sumber daya penelitian
     
-* Community cohesion and messaging
-
+* Community cohesion and messaging must be a foundational principle for the Open Scholarship community, and extended to all other related communities. As part of this, the community must:
     * Mengembangkan standar praktik
-
     * Menciptakan kurikulum pendidikan untuk para praktisi
-
     * Barang publik dan pendanaan publik
-
     * Berkolaborasi dengan komunitas terkait atau yang lainnya, termasuk perangkat keras pengetahuan terbuka, Perangkat Lunak sumber terbuka di area umum yang diminati 
 
-* Komunitas ilmiah (juga dikenal sebagai masyarakat ilmiah)
-
+* Komunitas ilmiah (juga dikenal sebagai masyarakat ilmiah) (juga disebutkan di [Public good](#Public)), termasuk:
     * Menangani megaproyek
-
     * Spill-over effects to and from education
-
     * Memperkuat kemampuan berpartisipasi secara intelektual, menyumbangkan daya komputasi, sampel biologis, atau sumber daya lainnya, termasuk uang (dana masa penelitian)
 
-# 6. Kekuatan Gerakan Movement Strengths
+# 6. Kekuatan Gerakan <a name="Strengths"></a>
 
-* Struktur organisasi dan dampak kolektif
+Bagian strategi ni akan menggambarkan beberapa kekuatan gerakan atau komunitas Pengetahuan Terbuka.
 
-* Beragam partisipasi dari individu yang bersemangat
+**Struktur organisasi dan dampak kolektif**
+ * Komunitas ilmiah global sangat luas, meliputi setiap benua, dan tertanam dalam penelitian dan lembaga akademis. Gerakan 'Terbuka' lebih dari hanya sekedar pengetahuan, tapi terkait dengan bidang yang lebih luas seperti Open Culture, Open Government, Open Source, dan Open Society. Oleh karena itu, potensi dampak kolektif yang dapat dimiliki oleh gerakan itu sangat besar, dengan konsekuensi bagi masyarakat global; misalnya, mempengaruhi [UN Sustainable Development Goals](http://www.unfoundation.org/features/globalgoals/the-global-goals.html).
+ 
+ ![Figure_6: United Nations Sustainable Development Goals](images/UN_sustainable.png)\
+
+*see [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/) website*
+
+* Aktivis Pengetahuan terbuka sebagai bagian dari gerakan terbuka sangat diuntungkan dengan kolaborasi silang beberapa sektor berbeda. Contohnya, sekarang Pengetahuan Terbuka adalh gerbang Pendidikan Terbuka, tapi memiliki kebijakan lebih kuat dari gerakan SUmber TErbuka.
+
+* **Beragam partisipasi dari individu yang bersemangat**
 
     * Keberhasilan signifikan dalam pengetahuan terbuka sering dikaitkan dengan para pejuang yang tekun dan gigih, terutama di arena kebijakan dan advokasi / adopsi. Individu-individu ini menunjukkan kemampuan yang luar biasa untuk mencapai perubahan substansial, dan menciptakan pengaruh kuat, hampir sendirian. Sebagai aset bagi gerakan, mereka menjadi sangat penting ketika pengalaman dan pengetahuan mereka dapat dibagi dan dikalikan, melalui kolaborasi, jaringan dan komunitas, serta model bimbingan.
 
 * Gerakan serentak seperti akses terbuka, pengetahuan terbuka, data terbuka, perangkat keras terbuka, perangkat lunak sumber terbuka, dll. Berdasarkan prinsip yang serupa
 
-* Kekuatan penelitian dan bukti mendukung praktik pengetahuan terbuka (contoh [McKiernan et al., 2016](https://elifesciences.org/articles/16800)).
+* **Kekuatan penelitian dan bukti mendukung praktik pengetahuan terbuka** 
+
+ * Ada peningkatan dukungan terhadap semua aspek Pengetahuan Terbuka. Ringkasan penting dari hal ini termasuk [McKiernan et al., (2016)](https://elifesciences.org/articles/16800) dan [Tennant et al., (2016)](https://f1000research.com/articles/5-632/v3). Dampaknya dapat terlihat di berbagai tingkatan, dari praktik individu, sampai kebijakan tingkat nasional tentang Akses Terbuka dan Sains Terbuka. 
 
     * Proyek-proyek penting, kelompok, dan para sarjana telah melakukan penelitian ke berbagai aspek pengetahuan terbuka dan dampaknya, mereka menjadi sangat positif. Ketika gerakan berkembang, bukti, dan kedalaman analisis kritis terus berkembang.
 
-* Luasnya kreativitas menghasilkan solusi teknis dan sosioteknik.
+* **Luasnya kreativitas menghasilkan solusi teknis dan sosioteknik**
 
     * Misalnya, jalur hijau dan emas akses terbuka (Open Access). Yang dulu berkaitan dengan pengarsipan sendiri, dan selanjutnya untuk dipublikasikan dalam jurnal akses terbuka. Sementara beberapa variasi telah ada, model ini umumnya melampaui perbedaan geografis, institusional, atau sektoral.
 
-    * Pertumbuhan dan pengadopsian pracetak sebagai metode untuk mendapatkan penelitian lebih cepat dan lebih transparan
+    * Pertumbuhan dan pengadopsian pracetak sebagai metode untuk mendapatkan penelitian lebih cepat dan lebih transparan. In the last two years, this has led to a rapidly evolving [landscape](https://doi.org/10.31222/osf.io/796tu) around preprints, with technological innovation and community practices constantly adapting.
+    
+* **Ketersediaan banyak piagam dan deklarasi Pengetahuan Terbuka** 
+ * This ever-growing range of high-level statements in support of openness (typically [Open Access](http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA)), but also [more broadly](http://tinyurl.com/scholcomm-charters), offers internally consistent sets of goals and actions that are result of a lot of thinking and discussing.
 
-* Ketersediaan banyak piagam dan deklarasi yang menawarkan (secara internal) tujuan dan tindakan konsisten yang merupakan hasil dari banyak pemikiran dan diskusi
 
-* Dorongan yang kuat untuk mengembangkan model kebijakan: Dinamis, luas dan perpaduan atas-bawah (inisiatif kebijakan dari pendana, pemerintah, lembaga) dan pendekatan dari bawah (akar rumput). Tetap penting bahwa agenda untuk pengetahuan terbuka tetap diakui di tingkat politik tertinggi. Komite Ilmu Pengetahuan dan Teknologi Inggris dalam hal integritas penelitian adalah contoh yang sangat baik dari ini (catatan:  Research integrity examined with experts and academics (https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/news-parliament-2017/research-integrity3-evidence-17-19/ - accessed December, 2017).). 
+* **Dorongan yang kuat untuk mengembangkan model kebijakan** 
+
+Dinamis, luas dan perpaduan atas-bawah (inisiatif kebijakan dari pendana, pemerintah, lembaga) dan pendekatan dari bawah (akar rumput). Tetap penting bahwa agenda untuk pengetahuan terbuka tetap diakui di tingkat politik tertinggi. Komite Ilmu Pengetahuan dan Teknologi Inggris dalam hal integritas penelitian adalah contoh yang sangat baik dari ini (catatan:  Research integrity examined with experts and academics (https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/news-parliament-2017/research-integrity3-evidence-17-19/ - accessed December, 2017).). 
 
 * Keragaman tujuan memungkinkan kemajuan di banyak barisan secara bersamaan.
 
