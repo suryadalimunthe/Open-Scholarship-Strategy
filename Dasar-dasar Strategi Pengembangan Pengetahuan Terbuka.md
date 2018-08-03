@@ -290,73 +290,109 @@ Harapan pada poin ini adalah The expectation at this point is that specific part
 
     * Implement opt-out automatization of code accessibility and version control under default open licenses.
 
-1. To convert resources currently spent on journal subscriptions into funds supporting sustainable OA business models and scholarly infrastructure.
+* Konversikan dana yang tersimpan saat ini untuk langganan jurnal tertutup menjadi dana yang mendukung model bisnis Akses Terbuka yang berkelanjutan, infrastruktur ilmiah, dan layanan dukungan terkait lainnya.
 
-1. Mengembangkan dan mengajarkan berbagai praktik pengetahuan terbuka (contohnya, seminar/loka karya untuk mahasiswa).
+* Mengembangkan dan mengajarkan berbagai praktik pengetahuan terbuka (contohnya, seminar/loka karya untuk mahasiswa).
+
+* Lanjutkan bekerja sama dengan lembaga penelitian untuk berbagi sumber, infrastruktur, dan layanan agar lebih berkelanjutan.
+
+* Mengajak pendana penelitian untuk memberikan amanat eksplisit dan memaksa terkait Pengetahuan Terbuka, pastikan tidak ada pelanggaran kebebasan akademik.
+
+* Lanjutkan bekerjasama dengan penerbit dan perusahaan lain yang terus membuka layanan, alat dan kebijakan. 
+
+* Berkomitmen berbagi data tingkat lembaga secara terbuka dan metrik aktivitas, catatan dan perilaku penelitian. 
+
+* Lanjutkan memastikan bahwa kebijakan penilaian penelitian berdasarkan informasi, ketat, dan ditaati di semua tingkatan.
+
+* Mengembangkan dan mengajarkan berbagai praktik pengetahuan terbuka (contohnya, seminar/loka karya untuk mahasiswa).
 
 **Nasional Tingkat**
 
-1. Mulai menerapkan teknologi semantik di semua hasil penelitian.
+* Mulai menerapkan teknologi semantik di semua hasil penelitian, termasuk untuk tujuan naskah dan data yang terbuka.
 
-1. Formulasi rekomendasi karir metrik untuk mendukung penerbitan data terbuka, perangkat lunak sumber terbuka dan dukungan penelitian.
+* Memformulasi rekomendasi karir metrik untuk mendukung penerbitan data terbuka, perangkat lunak sumber terbuka dan dukungan penelitian.
 
-1. For any remaining hybrid journals that attain a higher proportion of open access over subscription articles, encourage them to ‘flip’ them to pure open access with an APC that reflects the running costs of the journal.
+* Memformulasikan rekomendasi karir metrik untuk menilai usaha kandidat terhadap pembelajaran dan pengajaran pendidikan terbuka.
+  * Pastikan kebijakan penilaian penelitian lebih adil, ketat, didukung, dan diawasi. 
 
-    1. For remaining hybrid journals that have not attained this level, refuse to support publication of OA articles in those venues.
+* For any remaining hybrid journals that attain a higher proportion of open access over subscription articles, encourage them to ‘flip’ them to pure open access with an APC that reflects the running costs of the journal.
 
-1. Tingkatkan dana untuk minoritas yang kurang terwakili
+    * For remaining hybrid journals that have not attained this level, refuse to support publication of OA articles in those venues.
 
-## 2.3 Strategi Jangka Panjang (5 -10 tahun)
+* Tingkatkan dana untuk minoritas yang kurang terwakili
+
+* Fund further research into determinants identified as relevant to engage in Open Scholarship.
+
+* Fund intervention development of interventions to target individuals and institutions to adopt Open Scholarship practices and policies.
+
+* Mengajak kerjasama antara konsorsium perpustakaan (contoh, LIBER, EIFL) dengan konsorsium nasional, dan persatuan pendidikan yang lebih tinggi untuk menguatkan koalisi peneliti. Tambahkan kolaborasi ilmiah ini (mis., ELife, NISO) untuk lebih mengembangkan hubungan dan kolaborasi di seluruh sektor komunikasi ilmiah.
+
+* Memulai penerapan infrastruktur ilmiah di tingkat nasional atau internasional, dengan para pemegang kepentingan menyetujui standar, peta, dan struktur kepemimpinan terbuka. Pastikan hal ini didukung dengan pendanaan berkelanjutan.
+
+* Menerbitkan hasil penelitian atau investigasi ke enerbitan ilmiah nasional.
+
+## 2.3 Strategi Jangka Panjang (5 -10 tahun) <a name="Long"></a>
+
+The expectation at this point is that specific parts of the short- and mid-term strategies will have been initiated, based on the needs of respective groups, and are either in place or in development. Often, these are ongoing processes, and therefore might overlap with the long-term strategy, and are not worth repeating here. However, all of the items mentioned in the [short-term strategy](#Short) and [mid-term strategy](#Middle) are still relevant at this stage, depending on the pace of development.
 
 **Tingkat Individu**
 
-1. Mendukung pelatihan peneliti muda dalam penggunaan sarana dan prasarana penelitian ilmiah yang baru.
+* Mendukung pelatihan peneliti muda dalam penggunaan sarana dan prasarana penelitian ilmiah yang baru.
 
-1. Mengajarkan mahasiswa laboratorium terbuka, kontrol versi, analisis berkelanjutan, dan aspek lain dari proses pengetahuan Terbuka dalam mata kuliah pengantar penelitian.
+* Mengajarkan mahasiswa laboratorium terbuka, kontrol versi, analisis berkelanjutan, dan aspek lain dari proses pengetahuan Terbuka dalam mata kuliah pengantar penelitian.
 
-1. Mengembangkan materi pelatihan untuk pengembangan pengetahuan terbuka lanjutan.
+* Mengembangkan materi pelatihan untuk pengembangan pengetahuan terbuka lanjutan.
 
-1. Melanjutkan aspek-aspek yang ada di strategi jangka menengah.
+* Lanjutkan berhubungan dengan komunitas Pengetahuan Terbuka untuk mendorong peningkatan keterlibatan dan kolaborasi lintas disiplin.
+
+* Melanjutkan aspek-aspek yang ada di strategi jangka menengah.
 
 **Tingkat Kelompok**
 
-1. Melanjutkan aspek-aspek yang ada di strategi jangka menengah.
+* Continue development of and experimentation with emerging and established Open Scholarship workflows, integrating elements of newly established scholarly infrastructures.
 
-1. Menyampaikan keuntungan atau dampak alur kerja pengetahuan terbuka ke kelompok lain.
+* Menyampaikan keuntungan atau dampak alur kerja pengetahuan terbuka ke kelompok lain.
+
+* Melanjutkan aspek-aspek yang ada di strategi jangka menengah.
 
 **Tingkat Lembaga**
 
-1. Membentuk pendanaan permanen yang digunakan untuk pengembangan perangkat lunak terbuka, biaya pemrosesan artikel, server pra cetak dan biaya lain terkait pengetahuan terbuka.
+* Membentuk pendanaan permanen yang digunakan untuk pengembangan perangkat lunak terbuka, biaya pemrosesan artikel, server pra cetak dan biaya lain terkait pengetahuan terbuka.
 
-1. Memberikan insentif dan mandat agar seluruh hasil penelitian diterbitkan di platform atau jurnal akses terbuka.
+* Memberikan insentif dan mandat agar seluruh hasil penelitian diterbitkan di platform atau jurnal akses terbuka.
 
-1. Memberikan insentif kepada mahasiswa untuk mempraktikkan keterbukaan di penelitian mereka.
+* Memberikan insentif kepada mahasiswa untuk mempraktikkan keterbukaan di penelitian mereka.
 
-**Nasional**** (atau lebih tinggi) **** Tingkat**
+* Lanjutkan mengembangkan aspek-aspek strategi di jangaka pendek dan menengah.
 
-1. Mengembangkan solusi inovatif yang belum ada saat ini.
+**Tingkat Nasional (atau lebih tinggi)**
 
-1. Mewajibkan penelitian yang didanai pemerintah  diterbitkan di platform atau jurnal akses terbuka  atau repositori terbuka lainnya. Terapkan konsekuensi bagi mereka yang tidak mematuhi mandat tersebut.
+* Mengembangkan solusi inovatif yang belum ada saat ini.
 
-1. Menghilangkan tekanan publikasi dan fokus pada hasil dan proses penelitian yang lebih beragam untuk evaluasi dan kriteria penilaian.
+* Mewajibkan penelitian yang didanai pemerintah  diterbitkan di platform atau jurnal akses terbuka  atau repositori terbuka lainnya. Terapkan konsekuensi bagi mereka yang tidak mematuhi mandat tersebut.
 
-1. Membantu peneliti mengontrol proses penelitian dan evaluasi berdasarkan apa yang percayai untuk kemajuan ilmiah.
+* Menghilangkan tekanan publikasi dan fokus pada hasil dan proses penelitian yang lebih beragam untuk evaluasi dan kriteria penilaian.
 
-# 3. Apa itu Pengetahuan Terbuka?
+* Membantu peneliti mengontrol proses penelitian dan evaluasi berdasarkan apa yang percayai untuk kemajuan ilmiah.
 
-Selama lebih dari dua dekade, gerakan pengetahuan terbuka telah berkembang dari hanya sekumpulan kecil; upaya-upaya lokal hingga  ke jaringan internasional seperti, lembaga, organisasi, pemerintah, praktisi, advokat dan penyandang dana. Sementara itu, kemajuan yang lebih signifikan telah dicapai dalam hal memperluas pemahaman dan praktik pengetahuan terbuka (contohnya, [Peters et al., 2012](https://www.routledge.com/Virtues-of-Openness-Education-Science-and-Scholarship-in-the-Digital/Peters-Roberts/p/book/9781594516863)) [Friesike et al.](https://link.springer.com/article/10.1007/s10961-014-9375-6)[, 2015](https://link.springer.com/article/10.1007/s10961-014-9375-6); [Munaf](https://www.nature.com/articles/s41562-016-0021)[ò et al., 2017](https://www.nature.com/articles/s41562-016-0021)), Praktik dan nilai-nilai pengetahuan terbuka belum menjadi standar di sebagian besar disiplin ilmu dan penyebarannya juga tidak merata (Catatan: The Knowledge Gap:  Knowledge, power and inequality in Open Science policies, accessed November 2017.). Dalam dokumen ini, kami berpendapat makna "pengetahuan terbuka" lebih kepada proses, komunikasi, dan penggunaan ulang penelitian yang dipraktikkan dalam setiap disiplin peneltian ilmiah serta perannya kepada masyarakat luas.
+# 3. Apa itu Pengetahuan Terbuka? <a name="What_is"></a>
 
-Tujuan dan visi besar diuraikan dalam dokumen landasan dasar, termasuk [Budapest Open Access Initiative](http://www.budapestopenaccessinitiative.org/), The [Open Archives Initiative](https://www.openarchives.org/), [Vienna Principles](http://viennaprinciples.org/), [Scholarly Commons principles](https://www.force11.org/scholarly-commons/principles), dan [Panton Principles](https://en.wikipedia.org/wiki/Panton_Principles). Seiring waktu berlalu, ada banyak [declarations](http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA), [charters](https://docs.google.com/spreadsheets/d/1-aRXFiRg-VL9hpLpxoJqX6-OC-A0R2oCogHfIx52Nug/edit#gid=956616118), dan pendapat tentang pentingnya pengetahuan terbuka. Hasilnya, sekarang ada banyak definisi yang berlawanan, sejalan dan tumpang tindih tentang prinsip-prinsip dan praktik pengetahuan terbuka, yang bertujuan untuk menghalangi gerakan menuju perkembangan ilmiah dengan akses publik. Di sini, kami berpendapat pengetahuan terbuka dapat disamakan dengan ‘boundary object’, karena dapat diinterpretasikan secara berbedan oleh seluruh komunitas tapi kontennya tidak berubah guna menjaga integritas. 
+Selama lebih dari dua dekade, gerakan pengetahuan terbuka telah berkembang dari hanya sekumpulan kecil; upaya-upaya lokal hingga  ke jaringan internasional seperti, lembaga, organisasi, pemerintah, praktisi, advokat dan penyandang dana. Sementara itu, kemajuan yang lebih signifikan telah dicapai dalam hal memperluas pemahaman dan praktik pengetahuan terbuka (contohnya, [Peters et al., 2012](https://www.routledge.com/Virtues-of-Openness-Education-Science-and-Scholarship-in-the-Digital/Peters-Roberts/p/book/9781594516863)) [Friesike et al.](https://link.springer.com/article/10.1007/s10961-014-9375-6)[, 2015](https://link.springer.com/article/10.1007/s10961-014-9375-6); [Munaf](https://www.nature.com/articles/s41562-016-0021)[ò et al., 2017](https://www.nature.com/articles/s41562-016-0021)), Praktik dan nilai-nilai pengetahuan terbuka belum menjadi standar di sebagian besar disiplin ilmu dan penyebarannya juga tidak merata (http://knowledgegap.org/index.php/sub-projects/knowledge-and-power-inequality-in-open-science-policies/). 
 
-Kami menemukan lima "sekolah pemikiran" [Fecher and Friesike (2013)](https://link.springer.com/chapter/10.1007%2F978-3-319-00026-8_2) yang sangat berguna untuk menyusun strategi ini: Infrastruktur, Penilaian,Publik, Demokrasi dan Pragmatik. Selanjutnya, kami menyarankan sekolah keenam untuk Komunitas dan Inklusi. Jaringan OCSD (Open and Collaborative Science in Development) memiliki [Open Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/) untuk pengetahuan terbuka yang lebih inklusif bagi sosial dan lingkungan manusia yang sangat berguna untuk penyusunan startegi ini.
+**Dalam dokumen ini, kami berpendapat makna "pengetahuan terbuka" lebih kepada proses, komunikasi, dan penggunaan ulang penelitian yang dipraktikkan dalam setiap disiplin peneltian ilmiah serta perannya kepada masyarakat luas.**
 
-Karya-karya sebelumnya sudah dan tetap menjadi, penting untuk membangun identitas pusat untuk komunitas pengetahuan terbuka global, mengkomunikasikan kasus hal pengetahuan Terbuka bagi masyarakat yang lebih luas, dan memberikan dasar untuk mendorong gerakan tersebut ke depannya. Untuk mewujudkan potensi dan visi pengetahuan terbuka, kami menganggap bahwa perlu adanya dokumen yang mempertanyakan hal-hal kritis tentang struktur intenal pengetahuan terbuka sebagai sebuah gerakan dan dapat mengidentifikasi langkah-langkah konkrit untuk mencapai tujuan. Untuk siapapun yang belum mengenal pengetahuan terbuka, kami menyarankan mereka ke Open Research Glossary, dihosting oleh Right to Research Coalition (catatan:  Open Research Glossary, diakses pada November 2017.).
+Tujuan dan visi besar diuraikan dalam dokumen landasan dasar, termasuk [Budapest Open Access Initiative](http://www.budapestopenaccessinitiative.org/), [Open Archives Initiative](https://www.openarchives.org/), [Vienna Principles](http://viennaprinciples.org/), [Scholarly Commons principles](https://www.force11.org/scholarly-commons/principles), dan [Panton Principles](https://en.wikipedia.org/wiki/Panton_Principles). Seiring waktu berlalu, ada banyak [declarations](http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA), [charters](https://docs.google.com/spreadsheets/d/1-aRXFiRg-VL9hpLpxoJqX6-OC-A0R2oCogHfIx52Nug/edit#gid=956616118), dan pendapat tentang pentingnya pengetahuan terbuka. Hasilnya, sekarang ada banyak definisi yang berlawanan, sejalan dan tumpang tindih tentang prinsip-prinsip dan praktik pengetahuan terbuka, yang bertujuan untuk menghalangi gerakan menuju perkembangan ilmiah dengan akses publik. 
 
-![image alt text](image_2.png)
+Di sini, kami berpendapat pengetahuan terbuka dapat disamakan dengan ‘boundary object’, karena dapat diinterpretasikan secara berbedan oleh seluruh komunitas tapi kontennya tidak berubah guna menjaga integritas. Selain pendekatan [Peters and Roberts,  2012](https://www.routledge.com/Virtues-of-Openness-Education-Science-and-Scholarship-in-the-Digital/Peters-Roberts/p/book/9781594516863)', Kami menemukan lima "sekolah pemikiran" [Fecher and Friesike (2013)](https://link.springer.com/chapter/10.1007%2F978-3-319-00026-8_2) yang sangat berguna untuk menyusun strategi ini: Infrastruktur, Penilaian,Publik, Demokrasi dan Pragmatik. Selanjutnya, kami menyarankan sekolah keenam untuk Komunitas dan Inklusi. Jaringan OCSD (Open and Collaborative Science in Development) memiliki [Open Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/) untuk pengetahuan terbuka yang lebih inklusif bagi sosial dan lingkungan manusia yang sangat berguna untuk penyusunan startegi ini.
 
-Lima sekolah pengetahuan Fecher dan Frieseke (2015) tentang pengetahuan terbuka ([Sumber](https://www.fosteropenscience.eu/content/what-open-science-introduction)).
+Karya-karya sebelumnya sudah dan tetap menjadi, penting untuk membangun identitas pusat untuk komunitas pengetahuan terbuka global, mengkomunikasikan kasus hal pengetahuan Terbuka bagi masyarakat yang lebih luas, dan memberikan dasar untuk mendorong gerakan tersebut ke depannya. Untuk mewujudkan potensi dan visi pengetahuan terbuka, kami menganggap bahwa perlu adanya dokumen yang mempertanyakan hal-hal kritis tentang struktur intenal pengetahuan terbuka sebagai sebuah gerakan dan dapat mengidentifikasi langkah-langkah konkrit untuk mencapai tujuan. Untuk siapapun yang belum mengenal pengetahuan terbuka, kami menyarankan mereka ke [Open Research Glossary](http://www.righttoresearch.org/resources/openresearchglossary/), dihosting oleh *Right to Research Coalition*.
 
-# 4. State of the Movement
+![Figure_3: Five schools of thought in Open Scholarship](images/image_2.png)\
+
+[Fecher and Frieseke (2013). Five schools of thought in Open Scholarship](https://www.fosteropenscience.eu/content/what-open-science-introduction). (CC BY NC)
+
+
+# 4. State of the Movement <a name="State"></a>
 
 Sebuah gerakan dapat didefinisikan sebagai "a group of people working together to advance their shared political, social, or artistic ideas." (NOTE:  Oxford Dictionary, diakses pada November 2017.) Pendukung pengetahuan terbuka sangat beraneka ragam, termasuk masyarakat biasa, aktivis, staf pengajar, dan siswa di berbagai tingkat akademis dan karir serta lembaga penelitian, penerbit, pustakawan, pembuat kebijakan, dan LSM. Para anggota komunitas ini berasal dari berbagai negara dan latar belakang sosial ekonomi dan budaya. Walaupun demikian, perbedaan tersebut adalah kekuatan untuk gerakan pengetahuan terbuka dengan perspektif, pengalaman, kapasitas dan sumber daya yang beragam, dan juga menghadirka tantangan untuk  perencanaan strategis. 
 
