@@ -469,17 +469,31 @@ Selain kesamaan ini, ketegangan juga muncul dalam  mengadopsi praktik pengetahua
 
 * Accounting for domain-specific issues. For example, accounting for variation in biological supplies from different laboratory companies is a significant issue in reproducibility for biological research. Open Access books are a major problem in the Humanities ([Eve, 2014](https://www.martineve.com/images/uploads/2014/11/Eve_2014_Open-Access-and-the-Humanities.pdf)), but less so in STEM, and are often sidelined as an issue as a result.
 
-* Sekarang ada beberapa pra cetak dari industri farmasi (Catatan:  https://openpharma.blog/2017/08/14/when-will-preprints-take-off-in-medicine/), dan tidak  satupun yang menutupi data klinis utama. Saat ini ada banyak hambatan pra cetak di tempat kerja, termasuk kemungkinan materi yang belum ditinjau dilihat sebagai promosi, dan kemungkinan pembaca  and the possibility of readers changing clinical practice based on material that has not yet been peer-reviewed – however well labeled a preprint is.
+* Sekarang ada beberapa pra cetak dari industri farmasi [pharmaceutical industry](https://openpharma.blog/2017/08/14/when-will-preprints-take-off-in-medicine/), dan tidak  satupun yang menutupi data klinis utama. Saat ini ada banyak hambatan pra cetak di tempat kerja, termasuk kemungkinan materi yang belum ditinjau dilihat sebagai promosi, dan kemungkinan pembaca  and the possibility of readers changing clinical practice based on material that has not yet been peer-reviewed – however well labeled a preprint is.
 
 ### 4.2.3 Stakeholder specificities
 
 * Pertimbangkan berbagai pemangku kepentingan yang memiliki kepentingan langsung terhadap pengembangan pengetahuan terbuka- Peneliti, mahasiswa, penyandang dana, manajer penelitian, masyarakat ilmiah, penyedia infrastruktur, industri, masyarakat luas, penerbit & penyedia layanan ilmu terbuka lainnya, [more ...]. Masing-masing kelompok ini terlibat dalam agenda pengetahuan terbuka untuk alasan yang berbeda, dan seringkali tujuan ini akan menajadi konflik...
 
-Mengenai Akses Terbuka, hanya ada sedikit konsensus tentang cara terbaik untuk ini di berbagai skala (geografis, kelembagaan, individu). The result of such ongoing tensions is, perhaps not surprisingly, the lack of well-defined strategic priorities for Open Scholarship. Conflicts between different stakeholder groups can often be distinguished based on competing interests, which filter through at multiple levels in communication, policy, and practices. The result of this is that the relationship network of stakeholders engaged in scholarly communication, and in particular developments in Open Scholarship, is particularly complex. Some of the most highly debated points include:
+Mengenai Akses Terbuka, hanya ada sedikit konsensus tentang cara terbaik untuk ini di berbagai skala (geografis, kelembagaan, individu). The result of such ongoing tensions is, perhaps not surprisingly, the lack of well-defined strategic priorities for Open Scholarship. Conflicts between different stakeholder groups can often be distinguished based on competing interests, which filter through at multiple levels in communication, policy, and practices. 
+
+The result of this is that the relationship network of stakeholders engaged in scholarly communication, and in particular developments in Open Scholarship, is particularly complex. Some of the most highly debated points include:
+
+* Appropriate licensing schemes for research data;
+* Where funding for scholarly publishing activities should come from;
+* Who should be in charge of scholarly research infrastructure;
+* What the optimal model of Open Access should be, and what the traits of this are;
+* The role of charities, non-profit, and for-profit players; and
+* How to resolve conflicts between different stakeholders.
+
+This is a non-exhaustive list, but highlights that conflict resolution in scholarly communication can come in a range of flavours, based around key issues such as academic freedom, governance structures, and financing.
+
 
 ## 4.3 Extent of Open Scholarship adoption to consider the movement successful
 
-Ada banyak perbedaan pendapat, dan kurangnya konsensus, tentang pengadopsian pengetahuan terbuka agar dapat sukses.
+Ada banyak perbedaan pendapat, dan kurangnya konsensus, tentang pengadopsian pengetahuan terbuka agar dapat sukses. Part of this is due to the lack of well-defined objectives, which means that defining a pathway with clear cut stepping stones has been difficult, and remained clouded by the different competing stakeholders and multiplicity of complex processes.
+
+However, some aspects are clear, which can be generally agreed upon by all stakeholders:
 
 * Transforming the present scholarly communications market so that it flips to Open Scholarship services as the default model for research processes and outputs.
 
@@ -497,15 +511,23 @@ Ada banyak perbedaan pendapat, dan kurangnya konsensus, tentang pengadopsian pen
 
 * Adoption of open access by funding agencies; policies that explicitly allow use of preprints and other pre-publications in funding applications.
 
-# 5. Top Strategic Priorities for Open Scholarship
+# 5. Top Strategic Priorities for Open Scholarship <a name="Priorities"></a>
 
-Dengan mempertimbangkan strategi dan kriteria kesuksesan yang telah disebutkan di atas, kita dapat menentukan beberapa sub-domain utama untuk bertindak mengimplementasikan pengetahuan terbuka. walaupun belum ada konsensus dari gerakan pengetahuan terbuka, atau apa-apa yang diprioritaskan terlebih dahulu, ada persetujuan umum dari semua tindakan yang penting. Strategi ini diadaptasi dari [Fecher and Friesike (2013)](https://link.springer.com/chapter/10.1007%2F978-3-319-00026-8_2).
+Dengan mempertimbangkan strategi dan kriteria kesuksesan yang telah disebutkan di atas, kita dapat menentukan beberapa sub-domain utama untuk bertindak mengimplementasikan pengetahuan terbuka. walaupun belum ada konsensus dari gerakan pengetahuan terbuka, atau apa-apa yang diprioritaskan terlebih dahulu, ada persetujuan umum dari semua tindakan yang penting. 
 
-## 5.1 Democratization
+Strategi ini diadaptasi dari [Fecher and Friesike (2013)](https://link.springer.com/chapter/10.1007%2F978-3-319-00026-8_2) and form the foundation for the full [**strategy**](#Strategy) outlined above..
+
+## 5.1 Democratization <a name="Democratization"></a>
 
 Terdapat banyak ketidakadilan dalam mendistribusikan akses pengetahuan, pengetahuan terbuka berkepentingan untuk membuat pengetahuan ilmiah (termasuk penerbitan, kode, metode, dan data) mudak diakses dan tersedia gratis untuk setiap orang yang melalui akses teknologi modern (contohnya, komputer dan koneksi internet. 
 
-Yang terpenting, demokrasi dalam pengetahuan terbuka tidak hanya akses yang setara ke pengetahuan, tetapi juga kemungkinan dalam berkontribusi terhadap pengetahuan dan persamaan hak berpartisipasi dalam keputusan komunitas di seluruh dunia yang mempengaruhi penciptaan dan distribusi pengetahuan. yang terakhir, pengetahuan terbuka sangat bertentangan dengan perkumpulan kekuasaan tertutup di mana sekumpulan orang yang memutuskan untuk seluruh komunitas internasional, baik perkumpulan tertutup yang didukung pendana lembaga/pemerintah atau juga organisasi kelas atas (contohnya, kelompok kecil penulis bergengsi). Memang, sangat tidak mungkin lebih dari 10 juta ilmuwan, berpendidikan tinggi dan cerdas, setuju dengan beberapa aturan yang dibuat oleh sejumlah kecil orang (atau bahkan lebih buruk, oleh beberapa kelompok dengan kepentingan keuangan). Skenario yang lebih mungkin adalah aturan baru tentang pengetahuan terbuka akan muncul dalam debat terbuka, melalui banyak proyek kolektif, sama seperti menyunting naskah ini secara kolektif. Beberapa mekanisme khusus telah diusulkan untuk mewujudkan nilai-nilai demokratis dalam pengetahuan terbuka melalui cara desentralisasi, mekanisme blockchain juga menjadi salah satu caranya [refs to be added, section to be extended -- VT].
+Yang terpenting, demokrasi dalam pengetahuan terbuka tidak hanya akses yang setara ke pengetahuan, tetapi juga kemungkinan dalam berkontribusi terhadap pengetahuan dan persamaan hak berpartisipasi dalam keputusan komunitas di seluruh dunia yang mempengaruhi penciptaan dan distribusi pengetahuan. yang terakhir, pengetahuan terbuka sangat bertentangan dengan perkumpulan kekuasaan tertutup di mana sekumpulan orang yang memutuskan untuk seluruh komunitas internasional, baik perkumpulan tertutup yang didukung pendana lembaga/pemerintah atau juga organisasi kelas atas (contohnya, kelompok kecil penulis bergengsi). 
+
+Memang, sangat tidak mungkin lebih dari 10 juta ilmuwan, berpendidikan tinggi dan cerdas, setuju dengan beberapa aturan yang dibuat oleh sejumlah kecil orang (atau bahkan lebih buruk, oleh beberapa kelompok dengan kepentingan keuangan). Skenario yang lebih mungkin adalah aturan baru tentang pengetahuan terbuka akan muncul dalam debat terbuka, melalui banyak proyek kolektif, sama seperti menyunting naskah ini secara kolektif. Beberapa mekanisme khusus telah diusulkan untuk mewujudkan nilai-nilai demokratis dalam pengetahuan terbuka melalui cara desentralisasi, mekanisme blockchain juga menjadi salah satu caranya [refs to be added, section to be extended -- VT].
+
+In working towards principles of Open Scholarship, we acknowledge that there is the potential for complexity, or even conflict in our objectives as policies and working practices evolve. Awareness of the broader research, industry and education landscape will help to position Open Scholarship to have the greatest possible impact, and to mitigate the potential of other policies and priorities to limit its potential. For example, copyright proposals in the EU that would limit who is permitted to undertake TDM (text and data mining), or policies promoting intellectual property (IP) and commercialisation should be balanced with policies that permit a wide range of uses of data, research, and knowledge. There do exist a number of [recent](https://www.communia-association.org/) [initiatives](https://fixcopyright.eu/) working towards the development of copyright frameworks that help the Open Scholarship cause.
+
+Other specific aspects include:
 
 * Penerbitan akses terbuka (Open Access) yang tidak hanya gratis untuk dibacaa juga gratis untuk digunakan kembali dan gratis untuk didistribusikan. (Catatan:  Open Access (the book) - Peter Suber (bit.ly/oa-book)).
 
