@@ -394,43 +394,51 @@ Karya-karya sebelumnya sudah dan tetap menjadi, penting untuk membangun identita
 
 # 4. State of the Movement <a name="State"></a>
 
-Sebuah gerakan dapat didefinisikan sebagai "a group of people working together to advance their shared political, social, or artistic ideas." (NOTE:  Oxford Dictionary, diakses pada November 2017.) Pendukung pengetahuan terbuka sangat beraneka ragam, termasuk masyarakat biasa, aktivis, staf pengajar, dan siswa di berbagai tingkat akademis dan karir serta lembaga penelitian, penerbit, pustakawan, pembuat kebijakan, dan LSM. Para anggota komunitas ini berasal dari berbagai negara dan latar belakang sosial ekonomi dan budaya. Walaupun demikian, perbedaan tersebut adalah kekuatan untuk gerakan pengetahuan terbuka dengan perspektif, pengalaman, kapasitas dan sumber daya yang beragam, dan juga menghadirka tantangan untuk  perencanaan strategis. 
+Gerakan/ [movement](https://www.google.de/search?q=Dictionary#dobs=movement) dapat didefinisikan sebagai "a group of people working together to advance their shared political, social, or artistic ideas." Pendukung pengetahuan terbuka sangat beraneka ragam, termasuk masyarakat biasa, aktivis, staf pengajar, dan siswa di berbagai tingkat akademis dan karir serta lembaga penelitian, penerbit, pustakawan, pembuat kebijakan, dan LSM. Para anggota komunitas ini berasal dari berbagai negara dan latar belakang sosial ekonomi dan budaya. Walaupun demikian, perbedaan tersebut adalah kekuatan untuk gerakan pengetahuan terbuka dengan perspektif, pengalaman, kapasitas dan sumber daya yang beragam, dan juga menghadirka tantangan untuk  perencanaan strategis. 
 
 Mungkin, persamaan terbesar diantara pemangku kepentingan pengetahuan terbuka adalah keyakinan akan pengadopsian pengetahuan terbuka adalh hal yang bagus dan akan membawa dampak positif bagi komunitas penelitian, lingkungan, ekonomi global dan masyarakat. Dengan persamaan ini, kami dapat mengidentifikasi tantangan dan peluang inti dalam pengetahuan terbuka untuk menentukan strategi yang bisa diadopsi pada tingkat yang berbeda dan di berbagai kelompok pemangku kepentingan. Dari sini, kita memperoleh kesadaran bersama dalam menindaklanjuti kemajuan pengetahuan terbuka.
-
-[Maybe make use of "Openness Triangle" that is part of Peters & Roberts 'The Virtues of Openness'? This would fit into the 'good thing' debate]
 
 ## 4.1 Shared Perspectives
 
 ### 4.1.1 General Value Proposition
 
-Pengetahuan terbuka membuat hasil penelitian dan praktik ilmiah menjadi lebih terakses dan inklusi serta memperluas wawasan kita dalam proses penelitian ilmiah.
+**Pengetahuan terbuka membuat hasil penelitian dan praktik ilmiah menjadi lebih terakses dan inklusi serta memperluas wawasan kita dalam proses penelitian ilmiah.**
 
-### 4.1.2 Tujuan dan Visi Overall goals and vision
+### 4.1.2 Tujuan dan Visi
 
-Praktik-praktik penelitian dan komunikasi ilmiah terus berkembang. Walaupun faktanya situs web mulanya didesain sekitar 30 tahun yang lalu untuk  memutuskan hirarki manajemen informasi dengan desentralisasi komunikasi ilmiah ([Berners-Lee, 1989](https://www.w3.org/History/1989/proposal.html)), penyebarluasan situs web telah the pervasive spread of the Web has left much of the pre-existing scholarly publication model and industry unchanged. Such a perceived slow rate of change or inertia can possibly be attributed to the wide range of diverse stakeholders engaged in this domain, and the deep entrenchment of interests and positions. As such, one common perspective is that scholarly communication processes need to increasingly embrace the power of Web-native technologies. Alignment of this ideal with the process of research itself is what is broadly agreed on as Open Scholarship, and there has been an undeniable explosion in the rate of innovation in scholarly communication in this in the last 30 years. The primary vision here, and one which we are optimistic of achieving, is that educational resources and research outputs, as a global societal common good should be accessible free of charge to all publics who wish to benefit from them, and integrated into wider society.
+Praktik-praktik penelitian dan komunikasi ilmiah terus berkembang. Walaupun faktanya situs web mulanya didesain sekitar 30 tahun yang lalu untuk  memutuskan hirarki manajemen informasi dengan desentralisasi komunikasi ilmiah ([Berners-Lee, 1989](https://www.w3.org/History/1989/proposal.html)), penyebarluasan situs web telah the pervasive spread of the Web has left much of the pre-existing scholarly publication model and industry unchanged. 
+
+Such a perceived slow rate of change or inertia can possibly be attributed to the wide range of diverse stakeholders engaged in this domain, and the deep entrenchment of interests and positions. As such, one common perspective is that scholarly communication processes need to increasingly embrace the power of Web-native technologies. Alignment of this ideal with the process of research itself is what is broadly agreed on as Open Scholarship, and there has been an undeniable explosion in the rate of innovation in scholarly communication in this in the last 30 years. The primary vision here, and one which we are optimistic of achieving, is that educational resources and research outputs, as a global societal common good should be accessible free of charge to all publics who wish to benefit from them, and integrated into wider society.
+
+Visi utama kami adalah:
+
+1. Bahwa semua sumber pendidikan dan hasil penelitian, yang diaggap sebagai kebaikan bersama secara global, harus dapat diakses tanpa biaya oleh siapapun.
+2. Bahwa manfaat penelitian harus diintegrasikan kepada masyarakat luas. 
+3. Bahwa siapapun seharusnya bersedia berkontribusi dan berpartisipasi dalam proses ini. 
 
 ### 4.1.3 Definition as a ‘boundary object’
-
-Open Scholarship when performed (NOTE:  According to Bowker & Star (2000), karya ilmiah selalu terdiri dari anggota komunitas praktik yang berbeda, dan oleh karena itu penciptaan dan pengelolaan objek adalah proses kunci dalam mengembangkan dan mempertahankan perpaduan lintas masyarakat. 
 					
-	 ) as a boundary object ([Star, 1989](http://www.lchc.ucsd.edu/MCA/Mail/xmcamail.2012_08.dir/pdfMrgHgzULhA.pdf)) allows us to balance different categories and meanings across many communities of practice ([Star and Griesemer, 1989](http://www.lchc.ucsd.edu/MCA/Mail/xmcamail.2012_08.dir/pdfMrgHgzULhA.pdf)). Broadly, the core aspects of Open Scholarship can be divided into two major categories: practices and principles. For the former, this relates to aspects such as Open Access, Open Data, and Open Source. The core principles of Open Scholarship include participation, equality, transparency, cognitive justice (NOTE:  https://en.wikipedia.org/wiki/Cognitive_justice ), collaboration, sharing, equity, and inclusivity. Generally, it is agreed upon that the combination of these practices and principles will result in a better research process, all grouped under the broad heading of Open Scholarship.  Indeed, [Watson (2015)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0669-2) believes that these attributes are not exclusive to Open Scholarship, but should be key traits of good science in general. However, we acknowledge that Open Scholarship is not a simple construct to understand, and often has its own language. We fully acknowledge that such a barrier must be overcome in order to maximise participation and engagement with both the principles and the practices ([Masuzzo and Martens, 2017](https://peerj.com/preprints/2689/)).
+Ketika dipersepsikan sebagai "boundary object" ([Star, 1989](http://www.lchc.ucsd.edu/MCA/Mail/xmcamail.2012_08.dir/pdfMrgHgzULhA.pdf)), Pengetahuan terbuka  memungkinkan kita untuk menyeimbangkan berbagai kelompok dan makna di antara praktik dari banyak komunitas. Oleh karena itu penciptaan dan pengelolaan objek adalah proses kunci dalam mengembangkan dan mempertahankan perpaduan lintas masyarakat.
 
-![image alt text](image_3.png)
+Pada umumnya, aspek inti dari Pengetahuan Terbuka, dapat dibagi menjadi dua kategori: **ilmu dan praktik** dan **prinsip dan nilai**. Untuk yang dulu, hal ini berhubungan dengan aspek seperti Akses Terbuka, Data Terbuka, dan Sumber Terbuka. Prinsip utama Pengetahuan Terbuka, termasuk partisipasi, persamaan, transparansi, keadilan kognitif, kolaborasi, berbagi, keadilan, dan inclusivity: aspek yang sering tidak ada dalam pengetahuan biasa. Kombinasi dari praktik dan prinsip ini akan menghasilkan proses penelitian yang lebih baik.   [Watson (2015)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0669-2) yakin aspek ini bukanlah hal yang eksklusif bagi Pengetahuan Terbuka, namun menjadi ciri utama pengetahuan secara umum.
 
-Prinsip-prinsip pengetahuan terbuka oleh Tony Ross-Hellauer ([Sumber](https://www.slideshare.net/OpenAIRE_eu/peer-review-in-the-age-of-open-science), CC BY).
+Namun, kami mengakui bahwa untuk mengerti Pengetahuan Terbuka bukanlah hal yang mudah untuk sekarang. Kami sepenuhnya mengakui bahwa penghalang seperti itu harus diatasi untuk memaksimalkan partisipasi dan keterlibatan dengan prinsip dan praktik ([Masuzzo and Martens, 2017](https://doi.org/10.7287/peerj.preprints.2689v1)).
+
+![Figure_4: Principles of Open Scholarship](images/image_3.png)\
+
+[Tony Ross-Hellauer (2017). Principles of Open Scholarship. Slideshare](https://www.slideshare.net/OpenAIRE_eu/peer-review-in-the-age-of-open-science). (CC BY).
 
 ### 4.1.4 Ekosistem Pengetahuan Terbuka
 
 Empat elemen utama sebagai prasyarat pengadopsian pengetahuan terbuka:
 
-1. Pengguna: Kesadaran terhadap Pengetahuan terbuka untuk ikut serta melaksanakan praktik.
+1. **Pengguna**: Kesadaran terhadap Pengetahuan terbuka untuk ikut serta melaksanakan praktik.
 
-2. Proses: Sarana pengetahuan terbuka yang dapat memandu adopsi praktik pengetahuan terbuka.
+2. **Proses**: Sarana pengetahuan terbuka yang dapat memandu adopsi praktik pengetahuan terbuka.
 
-3. Konteks: Komunitas dan sistem pendukung untuk menciptakan lingkungan pengetahuan terbuka yang berkelanjutan.
+3. **Konteks**: Komunitas dan sistem pendukung untuk menciptakan lingkungan pengetahuan terbuka yang berkelanjutan.
 
-4. Insentif: Motivasi untuk melaksanakan praktik pengetahuan terbuka.
+4. **Insentif**: Motivasi untuk melaksanakan praktik pengetahuan terbuka.
 
 ![image alt text](image_4.png)
 
@@ -442,11 +450,16 @@ Selain kesamaan ini, ketegangan juga muncul dalam  mengadopsi praktik pengetahua
 
 ### 4.2.1 Geographic specificities
 
-* Ratusan inisiatif baik dari individu dan organisasi muncul untuk membantu mempromosikan akses terbuka (Open Access) pada tingkat berbeda-beda di seluruh dunia (Catatan:  Open Access Directory, Advocacy Organizations for OA (diakses pada 24/11/2017).).
+* Ratusan inisiatif baik dari individu dan organisasi (http://oad.simmons.edu/oadwiki/Advocacy_organizations_for_OA) muncul untuk membantu mempromosikan akses terbuka (Open Access) pada tingkat berbeda-beda di seluruh dunia.
 
-* Ribuan inisiatif baik dari individu dan organisasi muncul untuk membantu mempromosikan pendidikan terbuka (Open Education) pada tingkat berbeda-beda di seluruh dunia. (Catatan:  OER World Map (diakses pada 06/03/2018).).
+* Ribuan inisiatif baik dari individu dan organisasi (https://oerworldmap.org/) muncul untuk membantu mempromosikan pendidikan terbuka (Open Education) pada tingkat berbeda-beda di seluruh dunia. 
 
 * Penerbitan Akses terbuka dengan biaya mahal mendiskriminasi peneliti dari negara-negara dengan gaji rendah dan menengah (Low and Middle Income Countries - LMICs).
+
+* Layanan pengindeks terkenan, seperti scopus dan  Web of Science, atau secara eksplisit bias terhadap jurnal dari negara berkembang, atau yang tidak memiliki bahasa Inggris sebagai bahasa utama ([Mongeon and Paul-Hus, 2016](https://doi.org/10.1007/s11192-015-1765-5)).
+
+* Untuk memastikan bahwa setiap narasi Sains Terbuka mengintegrasikan beragam pandangan dunia, pengalaman, dan tantangan di Amerika Latin, Asia, Afrika, dan Timur Tengah, sebagaimana diuraikan dalam [Open and Collaborative Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/).
+
 
 ### 4.2.2 Disciplinary specificities
 
