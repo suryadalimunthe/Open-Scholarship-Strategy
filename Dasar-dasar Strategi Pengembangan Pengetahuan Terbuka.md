@@ -783,72 +783,109 @@ Tantangan-tantangan ini mewakili titik fokus potensial dari diskusi di masa depa
  
 * **Rekonsiliasi kepentingan pribadi**
 
-Saat ini ada sedikit konsensus mengenai apakah masa depan Pengetahuan Terbuka harus murni dimiliki oleh entitas nirlaba yang diatur oleh komunitas ilmiah global (termasuk amal dan LSM), atau apakah ada ruang untuk kepentingan pribadi atau perusahaan. Sangat mungkin bahwa masa depan akan menjadi model campuran yang menggabungkan semua jenis aktor, meskipun posisi relatif, kekuasaan, dan status ini masih harus dilihat. Diskusi lebih lanjut diperlukan di sini untuk mengatasi inersia yang menyebar di mana model bisnis saat ini terkait. Ini termasuk:
-There is currently little consensus over whether the future of Open Scholarship should be purely owned by non-profit entities governed by the global scholarly community (including charities and NGOs), or whether there is a space for private or corporate interests. It is likely that the future will be a mixed model combining all actor types, although the relative position, power, and status of these remains to be seen. Further discussion is needed here to overcome the widespread inertia where current business models are concerned. This includes:
+Saat ini ada sedikit konsensus mengenai apakah masa depan Pengetahuan Terbuka harus murni dimiliki oleh entitas nirlaba yang diatur oleh komunitas ilmiah global (termasuk amal dan LSM), atau apakah ada ruang untuk kepentingan pribadi atau perusahaan. Sangat mungkin bahwa masa depan akan menjadi model campuran yang menggabungkan semua jenis aktor, meskipun posisi relatif, kekuasaan, dan status ini masih harus dilihat. Diskusi lebih lanjut diperlukan di sini untuk mengatasi penyebaran model bisnis saat ini terkait. Ini termasuk:
+ * Mengatasi kesalahpahaman bahwa Pengetahuan Terbuka anti- komersial dan menunjukkan investasi dapat kembali (contoh, [Balasegaram et al., 2017](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002276); [Hakoum et al., 2017](http://bmjopen.bmj.com/content/7/10/e015997)).
 
-* Agenda politik 
+  * Mengatasi friksi antara model [Scholarly Commons](https://www.force11.org/group/scholarly-commons-working-group) untuk penelitian dan operaisnya pada kerangka kapitalis.(contoh, [Clash of cultures](https://danielskatzblog.wordpress.com/2016/10/25/clash-of-cultures-why-all-science-isnt-open-science/))
 
-* Kesadaran dan keapatisan peneliti
+  * Mencari pengembangan model bisnis alternatif, seperti pendekatan konsorsium pada Open Library of Humanities ([Eve and Edwards, 2015](https://doi.org/10.16995/olh.46)).
+
+* **Agenda politik**
+Pengetahuan Terbuka ditandai dengan banyak definisi yang saling bersaing, paralel, dan tumpang tindih dalam prinsip dan praktik. Dengan demikian, pemerintah, lembaga pendanaan publik dan swasta, lembaga penelitian, dan entitas pendidikan terus mengembangkan beragam kebijakan untuk mengatur inisiatif PengetahuanTerbuka.
+
+Kebijakan-kebijakan ini mencakup negara, disiplin ilmu, dan komponen dari ekosistem pengetahuan Terbuka, dan menerapkan aturan, peraturan, dan pedoman pada komunitas penelitian ilmiah melalui mekanisme termasuk kebijakan pemerintah, persyaratan pendanaan hibah, dan mandat kelembagaan
+* [Open Science](https://ec.europa.eu/research/openscience/index.cfm) telah menjadi prioritas utama pada agenda Uni Eropa. Fokus utamanya adalah pertumbuhan ekonomi, perkembangan dan inovasi. Aspek akademik dan sosial inti dari Pengetahuan Terbuka tampaknya kurang dibahas.
+
+  * Negara lain umumnya telah mengadopsi secara perlahan kebijakan dan strategi Sains Terbuka. Namun, pada Juli 2018, Perancis meluncurkan rencana nasional Sains Terbuka [National Plan for Open Science](https://libereurope.eu/wp-content/uploads/2018/07/SO_A4_2018_05-EN_print.pdf), dan Belanda juga ada [National Plan for Open Science](https://www.openscience.nl/en/open-science-in-the-netherlands).
+
+  * Untuk Perancis, fokusnya adalah manfaat untuk penelitian, pendidikan, ekonomi dan inovasi dan masyarakat. Di Belanda, Fokusnya lebih kepada membuka penelitian untuk berkolaborasi tentang isu sosial dan teknologi. Di Estonia, Sains Terbuka [Open Science](http://www.etag.ee/wp-content/uploads/2017/03/Open-Science-in-Estonia-Principles-and-Recommendations-final.pdf) tampaknya lebih didasarkan pada hak akses publik, meningkatkan kualitas penelitian dan kolaborasi, dampak sosial dan ekonomi.
+
+  * EU Horizon 2020 adalah salah satu inisiatif pemerintah paling penting yang melibatkan kebijakan Pengetahuan Terbuka. Contohnya, Responsible Research and Innovation (RRI) component of the Work Programme "Science with and for Society" makes open education, research, and access explicit targets of EU policy.
+  
+  * The FASTR Act, Open Government Data Act, [Federal Source Code Policy](https://sourcecode.cio.gov/); Affordable College Textbook Act; U.S. National Cancer Moonshot Initiative; Dept of Education Open Licensing Rule; Executive Directive on Public Access; California Taxpayer Access to Publicly Funded Research Act; dan Illinois Open Access to Articles Act adalah contoh kebijakan yang berubah di Amerika yang ada di bawah payung Pengetahuan Terbuka.
+
+Dari contoh-contoh ini, jelas bahwa adastrategi yang kurang konsisten pada motivasi politik untuk Pengetahuan Terbuka. Diperlukan koordinasi yang lebih dalam di bidang ini untuk secara strategis mengidentifikasi aspek Pengetahuan Terbuka  yang cocok dengan setiap hasil politik yang diinginkan.
+
+* **Kesadaran dan keapatisan peneliti**
 
     * Kesadaran terhadap pengetahuan terbuka masih sangat rendah. Hal ini benar bahwa pengetahuan terbuka ada sebagai cara meningkatkan efisiensi alur kerja penelitian standar (bukan sebagai alternatif langsung), dan keuntungannya juga begitu. Banyak peneliti masih asing mengadopsi praktik pengetahuan terbuka (contohnya, berbagi data, penerbitan akses terbuka), tapi jangan samakan ini dengan istilah ‘pengetahuan terbuka’. Bahkan jika tingkat kesadaran sudah tinggi, ini tidak selalu diartikan dengan  adopsi, sering karena kurangnya informasi, insentif dan motivasi yang memadai, atau ketidaktertarikan umum.
 
 * Peneliti mungkin mengadopsi praktik pengetahuan terbuka berdasarkan alasan pragmatis, tetapi tidak menggunakan label atau mengidentifikasinya sebagai pengetahuan terbuka, atau bahwa mereka adalah ilmuan terbuka.
 
-* Putus hubungan antara kesadaran dan praktik beasiswa terbuka.
+* Peneliti mungkin mengadopsi praktik pengetahuan terbuka berdasarkan alasan pragmatis, tetapi tidak menggunakan label atau mengidentifikasinya sebagai pengetahuan terbuka, atau bahwa mereka adalah sarjana terbuka, memerlukan penyelidikan empiris lebih lanjut sebagai salah satu aspek sosial utama dari gerakan ini.
 
-* Bahasa dan kemunculan komunitas
+* Jangkauan geografis yang heterogen dan kesadaran praktek Pengetahuan Terbuka perlu diselidiki.
 
-* Promosi dengan non bahasa ingrris. Hegemoni bahasa Inggris sering kali berfungsi untuk lebih memberdayakan negara-negara Global Utara dalam percakapan tentang strategi ini.
+* **Bahasa dan kemunculan komunitas**
 
-* Para ilmuwan yang paling berpengaruh ada dalam sistem tertutup
+* Mempromosikan Pengetahuan Terbuka dengan non bahasa inggris. Hegemoni bahasa Inggris sering kali berfungsi untuk lebih memberdayakan negara-negara Global Utara dalam percakapan tentang strategi ini.
 
-* Cara menangani open washing: menggunakan istilah pengetahuan terbuka untuk hal-hal yang hampir tidak terbuka, menjadikan istilah itu tidak berarti
+* Para ilmuwan yang paling berpengaruh ada dalam sistem tertutup. biasnya sangat kuat dalam mendefinisikan praktik penelitian para peneliti muda.
 
-* Menyadari bahwa pengetahuan hukum (hak cipta) dan ekonomi (kepemilikan / model bisnis) mungkin sama pentingnya dengan pengetahuan teknis
+* Penggunaan yang menyesatkan dari istilah Pengetahuan Terbuka melemahkan pesan yang dimaksudkan. Yang disebut 'open washing' mengacu pada penggunaan istilah Pengetahuan Terbuka untuk produk, layanan, dan praktik yang hampir tidak terbuka. Misalnya, gratis berarti tidak terbuka, dan hanya menyediakan alat penelitian tidak terbuka juga. Ini juga hal yang membingungkan antara Pengetahuan Terbuka dengan Akses terbuka atau Sains terbuka.
 
-* Keterbatasan jangkauan dan kesadaran pengetahuan terbuka di negara-negara berkembang
+* Ada bahaya bahwa perusahaan yang anti-keterbukaan, seperti [Elsevier] (https://www.elsevier.com/about/open-science), dapat pindah ke dan mengkooptasi gerakan pengetahuan Terbuka, jika ini tidak didefinisikan dan dipatuhi dengan tepat.
+
+* Gerakan Terbuka dilanda oleh tantangan komunikasi dan keterlibatan, termasuk dari pemain kuat dengan lawan atau perbedaan minat. Masyarakat harus mengadopsi sikap 'kebaikan radikal' ketika terlibat dengan aktor-aktor itu, dan memperlakukan mereka dengan kesopanan yang absolut dan tak tergoyahkan.
+
+* Pengetahuan Terbuka muncul dengan serangkaian istilah teknisnya sendiri. Untuk mengurangi batas keterlibatan, hindari penggunaan jargon, dan pastikan istilah yang umum digunakan didefinisikan dengan tepat.
+
+* **Hak Cipta**
+
+* Pengetahuan tentang Hak Cipta dan ekonomi (kepemilikan/model bisnis) sama pentingnya dengan pengetahuan teknis.
+
+* Meremehkan kekuatan undang-undang hak cipta, dan poin dari aspek Pengetahuan Terbuka, mungkin merupakan salah satu alasan utama mengapa gerakan terbuka belum memenuhi [beberapa tujuan prinsipnya] (https: //poynder.blogspot .com / 2017/02 / copyright-immoveable-barrier-that-open.html).
 
 * Mengatasi kesalahpahaman bahwa pengetahuan terbuka anti-komersial / menunjukkan laba atas investasi (contohnya, [Balasegaram et al., 2017](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002276); [Hakoum et al., 2017](http://bmjopen.bmj.com/content/7/10/e015997)).
 
-* Menyelesaikan friksi antara model ilmiah umum penelitian, dan operasinya dalam kapitalistik (NOTE:  https://danielskatzblog.wordpress.com/2016/10/25/clash-of-cultures-why-all-science-isnt-open-science/). 
-
-* Mencari model bisnis alternatif, seperti perpustakaan humaniora terbuka ([Eve and Edwards, 2015](http://doi.org/10.16995/olh.46))
-
-* Kelemahan umum bisnis yang sekarang.
-
-* Bingung tentang pengetahuan terbuka dengan akses terbuka, atau ilmu terbuka.
-
-* Tantangan hak cipta.
-
-* Melibatkan peran non akademis
+* **Melibatkan peran non akademis**
 
 * Adopsi pengetahuan terbuka di tingkat kebijakan oleh pemerintah nasional dan regional (sama seperti cara data terbuka yang diadopsi pemerintah)
 
 * Penelitian adalah upaya yang sangat kompetitif di seluruh dunia. Karena banyaknya praktik baru tentang pengetahuan terbuka, dapat dipahami bahwa lembaga tidak ingin mempertaruhkan reputasi mereka dalam permainan global dengan mengadopsi proses operasional baru.
 
-## 7.2 Kondisi Internal Internal conditions
+* Keterlibatan yang lebih luas dari khalayak non-akademis, khususnya anggota masyarakat umum, penting untuk mengatasi setiap inersia politik mengenai Pengetahuan Terbuka.
 
-* Tingkat Pertumbuhan
+## 7.2 Kondisi Internal <a name="Internal"></a>
 
-    * Semua bukti saat ini menunjukkan bahwa momentum pengetahuan terbuka sedang dibangun, dalam hal pemahaman yang lebih luas tentang isu-isu dan penerapan praktik (contohnya, jumlah kebijakan kelembagaan tentang akses terbuka (catatan:  ROARMAP)).Tetapi pergerakan seperti itu seringkali lambat dan terlalu rinci, dan menjadi perselisihan. Percobaan lebih lanjut harus didorong untuk menunjukkan penerapan praktik berskala lebih besar dan untuk meningkatkan laju pertumbuhan, dan dampak akhir dari pengetahuan terbuka.
+* **Tingkat Pertumbuhan**
 
-* Menghindari pertengkaran tentang detail, tidak menyadari tentang isu-isu utama.
+    * Semua bukti saat ini menunjukkan bahwa momentum pengetahuan terbuka sedang dibangun, dalam hal pemahaman yang lebih luas tentang isu-isu dan penerapan praktik (contohnya, jumlah kebijakan kelembagaan tentang akses terbuka  [ROARMAP](https://roarmap.eprints.org/dataviz2.html)).
+    
+    ![Figure_7: Overview: Policies by continent and region](images/Policies.png)\
+    
+    * Tetapi pergerakan seperti itu seringkali lambat dan terlalu rinci, dan menjadi perselisihan. Percobaan lebih lanjut harus didorong untuk menunjukkan penerapan praktik berskala lebih besar dan untuk meningkatkan laju pertumbuhan, dan dampak akhir dari pengetahuan terbuka.
 
-* Mengatasi masalah keuangan / Keberlanjutan Finansial
+* **Menghindari perselisihan tentang detail**
 
-* Kurangnya kesabaran para pendukung pengetahuan terbuka
+* Seringkali, gerakan Pengetahuan Terbuka tampaknya cukup meengatasi masalah-masalah kecil, tanpa menyadari tentang isu-isu utama. Berfokus pada prinsip bahwa sebagai landasan bersama akan menciptakan menciptsksn diskusi lebih lanjut.
+
+
+* **Mengatasi masalah keuangan**
+
+  * Keberlanjutan Keuangan merupakan aspek kunci untuk masa depan Pengetahuan Terbuka. Pemahaman yang lebih besar tentang alur keuangan dalam komunikasi ilmiah diperlukan, dan untuk mendukung inisiatif seperti SCOSS, yang didedikasikan untuk mendukung infrastruktur ilmiah yang berkelanjutan dan terbuka.
+
+  * Inisiatif seperti [The 2.5% Commitment](https://intheopen.net/2017/09/join-the-movement-the-2-5-commitment/) sangat penting di masa depan. Mereka menyatakan bahwa "*Every academic library should commit to contribute 2.5% of its total budget to support the common infrastructure needed to create the open scholarly commons.*"
+
+  * Ada ruang lingkup yang jelas untuk mengalihkan dana dari arus sekarang (misalnya, langganan) menjadi usaha Pengetahuan Terbuka yang lebih berkelanjutan.
+  
+* **Kurangnya kesabaran para pendukung pengetahuan terbuka**
 
     * Kami sangat menyadari banyaknya beban dan tekanan para peneliti, dalam mempertahankan produktivitas, pendanaan, administrasi, mengajar, dan kewajiban lainnya. Ini artinya Pengetahuan terbuka belum menjadi prioritas, karena sistem penghargaan sekarang masih terfokus kepada publikasi hasil penelitian di jurnal-jurnal berdampak tinggi, yang dapat menahan laju tertumbuhan pengetahuan terbuka.
 
-* Melihat betapa beragamnya inisiatif di tingkat kecepatan yang berbeda, di komunitas yang berbeda, dan masih dapat memperkuat satu sama lain menuju tujuan luas yang sama.
+   * Melihat betapa beragamnya inisiatif di tingkat kecepatan yang berbeda, di komunitas yang berbeda, dan masih dapat memperkuat satu sama lain menuju tujuan luas yang sama.
 
     * Para peneliti tidak harus menjadi ‘aktivis terbuka’. Namun, mereka seharusnya sadar fungsi sistem komunikasi ilmiah yang lebih luas, dan beragam proses dan norma yang terlibat dalam hal ini.
+    
+*  **Not being open to the limitations of openness**
+   * Semangat untuk keterbukaan membawa bahaya menjadi tidak mau menerima kritik atau tidak mengakui bahwa ada situasi di mana praktik-praktik terbuka standar dapat memiliki bahaya. Ini mungkin berhubungan dengan masalah privasi, tetapi juga data yang sedang dibuka dapat ditangkap oleh pemerintah untuk pengawasan atau oleh perusahaan untuk kepentingan perusahaan (pikirkan data tentang tumbuhan / hewan langka atau asli, atau data yang menunjukkan bagaimana kelompok lokal atau kelompok lingkungan bekerja). Hal ini juga berkaitan dengan keterbukaan terhadap kritik mengenai bahaya ekonomi berbasis platform dan hubungan yang tidak setara dalam kerjasama penelitian.
 
-* Menghadapi keberagaman, bias terhadap komunitas berbahasa Inggris
+* **Menghadapi keberagaman**
+    * Ini termasuk bias yang melekat pada komunitas berbahasa Inggris, yang mendiskriminasi mereka yang tidak berbicara bahasa inggris, baik sebagai bahasa pertama mereka sama sekali.
+    * Pengetahuan Terbuka harus mengakui bahwa tidak semua strategi cocok untuk semua negara
+    * Pastikan bahwa wilayah lain tidak terkena dampak negatif dengan keputusan yang diambil oleh kelompok lain
 
-    * Terkait - perlu disadari bahwa tidak semua strategi cocok untuk semua wilayah - memberikan fleksibilitas - pastikan bahwa wilayah lain tidak terkena dampak negatif dengan keputusan yang diambil oleh kelompok lain
-
-# 8. Kesempatan
+# 8. Kesempatan <a name="Kesempatan"></a>
 
 * Universitas-universitas dan lembaga-lembaga penelitian dari seluruh dunia sedang membangun ikrar pengetahuna terbuka. Diskusi sedang terjadi di tingkat berbeda, dan universitas pada umumnya berada di posisi kuat untuk membimbing dan mengembangkan kerangka kebijakan, praktik terbaik, dan pendidikan dalam aspek-aspek pengetahuan terbuka, termasuk dukungan administrasi.
 
@@ -856,127 +893,82 @@ There is currently little consensus over whether the future of Open Scholarship 
 
 * Komunikasi ilmiah sedang berkembang pesat. Ada ruang lingkup besar untuk pelatihan dan pendidikan sistematis di bidang ini, yang dapat diadopsi oleh lembaga penelitian. Jaringan pakar global sudah ada dengan kapasitas profesional untuk ini, tetapi pendanaan untuk jaringan seperti itu akan sangat penting untuk keberlanjutan apa pun. Platform dan teknologi saat ini juga dapat mendukung gerakan ini.
 
-# 9. Ancaman
+* Secara keseluruhan, ada peluang besar yang tersedia untuk menyelaraskan lanskap kebijakan komunikasi ilmiah dalam menyederhanakan kepatuhan bagi para peneliti. Ini perlu menghindari penyebaran lisensi, dengan banyak lisensi mungkin tidak cocok satu sama lain, dan membutuhkan banyak pekerjaan untuk ditafsirkan. Sumber Terbuka "memecahkan" masalah ini dengan lisensi yang disetujui OSI, dan MIT / BSD / GPL muncul sebagai lisensi yang paling umum dengan kompatibilitas bersama yang jelas dipahami. Setingkat di sini untuk lisensi artikel dan data akan menjadi sesuatu yang setara dengan CC BY.
 
-* Menlanjutkan hambatan-hambatan askses terbuka: embargo, melanjutkan pengalihan hak cipta, kurangnya pendanaan untuk biaya pemrosesan artikel, biaya pemrosesan artikel yang mahal dan tidak berkelanjutan (+ kurangnya pengetahuan dalam menegosiasikan kesulitan ini), selanjutnya, persepsi tentang kurang bergengsinya jurnal akses terbuka. 
+* Pendekatan gabungan dari perubahan kebijakan top-down dan kampanye akar rumput, advokasi, dan pelatihan dan pendidikan diperlukan untuk menutup kesenjangan antara sikap positif terhadap sebagian besar aspek Beasiswa Terbuka dan praktek-praktek yang sebenarnya.
 
-    * Aturan penerbit saat ini rumit, membingungkan, dan memakan waktu serta mahal untuk diikuti dan dipatuhi. Mereka juga kurang bukti untuk mendukung, dan terjadi konflik langsung dengan kebijakan pendana dalam asrip pribadi.
+# 9. Ancaman <a name="Ancaman"></a>
 
-    * OA: If APC model becomes universal (esp. If publishers are allowed to dictate costs), Global South lose publishing options, current journal ecosystem could be carried over (w/ flaws which incentivise bad research and all), just with author-pays OA and no reduction in costs
+* **Barriers to Open Access adoption**
+  * Lack of research into personal determinants and environmental conditions of (not) publishing Open Access
 
-    * OA: Masih belum ada solusi berskala besar yang disepakati untuk menerbitkan akses terbuka untuk buku.
+  * Periode yang panjang untuk melindungi penerbit besar;
 
-    * Menutupi kerugikan transaksi.
+  * Kompleks, membingungkan, dan sulit untuk menavigasikan periode pelarangan;
 
-    * Catatann bahwa sekitar 70% jurnal yang diindeks DOAJ tidak dikenakan biaya pemrosesan artikel (catatan:  https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/).
+  * Time-consuming and expensive embargo compliance reconciliation systems;
 
-* Hambatan untuk berbagi data: 
+  * Konflik antara kebijakan pendana dan penerbit;
 
-    * Kurangnya keterampilan dan kesadaran akan praktik terbaik, 
+  * Continued transferral of copyright from researchers to publishers;
 
-    * Kurangnya persetujuan tentang bagaimana manajemen data penelitian (Research Data Management - RDM) harus didanai
-    
-    * Isu perizinan (& kurangnya kesadaran), 
+  * Lack of distributed article-processing charge funding;
 
-    * Kurangnya sarana untuk mendukung manajemen data penelitian (RDM) melalui siklus penelitian
+  * Wide application of high and unsustainable APCs and BPCs, which are particularly discriminatory against specific demographics who might lack appropriate funds;
 
-    * Mengabaikan secara eksplisit dalam memberikan hak penggunaan kembali data, sehingga mereka mewarisi penggunaan ulang yang buruk langsung dari publikasi (lihat komentar saya di atas, dan contoh jurnal akses terbuka (open access) yang tidak memiliki klausa yang melarang penggunaan kembali data. "Kalian dapat melihat pengetahuan gratis, tapi tidak bisa menggunakannya."
+  * Lack of knowledge in negotiating these difficulties;
 
-    * Kurangnya insentif yang sesuai menciptakan keraguan dari mereka yang menerapkan cara  tradisional; misalnya, berbagi data mengurangi daya saing seseorang (contoh, "seseorang akan menggunakan data saya dengan cara yang salah" atau "saya butuh lebih dari data ini"). 
+  * Kurangnya kesadaran bahwa sekitar [70% of journals indexed in the DOAJ](https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/) tidak ada biaya pemrosesan jurnals;
 
-* Insentif harus berubah untuk mempermudah perubahan budaya.
+  * No widely-agreed upon large-scale solution for issues regarding OA for books;
 
-    * Ketergantungan pada informasi metrik tidak transparan dan tidak dapat direproduksi dari penyedia komersil akan merugikan pengetahuan.
+  * Persepsi bahwa kurang berharganya jurnal Akses Terbuka; dan
 
-    * Metrik baru harus didesain untuk menciptakan insentif agar mempengaruhi tindakan peneliti, terutama berdasarkan keterbukaan.
+  * A lack of appropriate offsetting deals around OA deals and hybrid journals.
+  
+  * A general lack of high profile role models for practices in all research disciplines, strengthening cultural inertia through a lack of awareness.
+  
+ * **Barriers to data sharing**
+  * Lack of research into personal determinants and environmental conditions of (not) sharing data
 
-* Penerbit besar - Elsevier & Holzbrinck (via Digital Science) tampaknya akan mengembangkan layanan untuk seluruh alur kerja penelitian - ancaman yang jelas,  bahwa mereka akan mulai mencoba menggabungkan layanan ini untuk lembaga melalui "transaksi besar"- sehingga lemabaga akan tetap terkunci dalam menggunakan layanan sub-optimal agar memiliki akses ke layanan yang mereka anggap penting (i.e., strategi sama dalam menggabungkan jurnal) ([Moody 2017](https://www.techdirt.com/articles/20170804/05454537924/elsevier-continues-to-build-monopoly-solution-all-aspects-scholarly-communication.shtml); [Posada and Chen 2017](http://knowledgegap.org/index.php/sub-projects/rent-seeking-and-financialization-of-the-academic-publishing-industry/preliminary-findings/); [Schonfeld 2017](http://www.sr.ithaka.org/blog/the-center-for-open-science-alternative-to-elsevier-announces-new-preprint-services-today/)) - hal ini akan menyebabkan ketidakefesiensian, terkurung dan kenaikan harga.
+  * Kurangnya keterampilan dan kesadaran dari praktik terbaik pengetahuan terbuka;
 
-* Pra cetak - kolonisasi oleh kepentingan komersil (contoh, Elsevier mengakuisisi SSRN dalam memimpin kontrol komersil, tanpa memperdulikan hasil akhir penelitian).
+  * Lack of agreement on how Research Data Management (RDM) activities should be funded;
 
-* Secara keseluruhan: dibutuhkan penyelarasan kebijakan agar memeprmudah penyesuaian untuk peneliti. 
+  * Isu lisensi dan kurangnya keadaran tentang mereka;
 
-    * need to avoid license proliferation, with many one-off licences that may not be mutually compatible, and require too much work to interpret. Open source "solved" this with OSI-approved licenses, and MIT/BSD/GPL emerged as most common licenses with clearly understood mutual compatibility. Need equivalent for data licenses (I would propose something closer to CC BY.) 
+  * Kurangnya infrastruktur untuk mendukung RDM penelitian; dan
 
-* Kesenjangan yang terus berlanjut antara sikap positif terhadap sebagian besar aspek keterbukaan & praktik sebenarnya - bagaimana cara mengakhirinya?
+  * Mengabaikan hak penggunaan ulang data, sehingga orang lain melakukan penggunaan ulang yang buruk langsung dari publikasi.
 
-* Resistensi terhadap perubahan: Pada umumnya orang akan menentang perubahan, dan memberikan mereka terlalu banyak pilihan (seperti yang terjadi pada pengetahuan terbuka) dapat menunda mereka tidak berubah sama sekali. Orang cenderung memilih hal-hal yang paling sama dengan apa yang mereka punya atau dengan pilihan mereka (contoh, lihat Dan Ariely’s [TED talk](https://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions) on making decisions). Sangat penting untuk meyakinkan orang bahwa mereka masih bisa melakukan apa yang sedang dilakukan, bahkan jika berpartisipasi dengan pengetahuan terbuka. [This can be seen in the example of the introduction of Linux in Munich, where an attempt to switch completely over to Linux [couldn’t find solutions for all existing software](http://www.zdnet.com/article/after-a-10-year-linux-migration-munich-considers-switching-back-to-windows-and-office/), menghasilkan hak suara dewan untuk beralih kembali ke Windows pada tahun 2020. Kota Barcelona memiliki rencana yang kontras [aiming to introduce Linux](https://itsfoss.com/barcelona-open-source/), dengan rencana memprioritaskan pengguna aplikasi yang sekarang mempunyai solusi sumber terbuka yang juga berlaku untuk  Windows, pada akhirnya meninggalkan kondisi di mana satu-satunya perangkat lunak yang ada untuk diubah adalah sistem operasi.]
+* **Incentives and metrics**
 
-Bagian dari Kebijakan - TBD where/if it fits:
+  * Kurangnya insentif yang sesuai dapat menciptakan ketakutan dari mentalitas dan praktik yang tertanam secara tradisional; misalnya, berbagi data mengurangi daya saing seseorang (contoh, "orang akan menggunakan data saya di jalan yang salah," atau "saya butuh 5 publikasi lagi melalui data ini"").
 
-Seperti yang ada di dokumen ini sebelumnya, pengetahuan terbuka digambarkan dengan "banyak definisi yang bersaing, paralel, atau tumpang tindih ... dalam hal prinsip dan praktik penelitian." Oleh karena itu, pemegang kepentingan, seperti pemerintah, badan pendana publik dan swasta, dan lembag terus menerus mengembangkan berbagai kebijakan untuk menentukan inisiatif pengetahuan terbuka. Kebijakan ini menjangkau berbagai negara, disiplin ilmu, dan komponen ekosistem pengetahuan terbuka. Di bawah ini, kami mengulas beberapa pengembangan kebijakan yang lalu dan sekarang, dikategorikan menjadi top-down dan bottom-up.
+  * Insentif harus berubah untuk memotivasi dan memfasilitasi perubahan budaya.
 
-Kebijakan Top-down menentukan peraturan, regulasi dan pedoman bagi komunitas penelitian ilmiah melalui mekanisme termasuk kebbijakan pemerintah, persyaratan dana, amanat lembaga dan...
+  * Ketergantungan terus-menerus terhadap informasi metrik non-transparan dan tidak dapat direproduksi akan terus mengganggu ilmu pengetahuan.
 
-    * Top-down
+  * Metrik baru harus dirancang untuk menciptakan insentif untuk mempengaruhi perilaku peneliti, lebih disukai berdasarkan keterbukaan.
+  
+* **Big commercial publishers**
 
-        * Governments: Legislation, Directives, etc.
+* Elsevier & Holtzbrinck/Springer Nature (via Digital Science) tampaknya mengembangkan layanan untuk seluruh alur kerja penelitian, dari penemuan hingga pendanaan.
 
-            * Africa
+* Ini merupakan ancaman karena mereka akan mencoba untuk mengikat layanan ini untuk institusi melalui "transaksi besar" - sehingga institusi terkunci dalam menggunakan layanan yang tidak dapat dipindahtangankan untuk beberapa hal agar memiliki akses ke layanan yang mereka anggap penting (yaitu, strategi yang sama digunakan dalam bundling jurnal) ([Moody 2017](https://www.techdirt.com/articles/20170804/05454537924/elsevier-continues-to-build-monopoly-solution-all-aspects-scholarly-communication.shtml); [Posada and Chen 2017](http://knowledgegap.org/index.php/sub-projects/rent-seeking-and-financialization-of-the-academic-publishing-industry/preliminary-findings/); [Schonfeld 2017](http://www.sr.ithaka.org/blog/the-center-for-open-science-alternative-to-elsevier-announces-new-preprint-services-today/))
 
-            * Antarctica
+  * Hal ini pada akhirnya akan menyebabkan inefisiensi baru, penguncian vendor, dan kenaikkan harga yang sama yang kita lihat terkait dengan kontrak lisensi 'kesepakatan besar'.
 
-            * Asia
+  * Mengenai pracetak, ada kolonisasi dari kepentingan komersial (misalnya, Elsevier mengakuisisi SSRN). Ini mengarah pada kontrol komersial yang lebih luas, terlepas dari akhir publikasi.
 
-            * Australia
+* **Resistance to change**:
 
-            * Europe
+  * Peneliti umumnya resisten terhadap perubahan, seperti juga sifat manusia, dan sering didefinisikan sebagai sistem 'inersia budaya' dalam dunia akademis.
+  
+  * Memberi mereka terlalu banyak pilihan, seperti yang lazim dalam praktek Pengetahuan Terbuka, bisa jadi tidak tepat, dan tidak menyebabkan perubahan dari kebiasaan tradisional.
 
-                * EU Horizon 2020 is one of the most notable government initiatives involving Open Scholarship policies. For example, the Responsible Research and Innovation (RRI) component of the Work Programme "Science with and for Society" makes open education, research, and access explicit targets of EU policy. 
+  * Orang cenderung memilih hal-hal yang paling mirip dengan apa yang sudah mereka miliki, atau hal-hal yang paling mirip dengan pilihan lain yang mereka miliki (e.g. see Dan Ariely's [TED talk](https://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions) on making decisions).
 
-                * EU Statement on Making All Research Open by 2020; Horizon 2020; 
+  * Sangat penting jika setiap orang masih melakukan apa yang sebenarnya mereka lakukan, bahkan jika mereka berpartisipasi pada Pengetahuan terbuka. Bersama [Weller, 2014](https://doi.org/10.5334/bam), [Veletsianos and Kimmons, 2016](https://doi.org/10.19173/irrodl.v13i4.1313) dan [McKiernan, 2017](https://doi.org/10.1371/journal.pbio.1002614), kami melihat inklusivitas sebagai ciri penting dari gerakan sosial yaitu Pengetahuan Terbuka. Sementara apa yang kami jelaskan di sini secara ideal dapat mencakup semua praktik yang disebutkan sebelumnya, keterlibatan dalam praktik ilmu pengetahuan terbuka dapat dianggap sebagai terjadi dalam spektrum praktik yang masing-masing harus bernegosiasi.
 
-            * North America
-
-                * USA (perhaps break down federal vs. state)
-
-                    * FASTR Act; OPEN Government Data Act; Federal Source Code Policy ([https://sourcecode.cio.gov](https://sourcecode.cio.gov/)); Affordable College Textbook Act; U.S. National Cancer Moonshot Initiative; Dept of Ed Open Licensing Rule; Executive Directive on Public Access; California Taxpayer Access to Publicly Funded Research Act; Illinois Open Access to Articles Act
-
-            * South America
-
-        * Funders 
-
-            * *[Open Research Funders Grou*p](http://www.orfg.org)
-
-            * Public
-
-                * US NIH Public Access Policy;
-
-            * Private
-
-                * Bill and Melinda Gates Foundation
-
-                * The Wellcome Trust ([https://wellcome.ac.uk/news/our-new-policy-sharing-research-data-what-it-means-you](https://wellcome.ac.uk/news/our-new-policy-sharing-research-data-what-it-means-you))
-
-        * Industry
-
-        * Institutions
-
-        * Subject policies (?)
-
-        * Resources:
-
-            * [Registry of Open Access Repository Mandates and Policies (ROARMAP)](http://roarmap.eprints.org/)
-
-            * [SHERPA/JULIET](http://www.sherpa.ac.uk/juliet/index.php?la=en&mode=simple&page=browse)
-
-            * [SPARC Article and Data Sharing Policies](http://researchsharing.sparcopen.org/)
-
-Satu isu dari kebijakan top-down adalah badan seperti pemerintah dan pendana menuntut peneliti untuk mematuhi aturan tentang berbagi data, kode terbuka, dan yang sama, namun jangan selalu memberikan sumber atau kerangka yang terpaksa bagi yang selalu patuh.
-
-Kebijakan Bottom-up menjalin kebersamaan dalam menjalankan praktik terbaik dari komunitas penelitian ilmiah yang ada dan, jika dibandingkan dengan pendekatan top-down, lebih sering bersifat sukarela daripada wajib. 
-
-        * Open source/science projects
-
-        * Community efforts/community (citizen) science
-
-    * (Mis)alignment between top-down and bottom-up approaches
-
-	Evaluating the degree of alignment between top-down and bottom-up policies might help to illustrate how both approaches can better accommodate and promote Open Scholarship. 
-
-**Konflik Kepentingan**
-
-JPT adalah penemu Open Science MOOC dan platfrom penerbitan digital, paleorXiv.
-
-TJK is DIrektur komunikasi di Oxford PharmaGenesis.
-
+  * *Therefore, future communication efforts must focus on Open practices as not being completely new, but simply more efficient and more rewarding versions of current practices.*
