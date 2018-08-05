@@ -640,7 +640,7 @@ Berdasarkan pengakuan bahwa dampak sosial yang sesungguhnya membutuhkan keterlib
 
 Much of this relates to the changing role of a researcher within a modern, digital society, and distils down to two main aspects:
 
-1. The influence that the wider public can have on the intrinsic research process; and
+1. Pengaruh masyarakat luas pada proses penelitian intrinsik; dan
 
 2. The understanding of that research by a wider non-specialist audiences, including effective ways of communicating research.
 
