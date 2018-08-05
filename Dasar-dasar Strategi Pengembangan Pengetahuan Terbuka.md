@@ -738,7 +738,6 @@ Bagian strategi ni akan menggambarkan beberapa kekuatan gerakan atau komunitas P
 
     * Keberhasilan signifikan dalam pengetahuan terbuka sering dikaitkan dengan para pejuang yang tekun dan gigih, terutama di arena kebijakan dan advokasi / adopsi. Individu-individu ini menunjukkan kemampuan yang luar biasa untuk mencapai perubahan substansial, dan menciptakan pengaruh kuat, hampir sendirian. Sebagai aset bagi gerakan, mereka menjadi sangat penting ketika pengalaman dan pengetahuan mereka dapat dibagi dan dikalikan, melalui kolaborasi, jaringan dan komunitas, serta model bimbingan.
 
-* Gerakan serentak seperti akses terbuka, pengetahuan terbuka, data terbuka, perangkat keras terbuka, perangkat lunak sumber terbuka, dll. Berdasarkan prinsip yang serupa
 
 * **Kekuatan penelitian dan bukti mendukung praktik pengetahuan terbuka** 
 
@@ -758,30 +757,34 @@ Bagian strategi ni akan menggambarkan beberapa kekuatan gerakan atau komunitas P
 
 * **Dorongan yang kuat untuk mengembangkan model kebijakan** 
 
-Dinamis, luas dan perpaduan atas-bawah (inisiatif kebijakan dari pendana, pemerintah, lembaga) dan pendekatan dari bawah (akar rumput). Tetap penting bahwa agenda untuk pengetahuan terbuka tetap diakui di tingkat politik tertinggi. Komite Ilmu Pengetahuan dan Teknologi Inggris dalam hal integritas penelitian adalah contoh yang sangat baik dari ini (catatan:  Research integrity examined with experts and academics (https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/news-parliament-2017/research-integrity3-evidence-17-19/ - accessed December, 2017).). 
+Dinamis, luas dan perpaduan atas-bawah (inisiatif kebijakan dari pendana, pemerintah, lembaga) dan pendekatan dari bawah (akar rumput). Tetap penting bahwa agenda untuk pengetahuan terbuka tetap diakui di tingkat politik tertinggi. Komite Ilmu Pengetahuan dan Teknologi Inggris dalam hal integritas penelitian adalah contoh yang sangat baik dari ini [Committee into research integrity](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/news-parliament-2017/research-integrity3-evidence-17-19/). 
 
-* Keragaman tujuan memungkinkan kemajuan di banyak barisan secara bersamaan.
+One issue with top-down policies is that bodies such as governments and funders demand researchers to comply with rules about data sharing, open code, and the like, yet do not always provide the resources or structures necessary for compliant behaviour. Bottom-up policies weave together best-practices from existing scientific research communities and, compared to top-down approaches, are more often voluntary than mandatory. Evaluating the degree of alignment between top-down and bottom-up policies might help to illustrate how both approaches can better accommodate and promote Open Scholarship.
 
-* Bahasa umum  (bahasa Inggris, biasa) untuk memudahkan pemahaman (walaupun begitu, lihat di bawah untuk tahu mengapa hal ini juga menjadi tantangan).
+* **Keragaman tujuan memungkinkan kemajuan di banyak barisan secara bersamaan.**
 
-* Keragaman geografis dan inisiatif kesuksesan (contohnya, SciELO di Amerika Latin).
+* Sebagai contoh, [Scientific Electronic Library Online](http://www.scielo.org/php/index.php?lang=en) (SciELO) telah terbukti berhasil di negara Amerika Latin, Portugal, and Afrika Selatan. Demikian pula, [Africa Journals Online](https://www.ajol.info/) (AJOL) yang sangat terkenal di Afrika.
 
-    * Pengetahuan terbuka telah diakui oleh organisasi-organisasi internasional utama yang aktif dalam penelitian dan pendidikan, dan mendapat dukungan kuat dari institut di seluruh dunia.
+* Pengetahuan Terbuka  telah diakui oleh organisasi internasional yang aktif dalam penelitian dan pendidikan, dan mendapat dukungan kuat dari lembaga di seluruh dunia.
 
-* Uptake (albeit spotty) from influential research institutions.
+* Pengetahuan Terbuka cenderung menggunakan Bahasa umum  (bahasa Inggris) untuk memudahkan pemahaman (walaupun begitu, lihat di bawah untuk tahu mengapa hal ini juga menjadi tantangan).
 
-* Meningkatkan hubungan dengan gerakan terbuka.
+8 **Aksesibilitas, ramah pengguna, dan diseminasi**
 
-    * Aktifisme pengetahuan terbuka sebagai bagian dari gerakan terbuka yang lebih luas diuntungkan dari kolaborasi silang dengan pendukung data terbuka, akses terbuka, pendidikan terbuka, pemerintahan terbuka, sumber terbuka, dan budaya terbuka. COntohnya, sekarang pengetahuan terbuka dilihat sebagai pintu gerbang pendidikan terbuka, tapi memiliki kebijakan yang perkuat oleh berbagai pengalaman dari gerakan sumber terbuka.
+* Gerakan Pengetahuan Terbuka menerbitkan artikel dan sumber daya yang biasanya gratis, terindeks dengan baik oleh Google dan mesin pencari lainnya, mudah dibaca di perangkat seluler, dan cepat menggunakan grafik dan multimedia untuk mengilustrasikan poin. Hal ini ini membantu gerakan Pengetahuan Terbuka menyebarluaskan gagasannya secara lebih luas dan cepat daripada yang dapat dicapai dengan metode publikasi tradisional.
 
-# 7. Tantangan Gerakan Movement Challenges
+* Praktik seperti penggunaan platform pemformatan teks, penyediaan struktur dokumen yang dibentuk dengan baik melalui judul yang diberi label dengan jelas, paragraf, dll., Dan penugasan teks alt-texts untuk gambar dan informasi deskriptif untuk grafik, video, dll. tidak hanya membantu membuat informasi yang dapat dibaca oleh mesin dalam penyebaran informasi, tetapi juga membuat informasi ini dapat diakses oleh orang-orang dengan kebutuhan akses ( lihat misalnya pedoman aksesibilitas dasar yang disediakan oleh [UK Home Office Digital] (https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf)) .
+
+# 7. Tantangan Gerakan  <a name="Challenges"></a>
 
 Tantangan-tantangan ini mewakili titik fokus potensial dari diskusi di masa depan, penelitian, dan pengembangan kebijakan. Tantangan ini mencakup kondisi eksternal dalam ekosistem penelitian yang lebih besar, dan kondisi internal yang ada dalam gerakan pengetahuan terbuka. Tidak semua tantangan sama, atau hadir dalam setiap konteks atau komunitas . Namun, hal ini sering didiskusikan tentang strategi pengetahuan terbuka dan harus disoroti di sini. 
 
-## 7.1 Kondisi Eksternal 
+## 7.1 Kondisi Eksternal <a name="External"></a>
  
+* **Rekonsiliasi kepentingan pribadi**
 
-* Rekonsiliasi kepentingan pribadi
+Saat ini ada sedikit konsensus mengenai apakah masa depan Pengetahuan Terbuka harus murni dimiliki oleh entitas nirlaba yang diatur oleh komunitas ilmiah global (termasuk amal dan LSM), atau apakah ada ruang untuk kepentingan pribadi atau perusahaan. Sangat mungkin bahwa masa depan akan menjadi model campuran yang menggabungkan semua jenis aktor, meskipun posisi relatif, kekuasaan, dan status ini masih harus dilihat. Diskusi lebih lanjut diperlukan di sini untuk mengatasi inersia yang menyebar di mana model bisnis saat ini terkait. Ini termasuk:
+There is currently little consensus over whether the future of Open Scholarship should be purely owned by non-profit entities governed by the global scholarly community (including charities and NGOs), or whether there is a space for private or corporate interests. It is likely that the future will be a mixed model combining all actor types, although the relative position, power, and status of these remains to be seen. Further discussion is needed here to overcome the widespread inertia where current business models are concerned. This includes:
 
 * Agenda politik 
 
